@@ -1,1 +1,0 @@
-# crichd-speical-live-event
