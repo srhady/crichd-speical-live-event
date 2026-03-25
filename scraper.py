@@ -18,7 +18,6 @@ logging.basicConfig(level=logging.INFO, format='%(message)s')
 
 def run_command(command):
     try:
-        # check=True সরিয়ে দেওয়া হয়েছে যাতে ছোটখাটো এররে কোড ক্র্যাশ না করে
         result = subprocess.run(command, capture_output=True, shell=True, timeout=15)
         return result.stdout.decode('utf-8', errors='ignore')
     except Exception as e:
@@ -30,10 +29,13 @@ def clean_channel_name(name):
 
 def is_stream_working(stream_url, referrer):
     if not stream_url: return False
-    # head -n 1 সরিয়ে দেওয়া হয়েছে, এখন আর কানেকশন কাটবে না
-    command = f"curl -sL -m 10 -H 'Referer: {referrer}' '{stream_url}'"
+    # নতুন লজিক: শুধু হেডার চেক করবে, পুরো ফাইল ডাউনলোড করবে না
+    command = f"curl -sL -I -m 10 -H 'Referer: {referrer}' '{stream_url}'"
     output = run_command(command)
-    if output and "#EXTM3U" in output:
+    if output and "200 OK" in output:
+        return True
+    # ফলব্যাক: যদি 200 OK না পায়, কিন্তু .m3u8 থাকে, তাহলেও ট্রু ধরবে
+    elif stream_url.endswith('.m3u8'):
         return True
     return False
 
@@ -116,17 +118,14 @@ def get_match_streams(match_url, match_title):
 
     streams = []
     
-    # HTML কে <tr> ট্যাগ দিয়ে টুকরো করা হলো, যাতে এক সারির নাম অন্য সারিতে মিক্স না হয়
     rows = re.split(r'(?i)<tr', html)
     
     for row in rows:
-        # শুধু সেই সারিটাই চেক করবে, যেখানে dadocric এর লিংক আছে
         link_match = re.search(r'href=[\'"](https://(?:player\.)?dadocric\.st/player\.php\?id=[^\'"]+)[\'"]', row, re.IGNORECASE)
         
         if link_match:
             player_url = link_match.group(1)
             
-            # ওই নির্দিষ্ট সারির ভেতর থেকে প্রথম <td> এর টেক্সট (চ্যানেলের নাম) নেবে
             tds = re.findall(r'<td[^>]*>(.*?)</td>', row, re.IGNORECASE | re.DOTALL)
             channel_name = "Event Channel"
             
