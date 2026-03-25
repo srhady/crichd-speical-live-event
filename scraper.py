@@ -27,18 +27,6 @@ def clean_channel_name(name):
     name = re.sub(r'(\s*Live Stream(ing)?|\s*-\s*CricHD|\s*US\s*-|\s*-\s*Free|\s*Watch|\s*HD|\s*-\s*PSL T20 On|\s*Play\s*-\s*01)', '', name, flags=re.IGNORECASE)
     return " ".join(name.split())
 
-def is_stream_working(stream_url, referrer):
-    if not stream_url: return False
-    # নতুন লজিক: শুধু হেডার চেক করবে, পুরো ফাইল ডাউনলোড করবে না
-    command = f"curl -sL -I -m 10 -H 'Referer: {referrer}' '{stream_url}'"
-    output = run_command(command)
-    if output and "200 OK" in output:
-        return True
-    # ফলব্যাক: যদি 200 OK না পায়, কিন্তু .m3u8 থাকে, তাহলেও ট্রু ধরবে
-    elif stream_url.endswith('.m3u8'):
-        return True
-    return False
-
 # --- ১. হোমপেজ থেকে লাইভ ম্যাচ খোঁজার ফাংশন ---
 def get_live_matches():
     logging.info(f"\n[*] হোমপেজ থেকে লাইভ ম্যাচ স্ক্যান করা হচ্ছে...")
@@ -144,7 +132,7 @@ def get_match_streams(match_url, match_title):
                 logging.info(f"     ❌ লিংক উদ্ধারে ব্যর্থ।")
                 
     if not streams:
-        logging.info("   [-] এই ম্যাচে কোনো কাজ করা লিংক পাওয়া যায়নি।")
+        logging.info("   [-] এই ম্যাচে কোনো লিংক পাওয়া যায়নি।")
         
     return streams
 
@@ -157,14 +145,14 @@ if __name__ == "__main__":
     for match_url, match_title in live_matches:
         channels = get_match_streams(match_url, match_title)
         
+        # কোনো ডাবল চেকিং ছাড়াই সরাসরি সেভ করে দিচ্ছে
         for ch_name, stream_url in channels:
-            if is_stream_working(stream_url, "https://player0003.com/"):
-                all_channels.append({
-                    'match_name': match_title,
-                    'channel_name': ch_name,
-                    'url': stream_url,
-                    'referrer': "https://player0003.com/"
-                })
+            all_channels.append({
+                'match_name': match_title,
+                'channel_name': ch_name,
+                'url': stream_url,
+                'referrer': "https://player0003.com/"
+            })
         time.sleep(1)
         
     total_channels = len(all_channels)
