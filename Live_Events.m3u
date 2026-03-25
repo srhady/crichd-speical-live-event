@@ -1,6 +1,26 @@
 #EXTM3U x-tvg-url="https://github.com/epgshare01/share/raw/master/epg_ripper_ALL_SOURCES1.xml.gz"
 #"name": "Live Sports Events Auto Update"
 #"telegram": "https://t.me/livesportsplay"
-#"last updated": "2026-03-25 12:54:39 PM (BD Time)"
-# Total Active Links: 0
+#"last updated": "2026-03-25 01:04:01 PM (BD Time)"
+# Total Active Links: 4
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=Legends+League+Cricket&font=Oswald" group-title="Legends League Cricket", Legends League Cricket - Channel Name
+#EXTVLCOPT:http-referrer=https://player0003.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://jan.bhalocast.com:7059/hls/ten1co.m3u8?md5=0GjP940u_0sKXEBkiC1_7w&expires=1774427032&ch=ten1co&s=3d8a906dbde081381a4290ef97078d52
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=Legends+League+Cricket&font=Oswald" group-title="Legends League Cricket", Legends League Cricket - Sony Sports Ten 3
+#EXTVLCOPT:http-referrer=https://player0003.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://jan.bhalocast.com:7059/hls/ten3sd.m3u8?md5=90lS_-0slBPEmzaXQIYwCQ&expires=1774427033&ch=ten3sd&s=db004233f601d90529f82bfe4d456e53
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=New+Zealand+vs+South+Africa&font=Oswald" group-title="New Zealand vs South Africa", New Zealand vs South Africa - Channel Name
+#EXTVLCOPT:http-referrer=https://player0003.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://jan.bhalocast.com:7059/hls/ten1co.m3u8?md5=pmBElBRJnaLbtVuRztfX9g&expires=1774427036&ch=ten1co&s=400a573568f5649f2bce450c42b1c0f7
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=New+Zealand+vs+South+Africa&font=Oswald" group-title="New Zealand vs South Africa", New Zealand vs South Africa - CricLife 1
+#EXTVLCOPT:http-referrer=https://player0003.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://jan.bhalocast.com:7059/hls/criclife1.m3u8?md5=im3Wu1J--PJ7vuyxDmfwZw&expires=1774427037&ch=criclife1&s=91f8851975bc65b3af88828af28d79fb
 
