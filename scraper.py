@@ -18,9 +18,10 @@ logging.basicConfig(level=logging.INFO, format='%(message)s')
 
 def run_command(command):
     try:
-        result = subprocess.run(command, capture_output=True, shell=True, check=True, timeout=20)
+        # check=True সরিয়ে দেওয়া হয়েছে যাতে ছোটখাটো এররে কোড ক্র্যাশ না করে
+        result = subprocess.run(command, capture_output=True, shell=True, timeout=15)
         return result.stdout.decode('utf-8', errors='ignore')
-    except Exception:
+    except Exception as e:
         return None
 
 def clean_channel_name(name):
@@ -29,7 +30,8 @@ def clean_channel_name(name):
 
 def is_stream_working(stream_url, referrer):
     if not stream_url: return False
-    command = f"curl -L -H 'Referer: {referrer}' --max-time 5 -s '{stream_url}' | head -n 1"
+    # head -n 1 সরিয়ে দেওয়া হয়েছে, এখন আর কানেকশন কাটবে না
+    command = f"curl -sL -m 10 -H 'Referer: {referrer}' '{stream_url}'"
     output = run_command(command)
     if output and "#EXTM3U" in output:
         return True
@@ -44,7 +46,6 @@ def get_live_matches():
     matches = []
     seen = set()
     
-    # নতুন লজিক: সরাসরি h2 ট্যাগ এবং url টার্গেট করা
     pattern = r'<a\s+href=[\'"](https://crichd\.com\.co/[^\'"]+)[\'"][^>]*itemprop=[\'"]url[\'"]>\s*<h2[^>]*>(.*?)</h2>'
     found_matches = re.findall(pattern, html, re.IGNORECASE | re.DOTALL)
     
@@ -115,28 +116,37 @@ def get_match_streams(match_url, match_title):
 
     streams = []
     
-    # নতুন লজিক: ভাঙাচোরা টেবিল (Broken HTML) ইগনোর করে ডিরেক্ট লিংক এবং নাম চুরি
-    pattern = r'<td>(.*?)</td>\s*<td>.*?</td>\s*<td>\s*<a[^>]+href=[\'"](https://(?:player\.)?dadocric\.st/player\.php\?id=[^\'"]+)[\'"]'
-    found_channels = re.findall(pattern, html, re.IGNORECASE | re.DOTALL)
+    # HTML কে <tr> ট্যাগ দিয়ে টুকরো করা হলো, যাতে এক সারির নাম অন্য সারিতে মিক্স না হয়
+    rows = re.split(r'(?i)<tr', html)
     
-    if not found_channels:
-        logging.info("   [-] এই ম্যাচে কোনো dadocric চ্যানেল পাওয়া যায়নি।")
-        return streams
+    for row in rows:
+        # শুধু সেই সারিটাই চেক করবে, যেখানে dadocric এর লিংক আছে
+        link_match = re.search(r'href=[\'"](https://(?:player\.)?dadocric\.st/player\.php\?id=[^\'"]+)[\'"]', row, re.IGNORECASE)
         
-    for raw_name, player_url in found_channels:
-        channel_name = re.sub(r'<[^>]+>', '', raw_name).strip()
-        if not channel_name:
+        if link_match:
+            player_url = link_match.group(1)
+            
+            # ওই নির্দিষ্ট সারির ভেতর থেকে প্রথম <td> এর টেক্সট (চ্যানেলের নাম) নেবে
+            tds = re.findall(r'<td[^>]*>(.*?)</td>', row, re.IGNORECASE | re.DOTALL)
             channel_name = "Event Channel"
             
-        logging.info(f"   - চ্যানেল পাওয়া গেছে: {channel_name}, টোকেন ডিক্রিপ্ট করা হচ্ছে...")
-        stream_link = extract_bhalocast_m3u8(player_url)
-        
-        if stream_link:
-            logging.info(f"     ✅ লিংক সফলভাবে উদ্ধার হয়েছে!")
-            streams.append((channel_name, stream_link))
-        else:
-            logging.info(f"     ❌ লিংক উদ্ধারে ব্যর্থ।")
+            if tds:
+                clean_name = re.sub(r'<[^>]+>', '', tds[0]).strip()
+                if clean_name and "Channel Name" not in clean_name:
+                    channel_name = clean_name
+                    
+            logging.info(f"   - চ্যানেল পাওয়া গেছে: {channel_name}, টোকেন ডিক্রিপ্ট করা হচ্ছে...")
+            stream_link = extract_bhalocast_m3u8(player_url)
+            
+            if stream_link:
+                logging.info(f"     ✅ লিংক সফলভাবে উদ্ধার হয়েছে!")
+                streams.append((channel_name, stream_link))
+            else:
+                logging.info(f"     ❌ লিংক উদ্ধারে ব্যর্থ।")
                 
+    if not streams:
+        logging.info("   [-] এই ম্যাচে কোনো কাজ করা লিংক পাওয়া যায়নি।")
+        
     return streams
 
 # --- Main Execution ---
@@ -156,7 +166,7 @@ if __name__ == "__main__":
                     'url': stream_url,
                     'referrer': "https://player0003.com/"
                 })
-        time.sleep(1) # সার্ভার যেন ব্লক না মারে তাই ১ সেকেন্ড ব্রেক
+        time.sleep(1)
         
     total_channels = len(all_channels)
     
