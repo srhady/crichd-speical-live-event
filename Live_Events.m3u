@@ -1,12 +1,27 @@
 #EXTM3U
-#"name": "Live Sports Events Auto Update"
+#"name": "Live Sports Events"
 #"owner": "Md Sohanur Rahman Hady"
 #"telegram": "https://t.me/livesportsplay"
-#"last updated": "2026-03-25 03:43:40 PM (BD Time)"
-# Total Active Links: 1
+#"last updated": "2026-03-25 03:58:23 PM (BD Time)"
+# Total Active Links: 4
 
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=New+Zealand+vs+South+Africa&font=Oswald" group-title="Live Events", New Zealand vs South Africa
-#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=Legends+League+Cricket&font=Oswald" group-title="Legends League Cricket", Legends League Cricket - Sony Sports Ten 1
+#EXTVLCOPT:http-referrer=https://player0003.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://n8.sanwalyaarpya.com:1686/hls/bbtsp1.m3u8?md5=WHMKT9jzU2HghVA1OZ-Waw&expires=1774439018
+https://jan.bhalocast.com:7059/hls/ten1co.m3u8?md5=M9FE4tkHtM-DbmAduORGeg&expires=1774437491&ch=ten1co&s=ff563698d84f0034abd181c6710563aa
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=Legends+League+Cricket&font=Oswald" group-title="Legends League Cricket", Legends League Cricket - Sony Sports Ten 3
+#EXTVLCOPT:http-referrer=https://player0003.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://jan.bhalocast.com:7059/hls/ten3sd.m3u8?md5=ogHe4TQZ-eqed7LpMb2VRQ&expires=1774437493&ch=ten3sd&s=2252781f5f7237f8a742a01b2a8a1ba9
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=New+Zealand+vs+South+Africa&font=Oswald" group-title="New Zealand vs South Africa", New Zealand vs South Africa - Sony Sports Ten 1
+#EXTVLCOPT:http-referrer=https://player0003.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://jan.bhalocast.com:7059/hls/ten1co.m3u8?md5=VVxEKXZLiYIuvWYkIzFm7A&expires=1774437496&ch=ten1co&s=185f8820a7a20ce06edbdf0fc660313f
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=New+Zealand+vs+South+Africa&font=Oswald" group-title="New Zealand vs South Africa", New Zealand vs South Africa - CricLife 1
+#EXTVLCOPT:http-referrer=https://player0003.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://jan.bhalocast.com:7059/hls/criclife1.m3u8?md5=6ZUe3lJtEsPUbPte4VNJfA&expires=1774437498&ch=criclife1&s=47a41c01608a283e4e863ccbec4b483b
 
