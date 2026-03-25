@@ -18,14 +18,24 @@ logging.basicConfig(level=logging.INFO, format='%(message)s')
 
 def run_command(command):
     try:
-        result = subprocess.run(command, capture_output=True, shell=True, timeout=15)
+        result = subprocess.run(command, capture_output=True, shell=True, timeout=10)
         return result.stdout.decode('utf-8', errors='ignore')
-    except Exception as e:
+    except Exception:
         return None
 
 def clean_channel_name(name):
     name = re.sub(r'(\s*Live Stream(ing)?|\s*-\s*CricHD|\s*US\s*-|\s*-\s*Free|\s*Watch|\s*HD|\s*-\s*PSL T20 On|\s*Play\s*-\s*01)', '', name, flags=re.IGNORECASE)
     return " ".join(name.split())
+
+# --- ডাবল চেকিং ফাংশন (পুরো .m3u8 ফাইল ফেচ করে কনফার্ম হবে) ---
+def is_stream_working(stream_url, referrer):
+    if not stream_url: return False
+    # -m 5 মানে ৫ সেকেন্ডের মধ্যে রেসপন্স না পেলে বাদ
+    command = f"curl -sL -m 5 -H 'Referer: {referrer}' '{stream_url}'"
+    output = run_command(command)
+    if output and "#EXTM3U" in output:
+        return True
+    return False
 
 # --- ১. হোমপেজ থেকে লাইভ ম্যাচ খোঁজার ফাংশন ---
 def get_live_matches():
@@ -50,7 +60,7 @@ def get_live_matches():
     logging.info(f"[+] মোট {len(matches)} টি লাইভ ইভেন্ট পাওয়া গেছে!")
     return matches
 
-# --- ৩. টোকেন চুরি করে আসল m3u8 লিংক বের করার ফাংশন ---
+# --- ৩. টোকেন ও সঠিক ডোমেইন হান্টার ফাংশন ---
 def extract_bhalocast_m3u8(player_url):
     try:
         player_id = player_url.split("id=")[1].split("&")[0]
@@ -59,25 +69,17 @@ def extract_bhalocast_m3u8(player_url):
         embed_page_content = run_command(f"curl -sL '{playerado_url}'")
         if not embed_page_content: return None
 
-        fid_match = re.search(r'fid\s*=\s*\"([^\"]+)\"', embed_page_content)
-        v_con_match = re.search(r'v_con\s*=\s*\"([^\"]+)\"', embed_page_content)
-        v_dt_match = re.search(r'v_dt\s*=\s*\"([^\"]+)\"', embed_page_content)
-        if not (fid_match and v_con_match and v_dt_match): return None
-        fid, v_con, v_dt = fid_match.group(1), v_con_match.group(1), v_dt_match.group(1)
+        fid = re.search(r'fid\s*=\s*\"([^\"]+)\"', embed_page_content).group(1)
+        v_con = re.search(r'v_con\s*=\s*\"([^\"]+)\"', embed_page_content).group(1)
+        v_dt = re.search(r'v_dt\s*=\s*\"([^\"]+)\"', embed_page_content).group(1)
 
         atplay_url = f"https://player0003.com/atplay.php?v={fid}&hello={v_con}&expires={v_dt}"
         atplay_page_content = run_command(f"curl -siL --user-agent \"Mozilla/5.0\" --referer \"https://playerado.top/\" '{atplay_url}'")
         if not atplay_page_content: return None
 
-        func_name_match = re.search(r'player\.load\({source: (\w+)\(\),', atplay_page_content)
-        if not func_name_match: return None
-        func_name = func_name_match.group(1)
+        func_name = re.search(r'player\.load\({source: (\w+)\(\),', atplay_page_content).group(1)
+        func_body = re.search(r'function\s+' + func_name + r'\s*\(\)\s*{(.*?)}', atplay_page_content, re.DOTALL).group(1)
 
-        func_def_match = re.search(r'function\s+' + func_name + r'\s*\(\)\s*{(.*?)}', atplay_page_content, re.DOTALL)
-        if not func_def_match: return None
-        func_body = func_def_match.group(1)
-
-        base_url_var = re.search(r'var url = (\w+);', func_body).group(1)
         md5_var = re.search(r'url \+= "\?md5="\s*\+\s*(\w+);', func_body).group(1)
         expires_var = re.search(r'url \+= "&expires="\s*\+\s*(\w+);', func_body).group(1)
         s_var = re.search(r'url \+= "&s="\s*\+\s*(\w+);', func_body).group(1)
@@ -86,16 +88,56 @@ def extract_bhalocast_m3u8(player_url):
         expires = re.search(r'var ' + expires_var + r'\s*=\s*\"(.*?)\"', atplay_page_content).group(1)
         s_val = re.search(r'var ' + s_var + r'\s*=\s*\"(.*?)\"', atplay_page_content).group(1)
 
-        constructor_string = re.search(r'var ' + base_url_var + r'\s*=\s*(.*?);', atplay_page_content).group(1)
-        real_base_url_var = constructor_string.split('+')[0].strip()
+        base_urls = []
         
-        base_url_str_with_plus = re.search(r"var " + real_base_url_var + r" = (.*?);", atplay_page_content).group(1)
-        js_string_parts = re.findall(r"'(.*?)'", base_url_str_with_plus)
-        base_url = "".join(js_string_parts)
+        # পদ্ধতি ১: ভেরিয়েবল থেকে ডোমেইন খোঁজা (সিঙ্গেল এবং ডাবল কোটেশন সাপোর্ট সহ)
+        try:
+            base_url_var = re.search(r'var url = (\w+);', func_body).group(1)
+            constructor_string = re.search(r'var ' + base_url_var + r'\s*=\s*(.*?);', atplay_page_content).group(1)
+            real_base_url_var = constructor_string.split('+')[0].strip()
+            base_url_str_with_plus = re.search(r"var " + real_base_url_var + r" = (.*?);", atplay_page_content).group(1)
+            js_string_parts = re.findall(r"['\"](.*?)['\"]", base_url_str_with_plus)
+            parsed_base = "".join(js_string_parts)
+            if parsed_base.startswith("http"): base_urls.append(parsed_base)
+        except:
+            pass
+            
+        # পদ্ধতি ২: পেজের ভেতর লুকানো সব ডোমেইন ডিরেক্ট খুঁজে বের করা
+        direct_domains = re.findall(r"['\"](https://[a-zA-Z0-9.-]+:\d+)['\"]", atplay_page_content)
+        base_urls.extend(direct_domains)
         
+        # পদ্ধতি ৩: হোস্টনেম জোড়া লাগানো
+        hosts = re.findall(r"['\"]([a-zA-Z0-9.-]+\.bhalocast\.[a-zA-Z0-9.-]+)['\"]", atplay_page_content)
+        for h in hosts:
+            base_urls.append(f"https://{h}:7059")
+            
+        # ফলব্যাক ডোমেইন (Backup servers)
+        base_urls.extend([
+            "https://dz1.bhalocast.pro:7059",
+            "https://jan.bhalocast.com:7059",
+            "https://kick.bhalocast.com:7059"
+        ])
+
+        # ডুপ্লিকেট ডোমেইন বাদ দেওয়া
+        unique_bases = []
+        for b in base_urls:
+            if b not in unique_bases and b.startswith("http"):
+                unique_bases.append(b)
+
         stream_path = f"/hls/{fid}.m3u8"
-        return f"{base_url}{stream_path}?md5={md5}&expires={expires}&ch={fid}&s={s_val}"
-    except Exception:
+        
+        # ম্যাজিক লজিক: প্রত্যেকটা ডোমেইন টেস্ট করবে, যেটায় কাজ করবে সেটাই ফাইনাল!
+        valid_stream_link = None
+        for base in unique_bases:
+            test_url = f"{base}{stream_path}?md5={md5}&expires={expires}&ch={fid}&s={s_val}"
+            logging.info(f"     ~ ডোমেইন টেস্ট হচ্ছে: {base}")
+            
+            if is_stream_working(test_url, "https://player0003.com/"):
+                valid_stream_link = test_url
+                break
+                
+        return valid_stream_link
+    except Exception as e:
         return None
 
 # --- ২. ম্যাচের ভেতরে ঢুকে চ্যানেল স্ক্যান করার ফাংশন ---
@@ -105,15 +147,12 @@ def get_match_streams(match_url, match_title):
     if not html: return []
 
     streams = []
-    
     rows = re.split(r'(?i)<tr', html)
     
     for row in rows:
         link_match = re.search(r'href=[\'"](https://(?:player\.)?dadocric\.st/player\.php\?id=[^\'"]+)[\'"]', row, re.IGNORECASE)
-        
         if link_match:
             player_url = link_match.group(1)
-            
             tds = re.findall(r'<td[^>]*>(.*?)</td>', row, re.IGNORECASE | re.DOTALL)
             channel_name = "Event Channel"
             
@@ -122,30 +161,27 @@ def get_match_streams(match_url, match_title):
                 if clean_name and "Channel Name" not in clean_name:
                     channel_name = clean_name
                     
-            logging.info(f"   - চ্যানেল পাওয়া গেছে: {channel_name}, টোকেন ডিক্রিপ্ট করা হচ্ছে...")
+            logging.info(f"   - চ্যানেল পাওয়া গেছে: {channel_name}, টোকেন ও ডোমেইন খোঁজা হচ্ছে...")
             stream_link = extract_bhalocast_m3u8(player_url)
             
             if stream_link:
-                logging.info(f"     ✅ লিংক সফলভাবে উদ্ধার হয়েছে!")
+                logging.info(f"     ✅ পারফেক্ট লিংক পাওয়া গেছে!")
                 streams.append((channel_name, stream_link))
             else:
-                logging.info(f"     ❌ লিংক উদ্ধারে ব্যর্থ।")
+                logging.info(f"     ❌ কোনো ডোমেইনই কাজ করলো না।")
                 
     if not streams:
-        logging.info("   [-] এই ম্যাচে কোনো লিংক পাওয়া যায়নি।")
+        logging.info("   [-] এই ম্যাচে কোনো কাজ করা লিংক পাওয়া যায়নি।")
         
     return streams
 
 # --- Main Execution ---
 if __name__ == "__main__":
     all_channels = []
-    
     live_matches = get_live_matches()
     
     for match_url, match_title in live_matches:
         channels = get_match_streams(match_url, match_title)
-        
-        # কোনো ডাবল চেকিং ছাড়াই সরাসরি সেভ করে দিচ্ছে
         for ch_name, stream_url in channels:
             all_channels.append({
                 'match_name': match_title,
