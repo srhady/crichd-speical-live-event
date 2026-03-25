@@ -1,26 +1,36 @@
 #EXTM3U x-tvg-url="https://github.com/epgshare01/share/raw/master/epg_ripper_ALL_SOURCES1.xml.gz"
 #"name": "Live Sports Events Auto Update"
 #"telegram": "https://t.me/livesportsplay"
-#"last updated": "2026-03-25 01:37:53 PM (BD Time)"
-# Total Active Links: 4
+#"last updated": "2026-03-25 01:44:36 PM (BD Time)"
+# Total Active Links: 6
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=Legends+League+Cricket&font=Oswald" group-title="Legends League Cricket", Legends League Cricket - Sony Sports Ten 1
 #EXTVLCOPT:http-referrer=https://player0003.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://jan.bhalocast.com:7059/hls/ten1co.m3u8?md5=45w34hDzELTM-N79WZi76w&expires=1774429050&ch=ten1co&s=a14da3f96c6dbf831134e211e193591c
+https://jan.bhalocast.com:7059/hls/ten1co.m3u8?md5=iJxUohQTcNYwn3RxfmpRWA&expires=1774429469&ch=ten1co&s=b96b87c5d3377fbf8d357dd3efff632a
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=Legends+League+Cricket&font=Oswald" group-title="Legends League Cricket", Legends League Cricket - Sony Sports Ten 3
 #EXTVLCOPT:http-referrer=https://player0003.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://jan.bhalocast.com:7059/hls/ten3sd.m3u8?md5=oaItAB02Ot88i-L47FXWlQ&expires=1774429052&ch=ten3sd&s=4c7809898d324980d98f48d45ad91540
+https://jan.bhalocast.com:7059/hls/ten3sd.m3u8?md5=e0Zf3lqa0SYHoQcNjOlL9w&expires=1774429470&ch=ten3sd&s=f810437875b45907831e5d668a3eed15
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=New+Zealand+vs+South+Africa&font=Oswald" group-title="New Zealand vs South Africa", New Zealand vs South Africa - Sony Sports Ten 1
 #EXTVLCOPT:http-referrer=https://player0003.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://jan.bhalocast.com:7059/hls/ten1co.m3u8?md5=GJVAIZj1VF5cy3bUogfsFA&expires=1774429055&ch=ten1co&s=2943d755017ff4f8ed446818273b2c85
+https://jan.bhalocast.com:7059/hls/ten1co.m3u8?md5=ovy-MlyKRh3RmfDkBn47kQ&expires=1774429472&ch=ten1co&s=a64c7164350bc49a33dcc52cedd4aa8e
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=New+Zealand+vs+South+Africa&font=Oswald" group-title="New Zealand vs South Africa", New Zealand vs South Africa - CricLife 1
 #EXTVLCOPT:http-referrer=https://player0003.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://jan.bhalocast.com:7059/hls/criclife1.m3u8?md5=Pb9BRcUAJKprcRmDnWE8Jw&expires=1774429057&ch=criclife1&s=376136374161679ad7883c49501df50e
+https://jan.bhalocast.com:7059/hls/criclife1.m3u8?md5=ORSl6Tg0cWVcr-1XHrprUg&expires=1774429473&ch=criclife1&s=be5af3a0b8af5be9a86f4b5ec4ae5e2c
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=New+Zealand+vs+South+Africa&font=Oswald" group-title="New Zealand vs South Africa", New Zealand vs South Africa - SuperSport Cricket
+#EXTVLCOPT:http-referrer=https://player0003.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://jan.bhalocast.com:7059/hls/sscric.m3u8?md5=nFDUSDSg30TOhk3RZxbC-g&expires=1774429474&ch=sscric&s=1b519de9394dce1456ca3c469474f0f0
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=New+Zealand+vs+South+Africa&font=Oswald" group-title="New Zealand vs South Africa", New Zealand vs South Africa - TNT Cricket
+#EXTVLCOPT:http-referrer=https://player0003.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://jan.bhalocast.com:7059/hls/bbtsip1.m3u8?md5=dgJ6d5GIJwh1kiesyMxYOg&expires=1774429475&ch=bbtsip1&s=fffe081d6f94013273ed38cd316ffc9f
 
