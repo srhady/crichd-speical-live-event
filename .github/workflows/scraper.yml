@@ -2,7 +2,7 @@ name: Auto Update Live Events M3U & JSON
 
 on:
   schedule:
-    - cron: '*/30 * * * *' # ৩০ মিনিট পরপর রান হবে
+    - cron: '*/30 * * * *'
   workflow_dispatch:
 
 jobs:
@@ -20,17 +20,11 @@ jobs:
 
       - name: Clone Private Repository
         run: |
-          # GH_PAT সিক্রেট ব্যবহার করে প্রাইভেট রিপো ক্লোন করা হচ্ছে
           git clone https://${{ secrets.GH_PAT }}@github.com/srhady/Sports.git private_repo
 
       - name: Run Python Scraper
         run: |
-          # প্রাইভেট রিপো থেকে স্ক্রিপ্ট রান করা হচ্ছে
           python private_repo/crichd_event_scraper.py
-          
-          # তৈরি হওয়া M3U এবং JSON ফাইল মেইন রিপোতে মুভ করা হচ্ছে
-          mv private_repo/Live_Events.m3u ./
-          mv private_repo/Live_Events.json ./
 
       - name: Commit and Push changes
         run: |
