@@ -44,23 +44,17 @@ def get_live_matches():
     matches = []
     seen = set()
     
-    # টেবিলের প্রতিটি সারি (tr) আলাদা করা
-    tr_blocks = re.findall(r'<tr[^>]*>(.*?)</tr>', html, re.DOTALL | re.IGNORECASE)
-    for tr_content in tr_blocks:
-        # সারির ভেতর থেকে ম্যাচের লিংক খোঁজা
-        link_match = re.search(r'<a[^>]+href=[\'"]([^\'"]+)[\'"][^>]*>(.*?)</a>', tr_content, re.IGNORECASE)
-        if link_match:
-            url = link_match.group(1).strip()
-            title = re.sub(r'<[^>]+>', '', link_match.group(2)).strip()
-            
-            if url.startswith('/'):
-                url = CRICHD_BASE_URL + url
-                
-            # মেনু, চ্যানেল বা অপ্রয়োজনীয় পেজ বাদ দেওয়া
-            if CRICHD_BASE_URL in url and len(title) > 3 and '/channels/' not in url and not re.search(r'(score|telegram|contact|about|privacy|dmca)', url, re.IGNORECASE):
-                if url not in seen:
-                    matches.append((url, clean_channel_name(title)))
-                    seen.add(url)
+    # নতুন লজিক: সরাসরি h2 ট্যাগ এবং url টার্গেট করা
+    pattern = r'<a\s+href=[\'"](https://crichd\.com\.co/[^\'"]+)[\'"][^>]*itemprop=[\'"]url[\'"]>\s*<h2[^>]*>(.*?)</h2>'
+    found_matches = re.findall(pattern, html, re.IGNORECASE | re.DOTALL)
+    
+    for url, title in found_matches:
+        url = url.strip()
+        title = re.sub(r'<[^>]+>', '', title).strip()
+        
+        if url not in seen and len(title) > 3:
+            matches.append((url, clean_channel_name(title)))
+            seen.add(url)
                     
     logging.info(f"[+] মোট {len(matches)} টি লাইভ ইভেন্ট পাওয়া গেছে!")
     return matches
@@ -120,31 +114,28 @@ def get_match_streams(match_url, match_title):
     if not html: return []
 
     streams = []
-    tr_blocks = re.findall(r'<tr[^>]*>(.*?)</tr>', html, re.DOTALL | re.IGNORECASE)
     
-    for tr_content in tr_blocks:
-        # Watch বাটনের dadocric লিংক খোঁজা
-        player_link_match = re.search(r"<a[^>]+href=['\"](https://(?:player\.)?dadocric\.st/player\.php\?id=[^\'\"]+)['\"]", tr_content)
+    # নতুন লজিক: ভাঙাচোরা টেবিল (Broken HTML) ইগনোর করে ডিরেক্ট লিংক এবং নাম চুরি
+    pattern = r'<td>(.*?)</td>\s*<td>.*?</td>\s*<td>\s*<a[^>]+href=[\'"](https://(?:player\.)?dadocric\.st/player\.php\?id=[^\'"]+)[\'"]'
+    found_channels = re.findall(pattern, html, re.IGNORECASE | re.DOTALL)
+    
+    if not found_channels:
+        logging.info("   [-] এই ম্যাচে কোনো dadocric চ্যানেল পাওয়া যায়নি।")
+        return streams
         
-        if player_link_match:
-            player_url = player_link_match.group(1)
-            
-            # একই সারি থেকে চ্যানেলের নাম (যেমন: TNT Cricket) বের করা
-            td_matches = re.findall(r'<td[^>]*>(.*?)</td>', tr_content, re.DOTALL | re.IGNORECASE)
+    for raw_name, player_url in found_channels:
+        channel_name = re.sub(r'<[^>]+>', '', raw_name).strip()
+        if not channel_name:
             channel_name = "Event Channel"
-            if len(td_matches) > 0:
-                clean_td = re.sub(r'<[^>]+>', '', td_matches[0]).strip()
-                if clean_td and "Channel Name" not in clean_td:
-                    channel_name = clean_td
             
-            logging.info(f"   - চ্যানেল পাওয়া গেছে: {channel_name}, টোকেন ডিক্রিপ্ট করা হচ্ছে...")
-            stream_link = extract_bhalocast_m3u8(player_url)
-            
-            if stream_link:
-                logging.info(f"     ✅ লিংক সফলভাবে উদ্ধার হয়েছে!")
-                streams.append((channel_name, stream_link))
-            else:
-                logging.info(f"     ❌ লিংক উদ্ধারে ব্যর্থ।")
+        logging.info(f"   - চ্যানেল পাওয়া গেছে: {channel_name}, টোকেন ডিক্রিপ্ট করা হচ্ছে...")
+        stream_link = extract_bhalocast_m3u8(player_url)
+        
+        if stream_link:
+            logging.info(f"     ✅ লিংক সফলভাবে উদ্ধার হয়েছে!")
+            streams.append((channel_name, stream_link))
+        else:
+            logging.info(f"     ❌ লিংক উদ্ধারে ব্যর্থ।")
                 
     return streams
 
@@ -152,10 +143,8 @@ def get_match_streams(match_url, match_title):
 if __name__ == "__main__":
     all_channels = []
     
-    # ১. সব লাইভ ম্যাচ নিয়ে আসা
     live_matches = get_live_matches()
     
-    # ২. প্রতিটি ম্যাচের ভেতরের চ্যানেল স্ক্যান করা
     for match_url, match_title in live_matches:
         channels = get_match_streams(match_url, match_title)
         
@@ -171,7 +160,6 @@ if __name__ == "__main__":
         
     total_channels = len(all_channels)
     
-    # সময় সেট করা
     update_time = ""
     if ZoneInfo:
         try:
@@ -180,7 +168,6 @@ if __name__ == "__main__":
         except Exception:
             update_time = datetime.datetime.now().strftime('%Y-%m-%d %I:%M:%S %p')
             
-    # প্লেলিস্ট তৈরি করা
     with open(OUTPUT_M3U_FILE, "w", encoding='utf-8') as f:
         f.write(f'#EXTM3U x-tvg-url="{EPG_URL}"\n')
         f.write(f'#"name": "Live Sports Events Auto Update"\n')
@@ -189,7 +176,6 @@ if __name__ == "__main__":
         f.write(f'# Total Active Links: {total_channels}\n\n')
         
         for item in all_channels:
-            # Group-Title হবে ম্যাচের নাম, আর চ্যানেলের নাম হবে "ম্যাচের নাম - চ্যানেল"
             full_title = f"{item['match_name']} - {item['channel_name']}"
             logo = f"https://placehold.co/800x450/0f172a/ffffff.png?text={item['match_name'].replace(' ', '+')}&font=Oswald"
             
