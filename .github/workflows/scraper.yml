@@ -1,0 +1,41 @@
+name: Auto Update Live Events M3U & JSON
+
+on:
+  schedule:
+    - cron: '*/30 * * * *' # ৩০ মিনিট পরপর রান হবে
+  workflow_dispatch:
+
+jobs:
+  update-playlist:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Public Repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Clone Private Repository
+        run: |
+          # GH_PAT সিক্রেট ব্যবহার করে প্রাইভেট রিপো ক্লোন করা হচ্ছে
+          git clone https://${{ secrets.GH_PAT }}@github.com/srhady/Sports.git private_repo
+
+      - name: Run Python Scraper
+        run: |
+          # প্রাইভেট রিপো থেকে স্ক্রিপ্ট রান করা হচ্ছে
+          python private_repo/crichd_event_scraper.py
+          
+          # তৈরি হওয়া M3U এবং JSON ফাইল মেইন রিপোতে মুভ করা হচ্ছে
+          mv private_repo/Live_Events.m3u ./
+          mv private_repo/Live_Events.json ./
+
+      - name: Commit and Push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add Live_Events.m3u Live_Events.json
+          git diff --quiet && git diff --staged --quiet || git commit -m "Auto-updated Live Events M3U & JSON"
+          git push
