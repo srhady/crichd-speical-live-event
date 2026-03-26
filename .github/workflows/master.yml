@@ -1,8 +1,6 @@
 name: Auto Update All Live Events (M3U & JSON)
 
 on:
-  → Runs every 10 minutes
-
   workflow_dispatch:
 
 jobs:
@@ -11,10 +9,10 @@ jobs:
 
     steps:
       - name: Checkout Public Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.10'
 
@@ -22,28 +20,16 @@ jobs:
         run: |
           git clone https://${{ secrets.GH_PAT }}@github.com/srhady/Sports.git private_repo
 
-      - name: Run Old CricHD Scraper (crichd.com.co)
+      - name: Run CricHD Scrapers
         run: |
           python private_repo/crichd_event_scraper.py
-
-      - name: Run New Go CricHD Scraper (go.crichd.tv)
-        run: |
           python private_repo/go_crichd_scraper.py
 
-      - name: Commit and Push All Changes
+      - name: Commit and Push Changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           
-          # প্রথম স্ক্রিপ্টের ফাইলগুলো Add করা হচ্ছে
-          git add Live_Events.m3u Live_Events.json
+          git add Live_Events.m3u Live_Events.json Go_Live_Events.m3u Go_Live_Events.json
           
-          # দ্বিতীয় স্ক্রিপ্টের ফাইলগুলো Add করা হচ্ছে
-          git add Go_Live_Events.m3u Go_Live_Events.json
-          
-          git diff --quiet && git diff --staged --quiet || git commit -m "Auto-updated All Live Events from both sites"
-          
-          # ট্রাফিক জ্যাম এড়াতে আগে আপডেট চেক করে নেবে
-          git pull --rebase origin main
-          
-          git push
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-updated All Live Events" && git pull --rebase origin main && git push)
