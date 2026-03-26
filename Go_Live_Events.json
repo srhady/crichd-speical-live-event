@@ -3,8 +3,8 @@
         "name": "Live Sports Events",
         "owner": "Md Sohanur Rahman Hady",
         "telegram": "https://t.me/livesportsplay",
-        "last_updated": "2026-03-26 06:30:47 PM (BD Time)",
-        "total_active_links": 1
+        "last_updated": "2026-03-26 07:00:48 PM (BD Time)",
+        "total_active_links": 2
     },
     "channels": [
         {
@@ -12,7 +12,16 @@
             "channel_name": "Live Event",
             "group_title": "Live Events",
             "logo": "https://placehold.co/800x450/0f172a/ffffff.png?text=New+Zealand+vs+South+Africa&font=Oswald",
-            "url": "https://n6.sanwalyaarpya.com:1686/hls/bbtsp1.m3u8?md5=p28XpGj8IOLuIIv2AAJW-A&expires=1774535443",
+            "url": "https://n3.sanwalyaarpya.com:1686/hls/bbtsp1.m3u8?md5=S6CnQfaJ9ih_cfGhEfJgmA&expires=1774537244",
+            "referrer": "https://profamouslife.com/",
+            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+            "match_name": "PSL T20 2026",
+            "channel_name": "Live Event",
+            "group_title": "Live Events",
+            "logo": "https://placehold.co/800x450/0f172a/ffffff.png?text=PSL+T20+2026&font=Oswald",
+            "url": "https://n8.sanwalyaarpya.com:1686/hls/ptvpk.m3u8?md5=0yFDxxYGsvSY2MbIug8JTg&expires=1774537246",
             "referrer": "https://profamouslife.com/",
             "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
