@@ -16,6 +16,10 @@ jobs:
         with:
           python-version: '3.10'
 
+      # 🔥 এই নতুন স্টেপটি যোগ করা হয়েছে requests ইন্সটল করার জন্য
+      - name: Install Dependencies
+        run: pip install requests
+
       - name: Clone Private Repository
         run: |
           git clone https://${{ secrets.GH_PAT }}@github.com/srhady/Sports.git private_repo
