@@ -3,34 +3,16 @@
         "name": "Live Sports Events",
         "owner": "Md Sohanur Rahman Hady",
         "telegram": "https://t.me/livesportsplay",
-        "last_updated": "2026-03-27 07:00:39 AM (BD Time)",
-        "total_active_links": 4
+        "last_updated": "2026-03-27 07:30:38 AM (BD Time)",
+        "total_active_links": 2
     },
     "channels": [
-        {
-            "match_name": "New Zealand vs South Africa",
-            "channel_name": "Live Event",
-            "group_title": "Live Events",
-            "logo": "https://placehold.co/800x450/0f172a/ffffff.png?text=New+Zealand+vs+South+Africa&font=Oswald",
-            "url": "https://n2.sanwalyaarpya.com:1686/hls/bbtsp1.m3u8?md5=MXlpEnb2kg03Q4s-bB3n5A&expires=1774580433",
-            "referrer": "https://profamouslife.com/",
-            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         {
             "match_name": "PSL T20 2026",
             "channel_name": "Live Event",
             "group_title": "Live Events",
             "logo": "https://placehold.co/800x450/0f172a/ffffff.png?text=PSL+T20+2026&font=Oswald",
-            "url": "https://n5.sanwalyaarpya.com:1686/hls/ptvpk.m3u8?md5=YRSBPOB0xj6rp0iYTME0_A&expires=1774580435",
-            "referrer": "https://profamouslife.com/",
-            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-            "match_name": "Sacramento Kings vs Orlando Magic",
-            "channel_name": "Live Event",
-            "group_title": "Live Events",
-            "logo": "https://placehold.co/800x450/0f172a/ffffff.png?text=Sacramento+Kings+vs+Orlando+Magic&font=Oswald",
-            "url": "https://n7.sanwalyaarpya.com:1686/hls/skysme.m3u8?md5=mDZ9vcZJwf0Hq_Et2Awvbw&expires=1774580436",
+            "url": "https://n2.sanwalyaarpya.com:1686/hls/ptvpk.m3u8?md5=clajcy49VAsUhwzVzCfk1A&expires=1774582235",
             "referrer": "https://profamouslife.com/",
             "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
@@ -39,7 +21,7 @@
             "channel_name": "Live Event",
             "group_title": "Live Events",
             "logo": "https://placehold.co/800x450/0f172a/ffffff.png?text=Aramco+Japanese+GP&font=Oswald",
-            "url": "https://n7.sanwalyaarpya.com:1686/hls/skysfor1.m3u8?md5=cgvmbs8InxV0Hm9J1KUF0A&expires=1774580438",
+            "url": "https://n8.sanwalyaarpya.com:1686/hls/skysfor1.m3u8?md5=SZee5fjk2L42rjZ5qYlJHQ&expires=1774582237",
             "referrer": "https://profamouslife.com/",
             "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
