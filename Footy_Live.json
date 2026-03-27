@@ -2,7 +2,7 @@
     "playlist_name": "Live Sports Events",
     "owner": "Md Sohanur Rahman Hady",
     "telegram": "https://t.me/livesportsplay",
-    "last_updated": "2026-03-27 11:31:33 PM (BD Time)",
+    "last_updated": "2026-03-28 12:01:43 AM (BD Time)",
     "total_links": 5,
     "matches": [
         {
@@ -23,19 +23,19 @@
                     "Channel name": "Link 1",
                     "Language": "English",
                     "Embed link": "https://footystream.top/alpha/miami-open/14001",
-                    "Stream link": "https://dz2.bhalocast.com:7059/hls/dadoskyten.m3u8?md5=SDV-HW2wiCcqsFUqNbIaag&expires=1774637468&ch=dadoskyten&s=808671135210c9dc83a9cb9cf0e5068f"
+                    "Stream link": "https://dz2.bhalocast.com:7059/hls/dadoskyten.m3u8?md5=IPt-Sr_mb2zuUdqPEvFQSA&expires=1774639270&ch=dadoskyten&s=a1ea3df7c7d0936f89f0094c120a3f84"
                 },
                 {
                     "Channel name": "Link 2",
                     "Language": "English",
                     "Embed link": "https://footystream.top/alpha/miami-open/14002",
-                    "Stream link": "https://dz2.bhalocast.com:7059/hls/dadosky1.m3u8?md5=6S4R4P8g-zmh9S1xFdqssg&expires=1774637469&ch=dadosky1&s=76bd99da12649189b2558bae5d3f055a"
+                    "Stream link": "https://dz2.bhalocast.com:7059/hls/dadosky1.m3u8?md5=5HPopdIf4bxq6SRdpng9NA&expires=1774639271&ch=dadosky1&s=a31203bf2a83fdec7e50f294d62306ca"
                 },
                 {
                     "Channel name": "Link 3",
                     "Language": "English",
                     "Embed link": "https://footystream.top/alpha/miami-open/14096",
-                    "Stream link": "https://dz2.bhalocast.com:7059/hls/dadoskyare.m3u8?md5=I02n6cBPE3xnbU8ZkYrrGA&expires=1774637470&ch=dadoskyare&s=abf0bd4cd59d897c3d73d76ce7232c78"
+                    "Stream link": "https://dz2.bhalocast.com:7059/hls/dadoskyare.m3u8?md5=5u3kUrGXG7OBSvuiZ5TDHA&expires=1774639272&ch=dadoskyare&s=808e2c323968e421de35133775033bfd"
                 }
             ]
         },
@@ -57,13 +57,13 @@
                     "Channel name": "Link 1",
                     "Language": "English",
                     "Embed link": "https://footystream.top/alpha/f1-japanese-grand-prix/14278",
-                    "Stream link": "https://dz2.bhalocast.com:7059/hls/dadoskyf17.m3u8?md5=nbQ4JHAK9aKBHj-_NVRqOA&expires=1774637473&ch=dadoskyf17&s=a04210d3deeea47a7326636625003e16"
+                    "Stream link": "https://dz2.bhalocast.com:7059/hls/dadoskyf17.m3u8?md5=NsGLewaHMXTUMcqr2KDtQQ&expires=1774639275&ch=dadoskyf17&s=37c4096191f2cfc6209433adc73ab4b9"
                 },
                 {
                     "Channel name": "Link 2",
                     "Language": "English",
                     "Embed link": "https://footystream.top/alpha/f1-japanese-grand-prix/14279",
-                    "Stream link": "https://dz2.bhalocast.com:7059/hls/spch17.m3u8?md5=43j54GHbUMFNZEVLjIwfgw&expires=1774637475&ch=spch17&s=a4c177f141fbb25ebbf646a09903a5c9"
+                    "Stream link": "https://dz2.bhalocast.com:7059/hls/spch17.m3u8?md5=1SChzqDhmtvntPELkqH4Ag&expires=1774639276&ch=spch17&s=d78cb64fda9c6706415b22c2939ae71d"
                 }
             ]
         },
@@ -170,7 +170,20 @@
             "Status": "UPCOMING",
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": []
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/spain-vs-serbia/14285",
+                    "Stream link": ""
+                },
+                {
+                    "Channel name": "Link 2",
+                    "Language": "Español",
+                    "Embed link": "https://footystream.top/alpha/spain-vs-serbia/14286",
+                    "Stream link": ""
+                }
+            ]
         },
         {
             "Category": "Football",
@@ -185,7 +198,42 @@
             "Status": "UPCOMING",
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": []
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "Spanish",
+                    "Embed link": "https://footystream.top/alpha/morocco-vs-ecuador/14287",
+                    "Stream link": ""
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "Friendly",
+            "match name": "Argentina vs Mauritania",
+            "Team 1 Name": "Argentina",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/argentina/logo.webp",
+            "Team 2 Name": "Mauritania",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/mauritania/logo.webp",
+            "Start time": "2026-03-27T23:15:00.000Z",
+            "End time": "2026-03-28T01:25:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/argentina-vs-mauritania/14288",
+                    "Stream link": ""
+                },
+                {
+                    "Channel name": "Link 2",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/argentina-vs-mauritania/14289",
+                    "Stream link": ""
+                }
+            ]
         },
         {
             "Category": "Football",
@@ -200,7 +248,14 @@
             "Status": "UPCOMING",
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": []
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "Spanish",
+                    "Embed link": "https://footystream.top/alpha/senegal-vs-peru/14294",
+                    "Stream link": ""
+                }
+            ]
         },
         {
             "Category": "Football",
@@ -276,6 +331,78 @@
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": []
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "WSL",
+            "match name": "",
+            "Team 1 Name": "Liverpool",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
+            "Team 2 Name": "Everton",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/everton/logo.webp",
+            "Start time": "2026-03-28T12:30:00.000Z",
+            "End time": "2026-03-28T14:40:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/liverpool-vs-everton/14290",
+                    "Stream link": ""
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "WSL",
+            "match name": "Man City vs Man United",
+            "Team 1 Name": "Manchester City",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
+            "Team 2 Name": "Manchester United",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
+            "Start time": "2026-03-28T13:30:00.000Z",
+            "End time": "2026-03-28T15:40:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/manchester-city-vs-man-united/14291",
+                    "Stream link": ""
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "WSL",
+            "match name": "Tottenham Hotspur vs Arsenal",
+            "Team 1 Name": "Tottenham Hotspur",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/tottenham-hotspur/logo.webp",
+            "Team 2 Name": "Arsenal",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
+            "Start time": "2026-03-28T17:30:00.000Z",
+            "End time": "2026-03-28T19:40:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/tottenham-hotspur-vs-arsenal/14292",
+                    "Stream link": ""
+                },
+                {
+                    "Channel name": "Link 2",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/tottenham-hotspur-vs-arsenal/14293",
+                    "Stream link": ""
+                }
+            ]
         },
         {
             "Category": "Football",
