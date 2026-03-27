@@ -2,21 +2,26 @@
 #"name": "Live Sports Events Auto Update"
 #"owner": "Md Sohanur Rahman Hady"
 #"telegram": "https://t.me/livesportsplay"
-#"last updated": "2026-03-27 02:30:38 PM (BD Time)"
-# Total Active Links: 3
+#"last updated": "2026-03-27 03:00:40 PM (BD Time)"
+# Total Active Links: 4
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=New+Zealand+vs+South+Africa&font=Oswald" group-title="Live Events", New Zealand vs South Africa
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://n6.sanwalyaarpya.com:1686/hls/bbtsp1.m3u8?md5=3rduVZDxrb080o9Wbr6rEQ&expires=1774607433
+https://n14.sanwalyaarpya.com:1686/hls/bbtsp1.m3u8?md5=jItPxsioML-CTBEDUKCBjQ&expires=1774609234
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=PSL+T20+2026&font=Oswald" group-title="Live Events", PSL T20 2026
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://n5.sanwalyaarpya.com:1686/hls/ptvpk.m3u8?md5=jq78OKmAdDo01BbPXwsk7A&expires=1774607435
+https://n2.sanwalyaarpya.com:1686/hls/ptvpk.m3u8?md5=c2D_JMWM7c0luk9Agi-WyQ&expires=1774609235
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=Aramco+Japanese+GP&font=Oswald" group-title="Live Events", Aramco Japanese GP
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://n2.sanwalyaarpya.com:1686/hls/skysfor1.m3u8?md5=1Bwqxs9vMH-l6dk7MkcIew&expires=1774607436
+https://n6.sanwalyaarpya.com:1686/hls/skysfor1.m3u8?md5=p3aHeTeC1uDR352tNQ6UKA&expires=1774609237
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=Brumbies+vs+Waratahs&font=Oswald" group-title="Live Events", Brumbies vs Waratahs
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://n2.sanwalyaarpya.com:1686/hls/skysme.m3u8?md5=8l10zxlipRfKwaVbKt_GTA&expires=1774609239
 
