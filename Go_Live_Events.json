@@ -3,8 +3,8 @@
         "name": "Live Sports Events",
         "owner": "Md Sohanur Rahman Hady",
         "telegram": "https://t.me/livesportsplay",
-        "last_updated": "2026-03-28 02:31:09 AM (BD Time)",
-        "total_active_links": 3
+        "last_updated": "2026-03-28 03:01:08 AM (BD Time)",
+        "total_active_links": 5
     },
     "channels": [
         {
@@ -12,7 +12,7 @@
             "channel_name": "Live Event",
             "group_title": "Live Events",
             "logo": "https://placehold.co/800x450/0f172a/ffffff.png?text=New+Zealand+vs+South+Africa&font=Oswald",
-            "url": "https://n2.sanwalyaarpya.com:1686/hls/bbtsp1.m3u8?md5=bFJmSfJNLZzI502jospbxQ&expires=1774650664",
+            "url": "https://n6.sanwalyaarpya.com:1686/hls/bbtsp1.m3u8?md5=-qHiKREUtdNJuctnEElQew&expires=1774652458",
             "referrer": "https://profamouslife.com/",
             "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
@@ -21,7 +21,7 @@
             "channel_name": "Live Event",
             "group_title": "Live Events",
             "logo": "https://placehold.co/800x450/0f172a/ffffff.png?text=PSL+T20+2026&font=Oswald",
-            "url": "https://n8.sanwalyaarpya.com:1686/hls/ptvpk.m3u8?md5=TVZb02xxv7LhD8Gj7dWdKQ&expires=1774650666",
+            "url": "https://n8.sanwalyaarpya.com:1686/hls/ptvpk.m3u8?md5=t3Dr-7s2xoqg5-2SxpsCpg&expires=1774652460",
             "referrer": "https://profamouslife.com/",
             "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
@@ -30,7 +30,25 @@
             "channel_name": "Live Event",
             "group_title": "Live Events",
             "logo": "https://placehold.co/800x450/0f172a/ffffff.png?text=Aramco+Japanese+GP&font=Oswald",
-            "url": "https://n7.sanwalyaarpya.com:1686/hls/skysfor1.m3u8?md5=zTQ7CCJRKX83E3WDEQjEtg&expires=1774650668",
+            "url": "https://n6.sanwalyaarpya.com:1686/hls/skysfor1.m3u8?md5=jcpybqDevpgYY5Q7MW8Qlg&expires=1774652462",
+            "referrer": "https://profamouslife.com/",
+            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+            "match_name": "Hull K R vs St Helens",
+            "channel_name": "Live Event",
+            "group_title": "Live Events",
+            "logo": "https://placehold.co/800x450/0f172a/ffffff.png?text=Hull+K+R+vs+St+Helens&font=Oswald",
+            "url": "https://n14.sanwalyaarpya.com:1686/hls/skysact.m3u8?md5=pElHGnkKriKknmrWTbG_Ew&expires=1774652465",
+            "referrer": "https://profamouslife.com/",
+            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+            "match_name": "York Knights vs Wakefield Trinity",
+            "channel_name": "Live Event",
+            "group_title": "Live Events",
+            "logo": "https://placehold.co/800x450/0f172a/ffffff.png?text=York+Knights+vs+Wakefield+Trinity&font=Oswald",
+            "url": "https://n8.sanwalyaarpya.com:1686/hls/skysme.m3u8?md5=RYADXubVh37r59hTO3slfg&expires=1774652467",
             "referrer": "https://profamouslife.com/",
             "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
