@@ -2,26 +2,31 @@
 #"name": "Live Sports Events Auto Update"
 #"owner": "Md Sohanur Rahman Hady"
 #"telegram": "https://t.me/livesportsplay"
-#"last updated": "2026-03-29 05:01:04 AM (BD Time)"
-# Total Active Links: 4
+#"last updated": "2026-03-29 05:30:52 AM (BD Time)"
+# Total Active Links: 5
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=New+Zealand+vs+South+Africa&font=Oswald" group-title="Live Events", New Zealand vs South Africa
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://n8.sanwalyaarpya.com:1686/hls/bbtsp1.m3u8?md5=REN3UD9wMldgHA2U0dpahg&expires=1774746053
+https://n5.sanwalyaarpya.com:1686/hls/bbtsp1.m3u8?md5=LcH9tCiWXiThrVkGm-tisQ&expires=1774747843
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=PSL+T20+2026&font=Oswald" group-title="Live Events", PSL T20 2026
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://n7.sanwalyaarpya.com:1686/hls/ptvpk.m3u8?md5=vo-GbW9ngJ0SpuJydKJYTw&expires=1774746056
+https://n7.sanwalyaarpya.com:1686/hls/ptvpk.m3u8?md5=07mKr_NJGF3HT-a6xCae7Q&expires=1774747845
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=Aramco+Japanese+GP&font=Oswald" group-title="Live Events", Aramco Japanese GP
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://n2.sanwalyaarpya.com:1686/hls/skysfor1.m3u8?md5=2ddnz9k85-XNYJTnTVr_HQ&expires=1774746058
+https://n4.sanwalyaarpya.com:1686/hls/skysfor1.m3u8?md5=ECn9kU4554v-7IDT_nMHDQ&expires=1774747847
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=IPL+T20+2026&font=Oswald" group-title="Live Events", IPL T20 2026
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://n3.sanwalyaarpya.com:1686/hls/skyscric.m3u8?md5=V0YKiJhgzY2Eex8qcb01cg&expires=1774746060
+https://n4.sanwalyaarpya.com:1686/hls/skyscric.m3u8?md5=elTubEJ_zObKPAazcuDY3Q&expires=1774747849
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=Philadelphia+76ers+vs+Charlotte+Hornets&font=Oswald" group-title="Live Events", Philadelphia 76ers vs Charlotte Hornets
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://n7.sanwalyaarpya.com:1686/hls/skysme.m3u8?md5=BlRvGwkM11GGGVELAsSZwQ&expires=1774747851
 
