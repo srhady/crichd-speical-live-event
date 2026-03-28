@@ -2,21 +2,26 @@
 #"name": "Live Sports Events Auto Update"
 #"owner": "Md Sohanur Rahman Hady"
 #"telegram": "https://t.me/livesportsplay"
-#"last updated": "2026-03-29 03:00:55 AM (BD Time)"
-# Total Active Links: 3
+#"last updated": "2026-03-29 03:30:52 AM (BD Time)"
+# Total Active Links: 4
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=New+Zealand+vs+South+Africa&font=Oswald" group-title="Live Events", New Zealand vs South Africa
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://n4.sanwalyaarpya.com:1686/hls/bbtsp1.m3u8?md5=TIvd-NdRuxGV0XPlsn-TIQ&expires=1774740645
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=PSL+T20+2026&font=Oswald" group-title="Live Events", PSL T20 2026
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://n8.sanwalyaarpya.com:1686/hls/ptvpk.m3u8?md5=T2QmCw_D19_g5yQ9j5pyng&expires=1774738848
+https://n14.sanwalyaarpya.com:1686/hls/ptvpk.m3u8?md5=gI_qBw0bppJc2DwGZKxRcg&expires=1774740647
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=Aramco+Japanese+GP&font=Oswald" group-title="Live Events", Aramco Japanese GP
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://n6.sanwalyaarpya.com:1686/hls/skysfor1.m3u8?md5=hhfcndoE-33ufFVKmcXDMg&expires=1774738849
+https://n2.sanwalyaarpya.com:1686/hls/skysfor1.m3u8?md5=PTEpbaupT3RVY5rbMpswJw&expires=1774740649
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=IPL+T20+2026&font=Oswald" group-title="Live Events", IPL T20 2026
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://n2.sanwalyaarpya.com:1686/hls/skyscric.m3u8?md5=1UL7iK9pNAoZ3lmwgxcjOw&expires=1774738851
+https://n8.sanwalyaarpya.com:1686/hls/skyscric.m3u8?md5=OgNg0BY7ytWpVeIyKh_aZg&expires=1774740650
 
