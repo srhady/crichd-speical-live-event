@@ -2,99 +2,9 @@
     "playlist_name": "Live Sports Events",
     "owner": "Md Sohanur Rahman Hady",
     "telegram": "https://t.me/livesportsplay",
-    "last_updated": "2026-03-29 01:00:59 AM (BD Time)",
-    "total_links": 21,
+    "last_updated": "2026-03-29 01:30:46 AM (BD Time)",
+    "total_links": 0,
     "matches": [
-        {
-            "Category": "Cricket",
-            "Tour/Group name": "PSL T20",
-            "match name": "Pakistan Super League",
-            "Start time": "March 26, 2026, at 1:30 PM UTC",
-            "End time": "May 7, 2026, at 8 PM UTC",
-            "Status": "LIVE",
-            "referer": "https://player0003.com/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": [
-                {
-                    "Channel name": "PTV Sports",
-                    "Language": "English",
-                    "Embed link": "https://dadocric.st/player.php?id=ptvsp",
-                    "Stream link": "https://dz2.bhalocast.com:7059/hls/ptvscpr.m3u8?md5=znSBaRUMUi57L9RdZbarsA&expires=1774729222&ch=ptvscpr&s=fe4b64c2d8bd4081970c70167fb8a163"
-                },
-                {
-                    "Channel name": "A Sports HD",
-                    "Language": "English",
-                    "Embed link": "https://dadocric.st/player.php?id=asports",
-                    "Stream link": "https://jan.bhalocast.com:7059/hls/asportsd.m3u8?md5=RDhD1wOcWGIxJE4pSmiDvg&expires=1774729224&ch=asportsd&s=fa36ebb7b4e80f7d5cacf8787011241d"
-                },
-                {
-                    "Channel name": "Ten Sports",
-                    "Language": "English",
-                    "Embed link": "https://dadocric.st/player.php?id=tensp",
-                    "Stream link": "https://dz2.bhalocast.com:7059/hls/tensp.m3u8?md5=NRMV8HQe3HKyusMpuGEW1A&expires=1774729225&ch=tensp&s=2b841a4039e39693536db0e8b1ba8d4d"
-                },
-                {
-                    "Channel name": "Geo Super",
-                    "Language": "English",
-                    "Embed link": "https://dadocric.st/player.php?id=geosuper",
-                    "Stream link": "https://dz2.bhalocast.com:7059/hls/geosp.m3u8?md5=It5gRYCReTalHUjd6i6hJQ&expires=1774729227&ch=geosp&s=6e463bbcde23af6fb851483bee640bf1"
-                }
-            ]
-        },
-        {
-            "Category": "Cricket",
-            "Tour/Group name": "IPL T20",
-            "match name": "IPL 2026",
-            "Start time": "March 28, 2026, at 1:30 PM UTC",
-            "End time": "June 3, 2026, at 8 PM UTC",
-            "Status": "LIVE",
-            "referer": "https://player0003.com/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": [
-                {
-                    "Channel name": "Willow Cricket",
-                    "Language": "English",
-                    "Embed link": "https://dadocric.st/player.php?id=willow",
-                    "Stream link": "https://dz2.bhalocast.com:7059/hls/dxdwillo.m3u8?md5=iprnM89CkQ56wN86QmAuaA&expires=1774729230&ch=dxdwillo&s=77ec7dde4d2fc1aa86166be80149dc97"
-                },
-                {
-                    "Channel name": "Willow Xtra",
-                    "Language": "HIndi",
-                    "Embed link": "https://dadocric.st/player.php?id=willowextra",
-                    "Stream link": "https://jan.bhalocast.com:7059/hls/dxwillo2.m3u8?md5=FWAPXe-xTOmFqAJ4cTzOnA&expires=1774729231&ch=dxwillo2&s=f7610ed039d2de51753c75ea109fbd1a"
-                },
-                {
-                    "Channel name": "Star Sports 1",
-                    "Language": "English",
-                    "Embed link": "https://dadocric.st/player.php?id=starsp",
-                    "Stream link": "https://jan.bhalocast.com:7059/hls/star1co.m3u8?md5=I4-nNckxfE_VAUGOHkQUeQ&expires=1774729233&ch=star1co&s=c332b61e470e5b98bc04530fb8b9eb64"
-                },
-                {
-                    "Channel name": "Star Sports 2",
-                    "Language": "English",
-                    "Embed link": "https://dadocric.st/player.php?id=starsp2",
-                    "Stream link": "https://dz2.bhalocast.com:7059/hls/str2cows.m3u8?md5=APjgIzsP0Q9jE4y1aLTNKA&expires=1774729234&ch=str2cows&s=bdbd49702cef92f7766d55c09ea860d1"
-                },
-                {
-                    "Channel name": "Star Sports Hindi",
-                    "Language": "Hindi",
-                    "Embed link": "https://dadocric.st/player.php?id=starsp3",
-                    "Stream link": "https://dz2.bhalocast.com:7059/hls/str1crowshi.m3u8?md5=0BigB-cxybBYXK1ROqO7yg&expires=1774729236&ch=str1crowshi&s=69de2ae611a2bfe799ae2713866d690c"
-                },
-                {
-                    "Channel name": "Star Sports 1 Tamil",
-                    "Language": "Tamil",
-                    "Embed link": "https://dadocric.st/player.php?id=starsp1tam",
-                    "Stream link": "https://dz2.bhalocast.com:7059/hls/starsp1tamil.m3u8?md5=Sm627PfhVvGVvX7UU7GU7w&expires=1774729239&ch=starsp1tamil&s=810d6589ebeb271b5a5f3b8158582696"
-                },
-                {
-                    "Channel name": "Star Sports 1 Telugu",
-                    "Language": "Telugu",
-                    "Embed link": "https://dadocric.st/player.php?id=starsp1tel",
-                    "Stream link": "https://jan.bhalocast.com:7059/hls/starsp1telu.m3u8?md5=vOfkcyR9exUUwMVOy2RPdg&expires=1774729240&ch=starsp1telu&s=16f3f1c17f9d151b5d30f0cdf6448021"
-                }
-            ]
-        },
         {
             "Category": "Cricket",
             "Tour/Group name": "IPL T20",
@@ -109,31 +19,31 @@
                     "Channel name": "Willow Cricket",
                     "Language": "English",
                     "Embed link": "https://dadocric.st/player.php?id=willow",
-                    "Stream link": "https://jan.bhalocast.com:7059/hls/dxdwillo.m3u8?md5=EYJpM-oMYAxsN-CufBZMtw&expires=1774729243&ch=dxdwillo&s=d77ef3fbc4be7763ddfdf5b3e62ceea6"
+                    "Stream link": ""
                 },
                 {
                     "Channel name": "Willow Xtra",
                     "Language": "HIndi",
                     "Embed link": "https://dadocric.st/player.php?id=willowextra",
-                    "Stream link": "https://jan.bhalocast.com:7059/hls/dxwillo2.m3u8?md5=5sKXmAi4AfYhyG6kP0B4Ng&expires=1774729244&ch=dxwillo2&s=740fd479b5dca9c8a76ef4621feb7a4b"
+                    "Stream link": ""
                 },
                 {
                     "Channel name": "Star Sports 1",
                     "Language": "English",
                     "Embed link": "https://dadocric.st/player.php?id=starsp",
-                    "Stream link": "https://jan.bhalocast.com:7059/hls/star1co.m3u8?md5=gF-horyijmQUVX9d-QBIaA&expires=1774729246&ch=star1co&s=515294839c297d512ff988ef9d762d25"
+                    "Stream link": ""
                 },
                 {
                     "Channel name": "Star Sports 2",
                     "Language": "English",
                     "Embed link": "https://dadocric.st/player.php?id=starsp2",
-                    "Stream link": "https://dz2.bhalocast.com:7059/hls/str2cows.m3u8?md5=LumAn3P1P4uEgsOngxuOBg&expires=1774729247&ch=str2cows&s=96a3a23fcb1b972ed4f7ff74b246f205"
+                    "Stream link": ""
                 },
                 {
                     "Channel name": "Star Sports Hindi",
                     "Language": "Hindi",
                     "Embed link": "https://dadocric.st/player.php?id=starsp3",
-                    "Stream link": "https://dz2.bhalocast.com:7059/hls/str1crowshi.m3u8?md5=ibL4Naje444EZqlvu2bYSA&expires=1774729249&ch=str1crowshi&s=aa9ddecd889a58298c9294b30e1a68cc"
+                    "Stream link": ""
                 }
             ]
         },
@@ -151,31 +61,31 @@
                     "Channel name": "Willow Cricket",
                     "Language": "English",
                     "Embed link": "https://dadocric.st/player.php?id=willow",
-                    "Stream link": "https://dz2.bhalocast.com:7059/hls/dxdwillo.m3u8?md5=5Qr_brEtXNUz6wCXaOIhOw&expires=1774729251&ch=dxdwillo&s=868e4846dffe8063f042fadaa3effe6f"
+                    "Stream link": ""
                 },
                 {
                     "Channel name": "Willow Xtra",
                     "Language": "HIndi",
                     "Embed link": "https://dadocric.st/player.php?id=willowextra",
-                    "Stream link": "https://jan.bhalocast.com:7059/hls/dxwillo2.m3u8?md5=PTpmgMKpGWlTYWGLpPS6NA&expires=1774729253&ch=dxwillo2&s=c035e29e3b0bb94c43c647e390222bf0"
+                    "Stream link": ""
                 },
                 {
                     "Channel name": "Star Sports 1",
                     "Language": "English",
                     "Embed link": "https://dadocric.st/player.php?id=starsp",
-                    "Stream link": "https://dz2.bhalocast.com:7059/hls/star1co.m3u8?md5=F5_JSI8dn8-_7G-xHVzlXA&expires=1774729254&ch=star1co&s=8d2c7c2ad348e54cfd9c87ec5b1f75e9"
+                    "Stream link": ""
                 },
                 {
                     "Channel name": "Star Sports 2",
                     "Language": "English",
                     "Embed link": "https://dadocric.st/player.php?id=starsp2",
-                    "Stream link": "https://jan.bhalocast.com:7059/hls/str2cows.m3u8?md5=cXZaFHLt0qyGa0ocD8zZNQ&expires=1774729256&ch=str2cows&s=ea68a106c07a28265871ac2b60e56c08"
+                    "Stream link": ""
                 },
                 {
                     "Channel name": "Star Sports Hindi",
                     "Language": "Hindi",
                     "Embed link": "https://dadocric.st/player.php?id=starsp3",
-                    "Stream link": "https://jan.bhalocast.com:7059/hls/str1crowshi.m3u8?md5=mKr0HlHr35er8yFEHMCG3w&expires=1774729257&ch=str1crowshi&s=3a76cd8417d6999fc9efff419a59446b"
+                    "Stream link": ""
                 }
             ]
         }
