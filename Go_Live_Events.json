@@ -3,16 +3,25 @@
         "name": "Live Sports Events",
         "owner": "Md Sohanur Rahman Hady",
         "telegram": "https://t.me/livesportsplay",
-        "last_updated": "2026-03-28 10:01:45 PM (BD Time)",
-        "total_active_links": 18
+        "last_updated": "2026-03-28 10:31:59 PM (BD Time)",
+        "total_active_links": 16
     },
     "channels": [
+        {
+            "match_name": "New Zealand vs South Africa",
+            "channel_name": "Live Event",
+            "group_title": "Live Events",
+            "logo": "https://placehold.co/800x450/0f172a/ffffff.png?text=New+Zealand+vs+South+Africa&font=Oswald",
+            "url": "https://n14.sanwalyaarpya.com:1686/hls/bbtsp1.m3u8?md5=GL6dlxUAYJbyn_qhkrsW8w&expires=1774722679",
+            "referrer": "https://profamouslife.com/",
+            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
         {
             "match_name": "PSL T20 2026",
             "channel_name": "Live Event",
             "group_title": "Live Events",
             "logo": "https://placehold.co/800x450/0f172a/ffffff.png?text=PSL+T20+2026&font=Oswald",
-            "url": "https://n7.sanwalyaarpya.com:1686/hls/ptvpk.m3u8?md5=Jx7NBO0NKD7SFV4fFO45gQ&expires=1774720873",
+            "url": "https://n9.sanwalyaarpya.com:1686/hls/ptvpk.m3u8?md5=fl_qtGtrsh5mWMJCY-lO8w&expires=1774722681",
             "referrer": "https://profamouslife.com/",
             "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
@@ -21,7 +30,7 @@
             "channel_name": "Live Event",
             "group_title": "Live Events",
             "logo": "https://placehold.co/800x450/0f172a/ffffff.png?text=Aramco+Japanese+GP&font=Oswald",
-            "url": "https://n3.sanwalyaarpya.com:1686/hls/skysfor1.m3u8?md5=lojgDfVelt8DC4g-8SzuPQ&expires=1774720875",
+            "url": "https://n8.sanwalyaarpya.com:1686/hls/skysfor1.m3u8?md5=yKo521I96tF5D6iwMxAo6w&expires=1774722683",
             "referrer": "https://profamouslife.com/",
             "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
@@ -30,16 +39,7 @@
             "channel_name": "Live Event",
             "group_title": "Live Events",
             "logo": "https://placehold.co/800x450/0f172a/ffffff.png?text=IPL+T20+2026&font=Oswald",
-            "url": "https://n5.sanwalyaarpya.com:1686/hls/skyscric.m3u8?md5=YQ97dkYi7YA34708Umk5pw&expires=1774720877",
-            "referrer": "https://profamouslife.com/",
-            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-            "match_name": "RCB vs Sunrisers Hyderabad",
-            "channel_name": "Live Event",
-            "group_title": "Live Events",
-            "logo": "https://placehold.co/800x450/0f172a/ffffff.png?text=RCB+vs+Sunrisers+Hyderabad&font=Oswald",
-            "url": "https://n14.sanwalyaarpya.com:1686/hls/skyscric.m3u8?md5=vNnP98lBx7UmlJ9geabJEw&expires=1774720879",
+            "url": "https://n8.sanwalyaarpya.com:1686/hls/skyscric.m3u8?md5=e86hPOT8XqY6vVHVk7r5Nw&expires=1774722686",
             "referrer": "https://profamouslife.com/",
             "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
@@ -48,7 +48,7 @@
             "channel_name": "Live Event",
             "group_title": "Live Events",
             "logo": "https://placehold.co/800x450/0f172a/ffffff.png?text=Barnet+vs+Cambridge+United&font=Oswald",
-            "url": "https://n14.sanwalyaarpya.com:1686/hls/skysme.m3u8?md5=eTLuT37wHTmNIoLyROSrug&expires=1774720880",
+            "url": "https://n9.sanwalyaarpya.com:1686/hls/skysme.m3u8?md5=wLf0JG4m2j_IklscKk2ThA&expires=1774722690",
             "referrer": "https://profamouslife.com/",
             "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
@@ -57,7 +57,7 @@
             "channel_name": "Live Event",
             "group_title": "Live Events",
             "logo": "https://placehold.co/800x450/0f172a/ffffff.png?text=Barrow+vs+Bromley&font=Oswald",
-            "url": "https://n2.sanwalyaarpya.com:1686/hls/skysme.m3u8?md5=QOcWVywgp5zIkHZS6Tj69g&expires=1774720882",
+            "url": "https://n8.sanwalyaarpya.com:1686/hls/skysme.m3u8?md5=RlBzrYYc2ps_TzwJgkQ8vg&expires=1774722692",
             "referrer": "https://profamouslife.com/",
             "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
@@ -66,25 +66,7 @@
             "channel_name": "Live Event",
             "group_title": "Live Events",
             "logo": "https://placehold.co/800x450/0f172a/ffffff.png?text=Blackpool+vs+Burton+Albion&font=Oswald",
-            "url": "https://n5.sanwalyaarpya.com:1686/hls/skysme.m3u8?md5=0vCs-soW7x9dNSxIXax7ew&expires=1774720884",
-            "referrer": "https://profamouslife.com/",
-            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-            "match_name": "Bristol Rovers vs Accrington Stanley",
-            "channel_name": "Live Event",
-            "group_title": "Live Events",
-            "logo": "https://placehold.co/800x450/0f172a/ffffff.png?text=Bristol+Rovers+vs+Accrington+Stanley&font=Oswald",
-            "url": "https://n3.sanwalyaarpya.com:1686/hls/skysme.m3u8?md5=yNqxwP2UukC4vEoPcuqxQA&expires=1774720886",
-            "referrer": "https://profamouslife.com/",
-            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-            "match_name": "Colchester United vs Walsall",
-            "channel_name": "Live Event",
-            "group_title": "Live Events",
-            "logo": "https://placehold.co/800x450/0f172a/ffffff.png?text=Colchester+United+vs+Walsall&font=Oswald",
-            "url": "https://n3.sanwalyaarpya.com:1686/hls/skysme.m3u8?md5=Vki8rWWx8I0acIkiycN20w&expires=1774720887",
+            "url": "https://n5.sanwalyaarpya.com:1686/hls/skysme.m3u8?md5=sRB_8-Zt7JWa7Fbbbgj_Pg&expires=1774722694",
             "referrer": "https://profamouslife.com/",
             "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
@@ -93,7 +75,7 @@
             "channel_name": "Live Event",
             "group_title": "Live Events",
             "logo": "https://placehold.co/800x450/0f172a/ffffff.png?text=Crawley+Town+vs+Gillingham&font=Oswald",
-            "url": "https://n3.sanwalyaarpya.com:1686/hls/skysme.m3u8?md5=1z8sHg1O8lBNGha3pODMZw&expires=1774720889",
+            "url": "https://n4.sanwalyaarpya.com:1686/hls/skysme.m3u8?md5=USriKu55EM7ZoNljIgoPIA&expires=1774722701",
             "referrer": "https://profamouslife.com/",
             "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
@@ -102,7 +84,7 @@
             "channel_name": "Live Event",
             "group_title": "Live Events",
             "logo": "https://placehold.co/800x450/0f172a/ffffff.png?text=Crewe+Alexandra+vs+Oldham+Athletic&font=Oswald",
-            "url": "https://n14.sanwalyaarpya.com:1686/hls/skysme.m3u8?md5=kAspuC7XuCoNkgvEY9Zm9Q&expires=1774720891",
+            "url": "https://n9.sanwalyaarpya.com:1686/hls/skysme.m3u8?md5=nRTe-NnNB98UQ8B5bGvPPw&expires=1774722703",
             "referrer": "https://profamouslife.com/",
             "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
@@ -111,7 +93,7 @@
             "channel_name": "Live Event",
             "group_title": "Live Events",
             "logo": "https://placehold.co/800x450/0f172a/ffffff.png?text=Exeter+City+vs+Leyton+Orient&font=Oswald",
-            "url": "https://n14.sanwalyaarpya.com:1686/hls/skysme.m3u8?md5=YIbcaMHKgsIU--h1hlecdQ&expires=1774720893",
+            "url": "https://n6.sanwalyaarpya.com:1686/hls/skysme.m3u8?md5=xK0wMpWwIdMkGe3u4h5QxQ&expires=1774722705",
             "referrer": "https://profamouslife.com/",
             "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
@@ -120,7 +102,7 @@
             "channel_name": "Live Event",
             "group_title": "Live Events",
             "logo": "https://placehold.co/800x450/0f172a/ffffff.png?text=Newport+County+AFC+vs+Shrewsbury+Town&font=Oswald",
-            "url": "https://n9.sanwalyaarpya.com:1686/hls/skysme.m3u8?md5=06ZYdX-uU0-IPya-kXefAg&expires=1774720895",
+            "url": "https://n6.sanwalyaarpya.com:1686/hls/skysme.m3u8?md5=52xoh54h7vVUU8bem5YdVA&expires=1774722707",
             "referrer": "https://profamouslife.com/",
             "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
@@ -129,7 +111,7 @@
             "channel_name": "Live Event",
             "group_title": "Live Events",
             "logo": "https://placehold.co/800x450/0f172a/ffffff.png?text=Reading+vs+Wigan+Athletic&font=Oswald",
-            "url": "https://n2.sanwalyaarpya.com:1686/hls/skysme.m3u8?md5=P5x_ZAx4RB1IHFEKeqcSSQ&expires=1774720896",
+            "url": "https://n2.sanwalyaarpya.com:1686/hls/skysme.m3u8?md5=sxoT3zKdjRuk9_exofkXRA&expires=1774722709",
             "referrer": "https://profamouslife.com/",
             "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
@@ -138,7 +120,7 @@
             "channel_name": "Live Event",
             "group_title": "Live Events",
             "logo": "https://placehold.co/800x450/0f172a/ffffff.png?text=Salford+City+vs+Milton+Keynes+Dons&font=Oswald",
-            "url": "https://n7.sanwalyaarpya.com:1686/hls/skysme.m3u8?md5=yp5JoYUtwkvcqbYAPhtqNA&expires=1774720898",
+            "url": "https://n4.sanwalyaarpya.com:1686/hls/skysme.m3u8?md5=hR0dxF23_VexP6ip8gjQgQ&expires=1774722711",
             "referrer": "https://profamouslife.com/",
             "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
@@ -147,7 +129,7 @@
             "channel_name": "Live Event",
             "group_title": "Live Events",
             "logo": "https://placehold.co/800x450/0f172a/ffffff.png?text=Stockport+County+vs+AFC+Wimbledon&font=Oswald",
-            "url": "https://n9.sanwalyaarpya.com:1686/hls/skysme.m3u8?md5=hQlYBwJjCFeIoQHQgAwY4w&expires=1774720900",
+            "url": "https://n8.sanwalyaarpya.com:1686/hls/skysme.m3u8?md5=NqpqtWCqEAuH0b3PQ8Q2Dw&expires=1774722714",
             "referrer": "https://profamouslife.com/",
             "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
@@ -156,7 +138,7 @@
             "channel_name": "Live Event",
             "group_title": "Live Events",
             "logo": "https://placehold.co/800x450/0f172a/ffffff.png?text=Swindon+Town+vs+Fleetwood+Town&font=Oswald",
-            "url": "https://n6.sanwalyaarpya.com:1686/hls/skysme.m3u8?md5=3KHj7CzBe9OglD76IJ5eDw&expires=1774720902",
+            "url": "https://n9.sanwalyaarpya.com:1686/hls/skysme.m3u8?md5=AJ9O8iZAdl6YzYVOvnbaag&expires=1774722716",
             "referrer": "https://profamouslife.com/",
             "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
@@ -165,7 +147,7 @@
             "channel_name": "Live Event",
             "group_title": "Live Events",
             "logo": "https://placehold.co/800x450/0f172a/ffffff.png?text=Wycombe+Wanderers+vs+Port+Vale&font=Oswald",
-            "url": "https://n9.sanwalyaarpya.com:1686/hls/skysme.m3u8?md5=_K-f1RmJTFNImrkQvq2weg&expires=1774720903",
+            "url": "https://n7.sanwalyaarpya.com:1686/hls/skysme.m3u8?md5=bGSE7oHtSK-utI2wEyFE3Q&expires=1774722718",
             "referrer": "https://profamouslife.com/",
             "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
