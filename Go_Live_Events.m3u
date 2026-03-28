@@ -2,26 +2,26 @@
 #"name": "Live Sports Events Auto Update"
 #"owner": "Md Sohanur Rahman Hady"
 #"telegram": "https://t.me/livesportsplay"
-#"last updated": "2026-03-28 06:01:17 PM (BD Time)"
+#"last updated": "2026-03-28 06:31:16 PM (BD Time)"
 # Total Active Links: 4
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=New+Zealand+vs+South+Africa&font=Oswald" group-title="Live Events", New Zealand vs South Africa
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://n4.sanwalyaarpya.com:1686/hls/bbtsp1.m3u8?md5=HDhKX8yQxZfzl_vQEROFpA&expires=1774706467
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=PSL+T20+2026&font=Oswald" group-title="Live Events", PSL T20 2026
-#EXTVLCOPT:http-referrer=https://profamouslife.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://n4.sanwalyaarpya.com:1686/hls/ptvpk.m3u8?md5=DFHRalqRC-y4sSsWmBf8NQ&expires=1774706469
+https://n6.sanwalyaarpya.com:1686/hls/bbtsp1.m3u8?md5=4cjaS08ahpgaBEr7K7cohg&expires=1774708266
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=Aramco+Japanese+GP&font=Oswald" group-title="Live Events", Aramco Japanese GP
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://n3.sanwalyaarpya.com:1686/hls/skysfor1.m3u8?md5=OIV9UbzoCxeFgimm9RMQ3Q&expires=1774706471
+https://n3.sanwalyaarpya.com:1686/hls/skysfor1.m3u8?md5=fZHwL_fhnKR2iG0-d4V0YQ&expires=1774708269
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=IPL+T20+2026&font=Oswald" group-title="Live Events", IPL T20 2026
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://n8.sanwalyaarpya.com:1686/hls/skyscric.m3u8?md5=Iv73LXtzGmV-fwYW6pIPmA&expires=1774706474
+https://n7.sanwalyaarpya.com:1686/hls/skyscric.m3u8?md5=1mppEfJsPy4sEpNjRsgQMg&expires=1774708271
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=Everton+Women+vs+Liverpool+Women&font=Oswald" group-title="Live Events", Everton Women vs Liverpool Women
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://n5.sanwalyaarpya.com:1686/hls/skysmixx.m3u8?md5=MwBIp2gs6UPiODTrKzZ4hQ&expires=1774708273
 
