@@ -3,16 +3,25 @@
         "name": "Live Sports Events",
         "owner": "Md Sohanur Rahman Hady",
         "telegram": "https://t.me/livesportsplay",
-        "last_updated": "2026-03-28 09:31:05 AM (BD Time)",
-        "total_active_links": 3
+        "last_updated": "2026-03-28 10:01:09 AM (BD Time)",
+        "total_active_links": 5
     },
     "channels": [
+        {
+            "match_name": "New Zealand vs South Africa",
+            "channel_name": "Live Event",
+            "group_title": "Live Events",
+            "logo": "https://placehold.co/800x450/0f172a/ffffff.png?text=New+Zealand+vs+South+Africa&font=Oswald",
+            "url": "https://n4.sanwalyaarpya.com:1686/hls/bbtsp1.m3u8?md5=4cHiwaR76Dy-xwR7Q7-DXA&expires=1774677660",
+            "referrer": "https://profamouslife.com/",
+            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
         {
             "match_name": "PSL T20 2026",
             "channel_name": "Live Event",
             "group_title": "Live Events",
             "logo": "https://placehold.co/800x450/0f172a/ffffff.png?text=PSL+T20+2026&font=Oswald",
-            "url": "https://n3.sanwalyaarpya.com:1686/hls/ptvpk.m3u8?md5=HZIuugUCQDsGM7uBE3IswA&expires=1774675860",
+            "url": "https://n9.sanwalyaarpya.com:1686/hls/ptvpk.m3u8?md5=ijqRyxSL7fEDBnSoIAMpvg&expires=1774677662",
             "referrer": "https://profamouslife.com/",
             "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
@@ -21,7 +30,7 @@
             "channel_name": "Live Event",
             "group_title": "Live Events",
             "logo": "https://placehold.co/800x450/0f172a/ffffff.png?text=Aramco+Japanese+GP&font=Oswald",
-            "url": "https://n14.sanwalyaarpya.com:1686/hls/skysfor1.m3u8?md5=GZK13bbC63n5z31b1ag5bw&expires=1774675862",
+            "url": "https://n6.sanwalyaarpya.com:1686/hls/skysfor1.m3u8?md5=saA4Clw5Qgz2gBMVtfjIzQ&expires=1774677664",
             "referrer": "https://profamouslife.com/",
             "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
@@ -30,7 +39,16 @@
             "channel_name": "Live Event",
             "group_title": "Live Events",
             "logo": "https://placehold.co/800x450/0f172a/ffffff.png?text=IPL+T20+2026&font=Oswald",
-            "url": "https://n7.sanwalyaarpya.com:1686/hls/skyscric.m3u8?md5=C0UR28-Lihu7HCwX_5hhkg&expires=1774675863",
+            "url": "https://n3.sanwalyaarpya.com:1686/hls/skyscric.m3u8?md5=vM-RrcyoXdrdSjHt8DZrow&expires=1774677665",
+            "referrer": "https://profamouslife.com/",
+            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+            "match_name": "Hurricanes vs Reds",
+            "channel_name": "Live Event",
+            "group_title": "Live Events",
+            "logo": "https://placehold.co/800x450/0f172a/ffffff.png?text=Hurricanes+vs+Reds&font=Oswald",
+            "url": "https://n14.sanwalyaarpya.com:1686/hls/skysme.m3u8?md5=_4ypBdDupb9G3-RyXMuZnw&expires=1774677667",
             "referrer": "https://profamouslife.com/",
             "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
