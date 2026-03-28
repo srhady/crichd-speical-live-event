@@ -3,8 +3,8 @@
         "name": "Live Sports Events",
         "owner": "Md Sohanur Rahman Hady",
         "telegram": "https://t.me/livesportsplay",
-        "last_updated": "2026-03-28 06:31:16 PM (BD Time)",
-        "total_active_links": 4
+        "last_updated": "2026-03-28 07:01:31 PM (BD Time)",
+        "total_active_links": 5
     },
     "channels": [
         {
@@ -12,7 +12,16 @@
             "channel_name": "Live Event",
             "group_title": "Live Events",
             "logo": "https://placehold.co/800x450/0f172a/ffffff.png?text=New+Zealand+vs+South+Africa&font=Oswald",
-            "url": "https://n6.sanwalyaarpya.com:1686/hls/bbtsp1.m3u8?md5=4cjaS08ahpgaBEr7K7cohg&expires=1774708266",
+            "url": "https://n9.sanwalyaarpya.com:1686/hls/bbtsp1.m3u8?md5=W8ZKwAq9i1j-CkDLxKsTEw&expires=1774710078",
+            "referrer": "https://profamouslife.com/",
+            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+            "match_name": "PSL T20 2026",
+            "channel_name": "Live Event",
+            "group_title": "Live Events",
+            "logo": "https://placehold.co/800x450/0f172a/ffffff.png?text=PSL+T20+2026&font=Oswald",
+            "url": "https://n2.sanwalyaarpya.com:1686/hls/ptvpk.m3u8?md5=Ngl_nP7v91AiAR54Jy1XdQ&expires=1774710081",
             "referrer": "https://profamouslife.com/",
             "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
@@ -21,7 +30,7 @@
             "channel_name": "Live Event",
             "group_title": "Live Events",
             "logo": "https://placehold.co/800x450/0f172a/ffffff.png?text=Aramco+Japanese+GP&font=Oswald",
-            "url": "https://n3.sanwalyaarpya.com:1686/hls/skysfor1.m3u8?md5=fZHwL_fhnKR2iG0-d4V0YQ&expires=1774708269",
+            "url": "https://n5.sanwalyaarpya.com:1686/hls/skysfor1.m3u8?md5=PttpopoXcRc1uwOND2FMPw&expires=1774710083",
             "referrer": "https://profamouslife.com/",
             "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
@@ -30,16 +39,16 @@
             "channel_name": "Live Event",
             "group_title": "Live Events",
             "logo": "https://placehold.co/800x450/0f172a/ffffff.png?text=IPL+T20+2026&font=Oswald",
-            "url": "https://n7.sanwalyaarpya.com:1686/hls/skyscric.m3u8?md5=1mppEfJsPy4sEpNjRsgQMg&expires=1774708271",
+            "url": "https://n5.sanwalyaarpya.com:1686/hls/skyscric.m3u8?md5=1moRIC13up9Zapz8qFZRYg&expires=1774710085",
             "referrer": "https://profamouslife.com/",
             "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-            "match_name": "Everton Women vs Liverpool Women",
+            "match_name": "Harrogate Town vs Notts County",
             "channel_name": "Live Event",
             "group_title": "Live Events",
-            "logo": "https://placehold.co/800x450/0f172a/ffffff.png?text=Everton+Women+vs+Liverpool+Women&font=Oswald",
-            "url": "https://n5.sanwalyaarpya.com:1686/hls/skysmixx.m3u8?md5=MwBIp2gs6UPiODTrKzZ4hQ&expires=1774708273",
+            "logo": "https://placehold.co/800x450/0f172a/ffffff.png?text=Harrogate+Town+vs+Notts+County&font=Oswald",
+            "url": "https://n6.sanwalyaarpya.com:1686/hls/skysfott.m3u8?md5=qMmga7CDazZWB2N1JImnLQ&expires=1774710089",
             "referrer": "https://profamouslife.com/",
             "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
