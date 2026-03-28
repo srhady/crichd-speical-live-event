@@ -2,26 +2,31 @@
 #"name": "Live Sports Events Auto Update"
 #"owner": "Md Sohanur Rahman Hady"
 #"telegram": "https://t.me/livesportsplay"
-#"last updated": "2026-03-29 01:30:55 AM (BD Time)"
-# Total Active Links: 4
+#"last updated": "2026-03-29 02:00:58 AM (BD Time)"
+# Total Active Links: 5
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=New+Zealand+vs+South+Africa&font=Oswald" group-title="Live Events", New Zealand vs South Africa
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://n4.sanwalyaarpya.com:1686/hls/bbtsp1.m3u8?md5=F6isbPRljwGO6M2H6AOgCw&expires=1774733446
+https://n8.sanwalyaarpya.com:1686/hls/bbtsp1.m3u8?md5=p1tjXtFvWYZRfzh3Kt7s8Q&expires=1774735248
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=PSL+T20+2026&font=Oswald" group-title="Live Events", PSL T20 2026
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://n5.sanwalyaarpya.com:1686/hls/ptvpk.m3u8?md5=FAebHTy4TlajFqCXhNBYNg&expires=1774733448
+https://n2.sanwalyaarpya.com:1686/hls/ptvpk.m3u8?md5=TbwSj6z0ILEom7w24a-H2A&expires=1774735250
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=Aramco+Japanese+GP&font=Oswald" group-title="Live Events", Aramco Japanese GP
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://n7.sanwalyaarpya.com:1686/hls/skysfor1.m3u8?md5=jMQ0Msc0esr41okLMWgc5w&expires=1774733450
+https://n8.sanwalyaarpya.com:1686/hls/skysfor1.m3u8?md5=Kyp7Oyhaa5BakKERyKBVBQ&expires=1774735252
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=IPL+T20+2026&font=Oswald" group-title="Live Events", IPL T20 2026
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://n5.sanwalyaarpya.com:1686/hls/skyscric.m3u8?md5=phzi5KbCXeD9RUnN8Adbog&expires=1774733452
+https://n9.sanwalyaarpya.com:1686/hls/skyscric.m3u8?md5=1hxAxE6sAr5rO1lzgzyVuQ&expires=1774735254
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=USA+vs+Belgium&font=Oswald" group-title="Live Events", USA vs Belgium
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://n9.sanwalyaarpya.com:1686/hls/hdchnl2.m3u8?md5=7Rla1Rk66Ugw7aTJZ1Zhqg&expires=1774735256
 
