@@ -3,8 +3,8 @@
         "name": "Live Sports Events",
         "owner": "Md Sohanur Rahman Hady",
         "telegram": "https://t.me/livesportsplay",
-        "last_updated": "2026-03-29 08:30:48 AM (BD Time)",
-        "total_active_links": 3
+        "last_updated": "2026-03-29 09:00:51 AM (BD Time)",
+        "total_active_links": 4
     },
     "channels": [
         {
@@ -12,7 +12,16 @@
             "channel_name": "Live Event",
             "group_title": "Live Events",
             "logo": "https://placehold.co/800x450/0f172a/ffffff.png?text=New+Zealand+vs+South+Africa&font=Oswald",
-            "url": "https://n9.sanwalyaarpya.com:1686/hls/bbtsp1.m3u8?md5=j3raBQd9vbewBZRFGMWTnA&expires=1774758641",
+            "url": "https://n7.sanwalyaarpya.com:1686/hls/bbtsp1.m3u8?md5=hg1q7Ns9H1rK5SMGy1WjWQ&expires=1774760444",
+            "referrer": "https://profamouslife.com/",
+            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+            "match_name": "PSL T20 2026",
+            "channel_name": "Live Event",
+            "group_title": "Live Events",
+            "logo": "https://placehold.co/800x450/0f172a/ffffff.png?text=PSL+T20+2026&font=Oswald",
+            "url": "https://n6.sanwalyaarpya.com:1686/hls/ptvpk.m3u8?md5=xurHHy-vGN0HISV0HttqBQ&expires=1774760446",
             "referrer": "https://profamouslife.com/",
             "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
@@ -21,7 +30,7 @@
             "channel_name": "Live Event",
             "group_title": "Live Events",
             "logo": "https://placehold.co/800x450/0f172a/ffffff.png?text=Aramco+Japanese+GP&font=Oswald",
-            "url": "https://n6.sanwalyaarpya.com:1686/hls/skysfor1.m3u8?md5=Wo_pSvcX8tLQGgEG0WhyOA&expires=1774758645",
+            "url": "https://n9.sanwalyaarpya.com:1686/hls/skysfor1.m3u8?md5=Fxd5UShiz1J_qS6DxknKdA&expires=1774760448",
             "referrer": "https://profamouslife.com/",
             "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
@@ -30,7 +39,7 @@
             "channel_name": "Live Event",
             "group_title": "Live Events",
             "logo": "https://placehold.co/800x450/0f172a/ffffff.png?text=IPL+T20+2026&font=Oswald",
-            "url": "https://n9.sanwalyaarpya.com:1686/hls/skyscric.m3u8?md5=oSu3rp438Quzu5__8WIzPw&expires=1774758647",
+            "url": "https://n4.sanwalyaarpya.com:1686/hls/skyscric.m3u8?md5=0G78V5K09DqjFe0GIUqgAg&expires=1774760450",
             "referrer": "https://profamouslife.com/",
             "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
