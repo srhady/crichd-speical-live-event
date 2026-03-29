@@ -2,7 +2,7 @@
     "playlist_name": "Live Sports Events",
     "owner": "Md Sohanur Rahman Hady",
     "telegram": "https://t.me/livesportsplay",
-    "last_updated": "2026-03-30 01:01:45 AM (BD Time)",
+    "last_updated": "2026-03-30 01:31:47 AM (BD Time)",
     "total_links": 5,
     "matches": [
         {
@@ -23,13 +23,13 @@
                     "Channel name": "Link 1",
                     "Language": "English",
                     "Embed link": "https://footystream.top/alpha/houston-open/14311",
-                    "Stream link": "https://ting.bhalocast.com:7059/hls/dadoskygo.m3u8?md5=KQDTRerzFZ1B7PS4uKRuyg&expires=1774815665&ch=dadoskygo&s=ffc91a67dd424893d0f4600dfc008e58"
+                    "Stream link": "https://jan.bhalocast.com:7059/hls/dadoskygo.m3u8?md5=M2QHzsh3ZPU0gLuMIbA9ug&expires=1774817466&ch=dadoskygo&s=17be9972fde9b918090f7c36c8476969"
                 },
                 {
                     "Channel name": "Link 2",
                     "Language": "English",
                     "Embed link": "https://footystream.top/alpha/houston-open/14312",
-                    "Stream link": "https://ting.bhalocast.com:7059/hls/dadosky1.m3u8?md5=Ko4Rb9uTW-h8yotWDXyCwg&expires=1774815667&ch=dadosky1&s=195b7aab45517d1f9f19110a45c96903"
+                    "Stream link": "https://ting.bhalocast.com:7059/hls/dadosky1.m3u8?md5=Jj7NnRm3_L5jn_WeOVsiSg&expires=1774817467&ch=dadosky1&s=416076d3d145194fbdf37b9189f9035c"
                 }
             ]
         },
@@ -51,7 +51,7 @@
                     "Channel name": "Link 1",
                     "Language": "English",
                     "Embed link": "https://footystream.top/alpha/americas-grand-prix/14322",
-                    "Stream link": "https://dz2.bhalocast.com:7059/hls/bbtsvp2.m3u8?md5=GqBeE2lu7dU1YkG60AH6og&expires=1774815669&ch=bbtsvp2&s=24047dd1b95d784f5920c849fa4a7712"
+                    "Stream link": "https://dz2.bhalocast.com:7059/hls/bbtsvp2.m3u8?md5=eOf_CciLF5nyhwKCWBfBjw&expires=1774817470&ch=bbtsvp2&s=831b469f7381c3fa43d95269fd332ec3"
                 }
             ]
         },
@@ -73,13 +73,35 @@
                     "Channel name": "Link 1",
                     "Language": "English",
                     "Embed link": "https://footystream.top/alpha/colombia-vs-france/14324",
-                    "Stream link": "https://dz2.bhalocast.com:7059/hls/spch78.m3u8?md5=sV6_HXkuYIJD9qe2jd2VLQ&expires=1774815672&ch=spch78&s=357c30b792bf938fd70931096960e5cd"
+                    "Stream link": "https://ting.bhalocast.com:7059/hls/spch78.m3u8?md5=gusdFBSvbhSaN3CrkDD2lw&expires=1774817472&ch=spch78&s=fec86399405897a331886e9166a791a1"
                 },
                 {
                     "Channel name": "Link 2",
                     "Language": "Deutsch",
                     "Embed link": "https://footystream.top/alpha/colombia-vs-france/14325",
-                    "Stream link": "https://ting.bhalocast.com:7059/hls/yt31.m3u8?md5=iZ4tueDVoDd2VZx94FnNyQ&expires=1774815673&ch=yt31&s=ae4940127dc741cccdd4f03d14ae3a96"
+                    "Stream link": "https://ting.bhalocast.com:7059/hls/yt31.m3u8?md5=64uicm2aeLtUncriS6YqAQ&expires=1774817473&ch=yt31&s=449ba6ff9215ebc7b9226fba3623c172"
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "Snooker",
+            "match name": "Snooker Tour Championship",
+            "Team 1 Name": "Snooker Tour Championship",
+            "Team 1 Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
+            "Team 2 Name": "Snooker",
+            "Team 2 Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
+            "Start time": "2026-03-30T12:00:00.000Z",
+            "End time": "2026-04-05T23:00:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/snooker-tour-championship/14323",
+                    "Stream link": ""
                 }
             ]
         },
@@ -295,25 +317,18 @@
         },
         {
             "Category": "Football",
-            "Tour/Group name": "Snooker",
-            "match name": "Snooker Tour Championship",
-            "Team 1 Name": "Snooker Tour Championship",
-            "Team 1 Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
-            "Team 2 Name": "Snooker",
-            "Team 2 Logo": "https://cdn.img4every1.org/league/snooker/logo.webp",
-            "Start time": "2026-03-30T12:00:00.000Z",
-            "End time": "2026-04-05T23:00:00.000Z",
+            "Tour/Group name": "Friendly",
+            "match name": "Argentina vs Zambia",
+            "Team 1 Name": "Argentina",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/argentina/logo.webp",
+            "Team 2 Name": "Zambia",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/zambia/logo.webp",
+            "Start time": "2026-03-31T23:15:00.000Z",
+            "End time": "2026-04-01T01:25:00.000Z",
             "Status": "UPCOMING",
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": [
-                {
-                    "Channel name": "Link 1",
-                    "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/snooker-tour-championship/14323",
-                    "Stream link": ""
-                }
-            ]
+            "Channels": []
         },
         {
             "Category": "Football",
