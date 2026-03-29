@@ -2,31 +2,36 @@
 #"name": "Live Sports Events"
 #"owner": "Md Sohanur Rahman Hady"
 #"telegram": "https://t.me/livesportsplay"
-#"last updated": "2026-03-29 09:02:12 PM (BD Time)"
-# Total Active Links: 5
+#"last updated": "2026-03-29 09:32:18 PM (BD Time)"
+# Total Active Links: 6
 
 #EXTINF:-1 tvg-logo="https://cdn.img4every1.org/league/mxgp/logo.webp" group-title="MXGP", MXGP Switzerland - Link 1
 #EXTVLCOPT:http-referrer=https://bhalocast.pro/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://dz2.bhalocast.com:7059/hls/bbtsip4a.m3u8?md5=BkUdUAuldgdrueSpzohCvQ&expires=1774801286&ch=bbtsip4a&s=a416891768954761ea08aa04b861bb45
+https://ting.bhalocast.com:7059/hls/bbtsip4a.m3u8?md5=Tv1SdUooWSB4aAhZK3Tc2w&expires=1774803089&ch=bbtsip4a&s=3b75a34b0bb4079ab12d1f0b4b822592
 
 #EXTINF:-1 tvg-logo="https://cdn.img4every1.org/league/pga-tour/logo.webp" group-title="PGA Tour", Houston Open - Link 1
 #EXTVLCOPT:http-referrer=https://bhalocast.pro/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://jan.bhalocast.com:7059/hls/dadoskygo.m3u8?md5=dydp3rZw8vBn17Nj8Gnf8w&expires=1774801289&ch=dadoskygo&s=91c415a7d2ae994dce44115e5c96a2fa
+https://ting.bhalocast.com:7059/hls/dadoskygo.m3u8?md5=238qWeIbm33yUljKOgLxgw&expires=1774803092&ch=dadoskygo&s=2a8d5fe936dd2b8d955a6de706147892
 
 #EXTINF:-1 tvg-logo="https://cdn.img4every1.org/league/pga-tour/logo.webp" group-title="PGA Tour", Houston Open - Link 2
 #EXTVLCOPT:http-referrer=https://bhalocast.pro/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://jan.bhalocast.com:7059/hls/dadosky1.m3u8?md5=4RV0It7v1e2spDArh65wvg&expires=1774801290&ch=dadosky1&s=8a210addf18ad9b6f50b70bf9d2fee93
+https://ting.bhalocast.com:7059/hls/dadosky1.m3u8?md5=ABhxUhUKzPwjGzmrHCvgvw&expires=1774803093&ch=dadosky1&s=d21ccaeade0200852697b48fcb3556cf
 
 #EXTINF:-1 tvg-logo="https://cdn.img4every1.org/team/leicester-city/logo.webp" group-title="WSL", Leicester City vs Brighton - Link 1
 #EXTVLCOPT:http-referrer=https://bhalocast.pro/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://jan.bhalocast.com:7059/hls/spch67.m3u8?md5=8ur5byUaOIKYKYtlVaz1Mg&expires=1774801293&ch=spch67&s=c8c11f3ed19433734de721fefc93bb34
+https://jan.bhalocast.com:7059/hls/spch67.m3u8?md5=9M0aew99NXqbOObOUx9x5Q&expires=1774803096&ch=spch67&s=5ed88f8af89f7ce12f6a699799b43e85
 
 #EXTINF:-1 tvg-logo="https://cdn.img4every1.org/team/sale-sharks/logo.webp" group-title="Premiership Rugby", Sale Sharks vs Bath - Link 1
 #EXTVLCOPT:http-referrer=https://bhalocast.pro/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://jan.bhalocast.com:7059/hls/bbtsip1.m3u8?md5=E0H9W3F0QWNJFK6bygAg0Q&expires=1774801296&ch=bbtsip1&s=a3cabe806e75b6525e52b246b36dc483
+https://ting.bhalocast.com:7059/hls/bbtsip1.m3u8?md5=G4mtpl7wCm1WL7hheJWwsA&expires=1774803099&ch=bbtsip1&s=bc5127836b216bd7fb8b87a042c00632
+
+#EXTINF:-1 tvg-logo="https://cdn.img4every1.org/league/motogp-streams/logo.webp" group-title="MotoGP", MotoGP Americas Grand Prix - Link 1
+#EXTVLCOPT:http-referrer=https://bhalocast.pro/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://dz2.bhalocast.com:7059/hls/bbtsvp2.m3u8?md5=U4HJjaRuKPAZfj1RXkfvRg&expires=1774803101&ch=bbtsvp2&s=1bb6db4179ad07ae3bb64bb7ad74643a
 
