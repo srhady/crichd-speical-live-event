@@ -2,21 +2,136 @@
 #"name": "Live Sports Events"
 #"owner": "Md Sohanur Rahman Hady"
 #"telegram": "https://t.me/livesportsplay"
-#"last updated": "2026-03-29 08:30:56 PM (BD Time)"
-# Total Active Links: 3
+#"last updated": "2026-03-29 09:01:08 PM (BD Time)"
+# Total Active Links: 26
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=Pakistan+Super+League&font=Oswald" group-title="PSL T20", Pakistan Super League - PTV Sports
+#EXTVLCOPT:http-referrer=https://player0003.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://jan.bhalocast.com:7059/hls/ptvscpr.m3u8?md5=P2TOKldGJt1UxGjcUY2Ynw&expires=1774801223&ch=ptvscpr&s=1a8d5047a5452118388adbc10bb29ecc
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=Pakistan+Super+League&font=Oswald" group-title="PSL T20", Pakistan Super League - A Sports HD
+#EXTVLCOPT:http-referrer=https://player0003.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://jan.bhalocast.com:7059/hls/asportsd.m3u8?md5=M--iy9UbnMwOagmFgJDTYw&expires=1774801224&ch=asportsd&s=662cc0dcebe181f904892dd5c0e44c37
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=Pakistan+Super+League&font=Oswald" group-title="PSL T20", Pakistan Super League - Ten Sports
+#EXTVLCOPT:http-referrer=https://player0003.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://jan.bhalocast.com:7059/hls/tensp.m3u8?md5=2sc9Urb6ht1DDitauHrBGw&expires=1774801225&ch=tensp&s=dfe10a14e0fe204164efd4df7255e54b
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=IPL+2026&font=Oswald" group-title="IPL T20", IPL 2026 - Willow Cricket
+#EXTVLCOPT:http-referrer=https://player0003.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://dz2.bhalocast.com:7059/hls/dxdwillo.m3u8?md5=o9wgC_WB2stEFFE7y9szXQ&expires=1774801229&ch=dxdwillo&s=9a1b74f54dc1d04805e4f2c0e28ef4e3
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=IPL+2026&font=Oswald" group-title="IPL T20", IPL 2026 - Willow Xtra
+#EXTVLCOPT:http-referrer=https://player0003.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://jan.bhalocast.com:7059/hls/dxwillo2.m3u8?md5=YlyA7phjHcXkr6LxSjBhHw&expires=1774801230&ch=dxwillo2&s=a627fe7643db7ec14b9d676e06c0d98d
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=IPL+2026&font=Oswald" group-title="IPL T20", IPL 2026 - Star Sports 1
+#EXTVLCOPT:http-referrer=https://player0003.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://dz2.bhalocast.com:7059/hls/star1co.m3u8?md5=P1BccO3yVwlcEZzKBa1D4A&expires=1774801231&ch=star1co&s=b47f795add37b3172f7896f8a2b1c769
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=IPL+2026&font=Oswald" group-title="IPL T20", IPL 2026 - Star Sports 2
+#EXTVLCOPT:http-referrer=https://player0003.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://dz2.bhalocast.com:7059/hls/str2cows.m3u8?md5=fjwOQQpg5K3nZasmDXzeEA&expires=1774801233&ch=str2cows&s=aed2e2c9133128da4f021a4c38e70bc4
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=IPL+2026&font=Oswald" group-title="IPL T20", IPL 2026 - Star Sports Hindi
+#EXTVLCOPT:http-referrer=https://player0003.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://dz2.bhalocast.com:7059/hls/str1crowshi.m3u8?md5=o4hEEjHTU61WinvryJsBfg&expires=1774801234&ch=str1crowshi&s=eca87f9452e81fc7d3265b9f24305bb4
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=IPL+2026&font=Oswald" group-title="IPL T20", IPL 2026 - Star Sports 1 Tamil
+#EXTVLCOPT:http-referrer=https://player0003.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://dz2.bhalocast.com:7059/hls/starsp1tamil.m3u8?md5=ht2OnmA7biyhtgwBL6qrgw&expires=1774801237&ch=starsp1tamil&s=6c1fc3f5492be25ef8cc92a12cadfde7
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=IPL+2026&font=Oswald" group-title="IPL T20", IPL 2026 - Star Sports 1 Telugu
+#EXTVLCOPT:http-referrer=https://player0003.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://dz2.bhalocast.com:7059/hls/starsp1telu.m3u8?md5=MK2EqxHz_X8itB7_d5WJHw&expires=1774801238&ch=starsp1telu&s=635dcb1d308152b1fbdfbffc0878078e
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=KK+vs+LQ&font=Oswald" group-title="PSL T20", KK vs LQ - PTV Sports
+#EXTVLCOPT:http-referrer=https://player0003.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://dz2.bhalocast.com:7059/hls/ptvscpr.m3u8?md5=iXURTonQdEpLLt_q9l0OEA&expires=1774801240&ch=ptvscpr&s=119fed6794c9abcc8d3585cec105ae23
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=KK+vs+LQ&font=Oswald" group-title="PSL T20", KK vs LQ - A Sports HD
+#EXTVLCOPT:http-referrer=https://player0003.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://dz2.bhalocast.com:7059/hls/asportsd.m3u8?md5=1I8OHoHb-TyZENQaBrun_w&expires=1774801241&ch=asportsd&s=e1c5a7b2b49462bc03e6606abb6697ae
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=KK+vs+LQ&font=Oswald" group-title="PSL T20", KK vs LQ - Ten Sports
+#EXTVLCOPT:http-referrer=https://player0003.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://dz2.bhalocast.com:7059/hls/tensp.m3u8?md5=CKScYYc4Wdx7Wd5Fd_A1yA&expires=1774801243&ch=tensp&s=4c149ff30b11e46edaaf354ba3d10631
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=KKR+vs+MI&font=Oswald" group-title="IPL T20", KKR vs MI - Willow Cricket
+#EXTVLCOPT:http-referrer=https://player0003.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://jan.bhalocast.com:7059/hls/dxdwillo.m3u8?md5=6kPa9yE3rWhoJjyA_jAdYw&expires=1774801246&ch=dxdwillo&s=5086fc17856a7d6197ad66d66cdaa030
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=KKR+vs+MI&font=Oswald" group-title="IPL T20", KKR vs MI - Willow Xtra
+#EXTVLCOPT:http-referrer=https://player0003.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://dz2.bhalocast.com:7059/hls/dxwillo2.m3u8?md5=656U1RQW34Hj1q_nzUxldA&expires=1774801247&ch=dxwillo2&s=5c6347551f75c7c7080e09aa80a200c6
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=KKR+vs+MI&font=Oswald" group-title="IPL T20", KKR vs MI - Star Sports 1
+#EXTVLCOPT:http-referrer=https://player0003.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://jan.bhalocast.com:7059/hls/star1co.m3u8?md5=uH_bQNOImtdBd57a1N48Kw&expires=1774801249&ch=star1co&s=dd37f0e736651393ad33df5cb1fae972
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=KKR+vs+MI&font=Oswald" group-title="IPL T20", KKR vs MI - Star Sports 2
+#EXTVLCOPT:http-referrer=https://player0003.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://jan.bhalocast.com:7059/hls/str2cows.m3u8?md5=bzss2urCaDEUyggfzL8jLg&expires=1774801250&ch=str2cows&s=c378dc57099ba87cbb588103aa36a79e
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=KKR+vs+MI&font=Oswald" group-title="IPL T20", KKR vs MI - Star Sports Hindi
+#EXTVLCOPT:http-referrer=https://player0003.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://dz2.bhalocast.com:7059/hls/str1crowshi.m3u8?md5=ZwVvPlZDR_hr8ZCY4cgGGw&expires=1774801251&ch=str1crowshi&s=370af101735d96f117de785b5b4bd3ca
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=CSK+vs+RR&font=Oswald" group-title="IPL T20", CSK vs RR - Willow Cricket
+#EXTVLCOPT:http-referrer=https://player0003.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://jan.bhalocast.com:7059/hls/dxdwillo.m3u8?md5=g3O12faHX-9G01jrYctf-w&expires=1774801254&ch=dxdwillo&s=c4a4fcff763ad2125b29321c75198981
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=CSK+vs+RR&font=Oswald" group-title="IPL T20", CSK vs RR - Willow Xtra
+#EXTVLCOPT:http-referrer=https://player0003.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://dz2.bhalocast.com:7059/hls/dxwillo2.m3u8?md5=l0JiFtl3E2KRfNC9ozl4ow&expires=1774801255&ch=dxwillo2&s=42570f1a805dc106e2d8d88784030805
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=CSK+vs+RR&font=Oswald" group-title="IPL T20", CSK vs RR - Star Sports 1
+#EXTVLCOPT:http-referrer=https://player0003.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://dz2.bhalocast.com:7059/hls/star1co.m3u8?md5=EFoYqkbaxsp3Sm72U0elVA&expires=1774801256&ch=star1co&s=e15e14b744b1c19729222ef39d6bd802
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=CSK+vs+RR&font=Oswald" group-title="IPL T20", CSK vs RR - Star Sports 2
+#EXTVLCOPT:http-referrer=https://player0003.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://dz2.bhalocast.com:7059/hls/str2cows.m3u8?md5=r5ZtO-i1eEA6JB_L9nnM4g&expires=1774801258&ch=str2cows&s=f145790234e37d7586e9f96167fdfeec
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=CSK+vs+RR&font=Oswald" group-title="IPL T20", CSK vs RR - Star Sports Hindi
+#EXTVLCOPT:http-referrer=https://player0003.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://dz2.bhalocast.com:7059/hls/str1crowshi.m3u8?md5=IivsHYDaiM0tyTQ2WcgfgA&expires=1774801259&ch=str1crowshi&s=ef7930ae4901c38df2347dae00770d6f
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=ISLU+vs+PZ&font=Oswald" group-title="PSL T20", ISLU vs PZ - PTV Sports
 #EXTVLCOPT:http-referrer=https://player0003.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://dz2.bhalocast.com:7059/hls/ptvscpr.m3u8?md5=_YloWKGcv2uOq_aoRScggg&expires=1774799449&ch=ptvscpr&s=406df500f8e916672789dbf222aa5ef8
+https://dz2.bhalocast.com:7059/hls/ptvscpr.m3u8?md5=8oq5J8QZADGg4AN2pDlgkw&expires=1774801261&ch=ptvscpr&s=01edef0333faacbb2f8551bf005afc6b
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=ISLU+vs+PZ&font=Oswald" group-title="PSL T20", ISLU vs PZ - A Sports HD
 #EXTVLCOPT:http-referrer=https://player0003.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://dz2.bhalocast.com:7059/hls/asportsd.m3u8?md5=utX3Y1zTuukVtxv8oeAyPw&expires=1774799450&ch=asportsd&s=7d63b83048da6e42f9e66ba6d7b80efc
+https://jan.bhalocast.com:7059/hls/asportsd.m3u8?md5=3VAmoDEIYee6iQV9BVztGw&expires=1774801262&ch=asportsd&s=3f348ba7ad1cff4601431575c3fe0010
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=ISLU+vs+PZ&font=Oswald" group-title="PSL T20", ISLU vs PZ - Ten Sports
 #EXTVLCOPT:http-referrer=https://player0003.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://dz2.bhalocast.com:7059/hls/tensp.m3u8?md5=iCjwjlt4m8utWqZ92HTAtw&expires=1774799451&ch=tensp&s=86101b92ed33ba05ff44339875c063a0
+https://dz2.bhalocast.com:7059/hls/tensp.m3u8?md5=w9JLOY-jg-kgHwHIIUNb9Q&expires=1774801264&ch=tensp&s=c1be795c98aafb0864668cfe1d02ef45
 
