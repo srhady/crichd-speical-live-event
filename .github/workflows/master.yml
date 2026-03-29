@@ -29,12 +29,13 @@ jobs:
           python private_repo/crichd_event_scraper.py
           python private_repo/go_crichd_scraper.py
           python private_repo/footy.py
+          python private_repo/crichdat.py
 
       - name: Commit and Push Changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           
-          git add Live_Events.m3u Live_Events.json Go_Live_Events.m3u Go_Live_Events.json Footy_Live.m3u Footy_Live.json
+          git add Live_Events.m3u Live_Events.json Go_Live_Events.m3u Go_Live_Events.json Footy_Live.m3u Footy_Live.json Crichdat_Live.m3u Crichdat_Live.json
           
           git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-updated All Live Events" && git pull --rebase origin main && git push)
