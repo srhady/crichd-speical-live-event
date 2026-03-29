@@ -2,6 +2,21 @@
 #"name": "Live Sports Events"
 #"owner": "Md Sohanur Rahman Hady"
 #"telegram": "https://t.me/livesportsplay"
-#"last updated": "2026-03-29 03:31:58 PM (BD Time)"
-# Total Active Links: 0
+#"last updated": "2026-03-29 03:39:16 PM (BD Time)"
+# Total Active Links: 3
+
+#EXTINF:-1 tvg-logo="https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp" group-title="Formula 1", F1 Japanese Grand Prix - Link 1
+#EXTVLCOPT:http-referrer=https://bhalocast.pro/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://jan.bhalocast.com:7059/hls/dadoskyf17.m3u8?md5=sE37XUl_MUUojqCxDsq7IA&expires=1774781908&ch=dadoskyf17&s=bca0f4dedf20b3ed59132b563fbdaea1
+
+#EXTINF:-1 tvg-logo="https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp" group-title="Formula 1", F1 Japanese Grand Prix - Link 2
+#EXTVLCOPT:http-referrer=https://bhalocast.pro/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://jan.bhalocast.com:7059/hls/spch17.m3u8?md5=XoB58MYHWDSId8PbS3e_Qg&expires=1774781910&ch=spch17&s=f51d2e8c1a093ec13f4a0fd25c2bd5c9
+
+#EXTINF:-1 tvg-logo="https://cdn.img4every1.org/league/pga-tour/logo.webp" group-title="PGA Tour", Indian Open - Link 1
+#EXTVLCOPT:http-referrer=https://bhalocast.pro/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://dz2.bhalocast.com:7059/hls/dadoskygo.m3u8?md5=6q3R5O187e8yswnBiLCiRQ&expires=1774781912&ch=dadoskygo&s=3f3817b6aa70ed75f387e64c6287045e
 
