@@ -2,31 +2,41 @@
 #"name": "Live Sports Events Auto Update"
 #"owner": "Md Sohanur Rahman Hady"
 #"telegram": "https://t.me/livesportsplay"
-#"last updated": "2026-03-29 11:31:13 PM (BD Time)"
-# Total Active Links: 5
+#"last updated": "2026-03-30 12:01:20 AM (BD Time)"
+# Total Active Links: 7
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=New+Zealand+vs+South+Africa&font=Oswald" group-title="Live Events", New Zealand vs South Africa
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://n5.sanwalyaarpya.com:1686/hls/bbtsp1.m3u8?md5=v9nzJcFafXCj279sx--NVQ&expires=1774812663
+https://n6.sanwalyaarpya.com:1686/hls/bbtsp1.m3u8?md5=WsUuBkeV_pUZdTqUkcjn1A&expires=1774814468
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=PSL+T20+2026&font=Oswald" group-title="Live Events", PSL T20 2026
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://n5.sanwalyaarpya.com:1686/hls/ptvpk.m3u8?md5=y9KfOEN9EaLLxGrJcArTlA&expires=1774812665
+https://n2.sanwalyaarpya.com:1686/hls/ptvpk.m3u8?md5=cbelJdNNgBpx4LCxX9J0eQ&expires=1774814470
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=Aramco+Japanese+GP&font=Oswald" group-title="Live Events", Aramco Japanese GP
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://n9.sanwalyaarpya.com:1686/hls/skysfor1.m3u8?md5=6rt1Xwx_bE2L-Yqh9jKMFQ&expires=1774812666
+https://n14.sanwalyaarpya.com:1686/hls/skysfor1.m3u8?md5=zlITk41AocV88xRzmxYX9Q&expires=1774814471
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=IPL+T20+2026&font=Oswald" group-title="Live Events", IPL T20 2026
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://n5.sanwalyaarpya.com:1686/hls/skyscric.m3u8?md5=jTPOHpBXVwohJ2oL2gC8bw&expires=1774812668
+https://n4.sanwalyaarpya.com:1686/hls/skyscric.m3u8?md5=D13KcxjCWh1dhWQ9C0ilng&expires=1774814473
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=Mumbai+Indians+vs+Kolkata+Knight+Riders&font=Oswald" group-title="Live Events", Mumbai Indians vs Kolkata Knight Riders
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://n6.sanwalyaarpya.com:1686/hls/skyscric.m3u8?md5=S0uFRT5qOkQtuK82MmMHIg&expires=1774814475
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=Leeds+Rhinos+vs+Warrington+Wolves&font=Oswald" group-title="Live Events", Leeds Rhinos vs Warrington Wolves
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://n9.sanwalyaarpya.com:1686/hls/skysme.m3u8?md5=S4dre-ytdcO5mZjE9TJk1g&expires=1774812672
+https://n5.sanwalyaarpya.com:1686/hls/skysme.m3u8?md5=2kLKyEXc34zAZQ_L0ioYgA&expires=1774814477
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=IndyCar+Barber+Motorsports+Park:+NTT+Race&font=Oswald" group-title="Live Events", IndyCar Barber Motorsports Park: NTT Race
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://n2.sanwalyaarpya.com:1686/hls/skysfor1.m3u8?md5=UURK7ZFsGNoCFHf0QNV_lg&expires=1774814479
 
