@@ -2,26 +2,66 @@
 #"name": "Live Sports Events"
 #"owner": "Md Sohanur Rahman Hady"
 #"telegram": "https://t.me/livesportsplay"
-#"last updated": "2026-03-30 11:36:29 PM (BD Time)"
-# Total Active Links: 4
+#"last updated": "2026-03-31 12:01:39 AM (BD Time)"
+# Total Active Links: 12
+
+#EXTINF:-1 tvg-logo="https://v2.1cdnforall.online/storage/191/responsive-images/PSL___preview_thumbnail_120_120.webp" group-title="PSL", Pakistan Super League vs PSL - Ptv Sports HD
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://n5.sanwalyaarpya.com:1686/hls/ptvpk.m3u8?md5=YvX6V8M0daTKUdUuxUNimA&expires=1774900891
+
+#EXTINF:-1 tvg-logo="https://v2.1cdnforall.online/storage/191/responsive-images/PSL___preview_thumbnail_120_120.webp" group-title="PSL", Pakistan Super League vs PSL - A Sports HD
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://n9.sanwalyaarpya.com:1686/hls/asportshd.m3u8?md5=phWplJzRRZb8xVO1RnyVAg&expires=1774900892
+
+#EXTINF:-1 tvg-logo="https://v2.1cdnforall.online/storage/191/responsive-images/PSL___preview_thumbnail_120_120.webp" group-title="PSL", Pakistan Super League vs PSL - Ten Sports HD
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://n5.sanwalyaarpya.com:1686/hls/tenspk.m3u8?md5=EtYOGwPxZKvXuPpFmsE8Jg&expires=1774900892
+
+#EXTINF:-1 tvg-logo="https://v2.1cdnforall.online/storage/191/responsive-images/PSL___preview_thumbnail_120_120.webp" group-title="PSL", Pakistan Super League vs PSL - Willow Cricket HD
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://n3.sanwalyaarpya.com:1686/hls/willowextra.m3u8?md5=Shynqs_XYY6EBLlEmDYg_Q&expires=1774900892
 
 #EXTINF:-1 tvg-logo="https://v2.1cdnforall.online/storage/177/responsive-images/ipl___preview_thumbnail_120_120.webp" group-title="IPL", Indian Premier League vs IPL T20 - Sky Sports Cricket HD
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://n7.sanwalyaarpya.com:1686/hls/skyscric.m3u8?md5=XCj4dFQpFBZYyodSdqEpFg&expires=1774899346
+https://n4.sanwalyaarpya.com:1686/hls/skyscric.m3u8?md5=3nBKUvl97xtFIfC7Gy8AZw&expires=1774900894
+
+#EXTINF:-1 tvg-logo="https://v2.1cdnforall.online/storage/177/responsive-images/ipl___preview_thumbnail_120_120.webp" group-title="IPL", Indian Premier League vs IPL T20 - Star Sports 1 HD
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://n5.sanwalyaarpya.com:1686/hls/star1in.m3u8?md5=ZtQQuMPjZiiHqbwCUM4Sww&expires=1774900895
+
+#EXTINF:-1 tvg-logo="https://v2.1cdnforall.online/storage/177/responsive-images/ipl___preview_thumbnail_120_120.webp" group-title="IPL", Indian Premier League vs IPL T20 - Willow Cricket HD
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://n1.sanwalyaarpya.com:1686/hls/willowusa.m3u8?md5=zl41b5mFlbN34cHn6VqLUQ&expires=1774900895
+
+#EXTINF:-1 tvg-logo="https://v2.1cdnforall.online/storage/177/responsive-images/ipl___preview_thumbnail_120_120.webp" group-title="IPL", Indian Premier League vs IPL T20 - Star Sports Hindi HD
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://n8.sanwalyaarpya.com:1686/hls/starhindi.m3u8?md5=uyyjevBSb-X0cGHoApgW1Q&expires=1774900895
 
 #EXTINF:-1 tvg-logo="https://v2.1cdnforall.online/storage/177/responsive-images/ipl___preview_thumbnail_120_120.webp" group-title="IPL", Rajasthan Royals vs Chennai Super Kings - Sky Sports Cricket HD
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://n4.sanwalyaarpya.com:1686/hls/skyscric.m3u8?md5=ATamz9FLaysfLusNdgkZLQ&expires=1774899378
+https://n9.sanwalyaarpya.com:1686/hls/skyscric.m3u8?md5=-etI2OsslbjzrN794bTthQ&expires=1774900897
+
+#EXTINF:-1 tvg-logo="https://v2.1cdnforall.online/storage/177/responsive-images/ipl___preview_thumbnail_120_120.webp" group-title="IPL", Rajasthan Royals vs Chennai Super Kings - Star Sports 1 HD
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://n3.sanwalyaarpya.com:1686/hls/star1in.m3u8?md5=5KYFZuSOzNCZZaNAm3jsng&expires=1774900897
 
 #EXTINF:-1 tvg-logo="https://v2.1cdnforall.online/storage/177/responsive-images/ipl___preview_thumbnail_120_120.webp" group-title="IPL", Rajasthan Royals vs Chennai Super Kings - Willow Cricket HD
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://n4.sanwalyaarpya.com:1686/hls/willowusa.m3u8?md5=DAHctJ_kJtpCzUkTZm4Uhg&expires=1774899388
+https://n8.sanwalyaarpya.com:1686/hls/willowusa.m3u8?md5=jK1Q7h8Si6FbmfRLUrIi-g&expires=1774900897
 
 #EXTINF:-1 tvg-logo="https://v2.1cdnforall.online/storage/177/responsive-images/ipl___preview_thumbnail_120_120.webp" group-title="IPL", Rajasthan Royals vs Chennai Super Kings - Star Sports Hindi HD
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://n7.sanwalyaarpya.com:1686/hls/starhindi.m3u8?md5=SsvIwLbvMJ5aA5cezXzzyQ&expires=1774899388
+https://n2.sanwalyaarpya.com:1686/hls/starhindi.m3u8?md5=gHK2Rd8HAHmZEpEnGbZ25A&expires=1774900897
 
