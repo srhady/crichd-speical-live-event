@@ -2,61 +2,81 @@
 #"name": "Live Sports Events"
 #"owner": "Md Sohanur Rahman Hady"
 #"telegram": "https://t.me/livesportsplay"
-#"last updated": "2026-04-01 09:03:07 PM (BD Time)"
-# Total Active Links: 11
+#"last updated": "2026-04-01 09:32:20 PM (BD Time)"
+# Total Active Links: 15
+
+#EXTINF:-1 tvg-logo="https://v2.1cdnforall.online/storage/191/responsive-images/PSL___preview_thumbnail_120_120.webp" group-title="PSL", Pakistan Super League vs PSL - Ptv Sports HD
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://n2.sanwalyaarpya.com:1686/hls/ptvpk.m3u8?md5=MDq0IGyj7MPMxz777DXwAA&expires=1775064732
+
+#EXTINF:-1 tvg-logo="https://v2.1cdnforall.online/storage/191/responsive-images/PSL___preview_thumbnail_120_120.webp" group-title="PSL", Pakistan Super League vs PSL - A Sports HD
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://n7.sanwalyaarpya.com:1686/hls/asportshd.m3u8?md5=wXu8qLegpeNxCSm1jPDQTQ&expires=1775064733
+
+#EXTINF:-1 tvg-logo="https://v2.1cdnforall.online/storage/191/responsive-images/PSL___preview_thumbnail_120_120.webp" group-title="PSL", Pakistan Super League vs PSL - Ten Sports HD
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://n5.sanwalyaarpya.com:1686/hls/tenspk.m3u8?md5=O4sXUtz1DWd9zmune-SWpw&expires=1775064733
+
+#EXTINF:-1 tvg-logo="https://v2.1cdnforall.online/storage/191/responsive-images/PSL___preview_thumbnail_120_120.webp" group-title="PSL", Pakistan Super League vs PSL - Willow Cricket HD
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://n4.sanwalyaarpya.com:1686/hls/willowextra.m3u8?md5=me8_OBynEuvj1iDPW14dCA&expires=1775064733
 
 #EXTINF:-1 tvg-logo="https://v2.1cdnforall.online/storage/191/responsive-images/PSL___preview_thumbnail_120_120.webp" group-title="PSL", Multan Sultans vs Hyderabad Kingsmen - Ptv Sports HD
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://n9.sanwalyaarpya.com:1686/hls/ptvpk.m3u8?md5=m5uav2qb4GKtDCt3mY9xKg&expires=1775062978
+https://n3.sanwalyaarpya.com:1686/hls/ptvpk.m3u8?md5=XY7Mlhaw2Z64hDIz1aOPPQ&expires=1775064735
 
 #EXTINF:-1 tvg-logo="https://v2.1cdnforall.online/storage/191/responsive-images/PSL___preview_thumbnail_120_120.webp" group-title="PSL", Multan Sultans vs Hyderabad Kingsmen - A Sports HD
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://n2.sanwalyaarpya.com:1686/hls/asportshd.m3u8?md5=y-Mp031mTzszHjGLRWk2Vg&expires=1775062981
+https://n6.sanwalyaarpya.com:1686/hls/asportshd.m3u8?md5=R0xoWMpYQMO0y3BTWEAmTg&expires=1775064735
 
 #EXTINF:-1 tvg-logo="https://v2.1cdnforall.online/storage/191/responsive-images/PSL___preview_thumbnail_120_120.webp" group-title="PSL", Multan Sultans vs Hyderabad Kingsmen - Ten Sports HD
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://n2.sanwalyaarpya.com:1686/hls/tenspk.m3u8?md5=SG1b5gfT9ULCEjlFAhHpsA&expires=1775062982
+https://n2.sanwalyaarpya.com:1686/hls/tenspk.m3u8?md5=k22VqnfJ2fA6s7lYmLGVwA&expires=1775064735
 
 #EXTINF:-1 tvg-logo="https://v2.1cdnforall.online/storage/177/responsive-images/ipl___preview_thumbnail_120_120.webp" group-title="IPL", Indian Premier League vs IPL T20 - Sky Sports Cricket HD
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://n6.sanwalyaarpya.com:1686/hls/skyscric.m3u8?md5=DH7NSNpM1ze3F7nJ7z-Vsg&expires=1775062983
+https://n7.sanwalyaarpya.com:1686/hls/skyscric.m3u8?md5=XfeI6qZpUPqzRDBHcbrdgA&expires=1775064737
 
 #EXTINF:-1 tvg-logo="https://v2.1cdnforall.online/storage/177/responsive-images/ipl___preview_thumbnail_120_120.webp" group-title="IPL", Indian Premier League vs IPL T20 - Star Sports 1 HD
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://n5.sanwalyaarpya.com:1686/hls/star1in.m3u8?md5=9j5Cxei6F2_9zFxF5A__ZA&expires=1775062983
+https://n8.sanwalyaarpya.com:1686/hls/star1in.m3u8?md5=IGCZDkT-1vLM7ppW4dQ1EQ&expires=1775064737
 
 #EXTINF:-1 tvg-logo="https://v2.1cdnforall.online/storage/177/responsive-images/ipl___preview_thumbnail_120_120.webp" group-title="IPL", Indian Premier League vs IPL T20 - Willow Cricket HD
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://n9.sanwalyaarpya.com:1686/hls/willowusa.m3u8?md5=0uN0Jgs0tAjAmIgTNS04LA&expires=1775062984
+https://n6.sanwalyaarpya.com:1686/hls/willowusa.m3u8?md5=Ogg4WJzRGVk4CWlUJ6zN0w&expires=1775064737
 
 #EXTINF:-1 tvg-logo="https://v2.1cdnforall.online/storage/177/responsive-images/ipl___preview_thumbnail_120_120.webp" group-title="IPL", Indian Premier League vs IPL T20 - Star Sports Hindi HD
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://n2.sanwalyaarpya.com:1686/hls/starhindi.m3u8?md5=81X-bqWwfgqgFLTSuyWKkg&expires=1775062984
+https://n7.sanwalyaarpya.com:1686/hls/starhindi.m3u8?md5=Ba-QwE1uJ1slGcVK3NYWrA&expires=1775064737
 
 #EXTINF:-1 tvg-logo="https://v2.1cdnforall.online/storage/177/responsive-images/ipl___preview_thumbnail_120_120.webp" group-title="IPL", Lucknow Super Giants vs Delhi Capitals - Sky Sports Cricket HD
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://n2.sanwalyaarpya.com:1686/hls/skyscric.m3u8?md5=5bcHVB4aeJM7RSzJh-0_HQ&expires=1775062986
+https://n5.sanwalyaarpya.com:1686/hls/skyscric.m3u8?md5=WrbcNYxVb0QBCp9zkH1TFg&expires=1775064739
 
 #EXTINF:-1 tvg-logo="https://v2.1cdnforall.online/storage/177/responsive-images/ipl___preview_thumbnail_120_120.webp" group-title="IPL", Lucknow Super Giants vs Delhi Capitals - Star Sports 1 HD
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://n9.sanwalyaarpya.com:1686/hls/star1in.m3u8?md5=o3WWuCt1iDlPPxUvjV-ATg&expires=1775062986
+https://n4.sanwalyaarpya.com:1686/hls/star1in.m3u8?md5=2R09BR_hc9xxSKC5s3Cuqw&expires=1775064739
 
 #EXTINF:-1 tvg-logo="https://v2.1cdnforall.online/storage/177/responsive-images/ipl___preview_thumbnail_120_120.webp" group-title="IPL", Lucknow Super Giants vs Delhi Capitals - Willow Cricket HD
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://n8.sanwalyaarpya.com:1686/hls/willowusa.m3u8?md5=s116E2KyZMjXGa-LJL-Xrw&expires=1775062986
+https://n4.sanwalyaarpya.com:1686/hls/willowusa.m3u8?md5=ilIg1QlR-q_cnFBQTBtkyg&expires=1775064739
 
 #EXTINF:-1 tvg-logo="https://v2.1cdnforall.online/storage/177/responsive-images/ipl___preview_thumbnail_120_120.webp" group-title="IPL", Lucknow Super Giants vs Delhi Capitals - Star Sports Hindi HD
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://n1.sanwalyaarpya.com:1686/hls/starhindi.m3u8?md5=Pz2vvZ1nh31aun2reQDaRQ&expires=1775062986
+https://n9.sanwalyaarpya.com:1686/hls/starhindi.m3u8?md5=IJU2hG-KtgIxlBVZl9IlQg&expires=1775064739
 
