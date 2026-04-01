@@ -2,14 +2,14 @@
     "playlist_name": "Live Sports Events",
     "owner": "Md Sohanur Rahman Hady",
     "telegram": "https://t.me/livesportsplay",
-    "last_updated": "2026-04-01 01:30:39 PM (BD Time)",
-    "total_links": 29,
+    "last_updated": "2026-04-01 02:00:42 PM (BD Time)",
+    "total_links": 33,
     "matches": [
         {
             "Category": "Cricket",
             "Tour/Group name": "IPL T20",
             "match name": "IPL 2026",
-            "Start time": "March 31, 2026, at 1:30 PM UTC",
+            "Start time": "April 1, 2026, at 1:30 PM UTC",
             "End time": "June 3, 2026, at 8 PM UTC",
             "Status": "LIVE",
             "referer": "https://player0003.com/",
@@ -75,8 +75,44 @@
             "Category": "Cricket",
             "Tour/Group name": "PSL T20",
             "match name": "Pakistan Super League",
-            "Start time": "March 31, 2026, at 1:30 PM UTC",
+            "Start time": "April 1, 2026, at 1:30 PM UTC",
             "End time": "May 7, 2026, at 8 PM UTC",
+            "Status": "LIVE",
+            "referer": "https://player0003.com/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "PTV Sports",
+                    "Language": "English",
+                    "Embed link": "https://dadocric.st/player.php?id=ptvsp",
+                    "Stream link": "https://dadocric.st/player.php?id=ptvsp"
+                },
+                {
+                    "Channel name": "A Sports HD",
+                    "Language": "English",
+                    "Embed link": "https://dadocric.st/player.php?id=asports",
+                    "Stream link": "https://dadocric.st/player.php?id=asports"
+                },
+                {
+                    "Channel name": "Ten Sports",
+                    "Language": "English",
+                    "Embed link": "https://dadocric.st/player.php?id=tensp",
+                    "Stream link": "https://dadocric.st/player.php?id=tensp"
+                },
+                {
+                    "Channel name": "Geo Super",
+                    "Language": "English",
+                    "Embed link": "https://dadocric.st/player.php?id=geosuper",
+                    "Stream link": "https://dadocric.st/player.php?id=geosuper"
+                }
+            ]
+        },
+        {
+            "Category": "Cricket",
+            "Tour/Group name": "PSL T20",
+            "match name": "HHK vs MS",
+            "Start time": "April 1, 2026, at 2 PM UTC",
+            "End time": "April 1, 2026, at 6 PM UTC",
             "Status": "LIVE",
             "referer": "https://player0003.com/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
