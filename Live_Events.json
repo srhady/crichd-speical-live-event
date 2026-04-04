@@ -2,8 +2,8 @@
     "playlist_name": "Live Sports Events",
     "owner": "Md Sohanur Rahman Hady",
     "telegram": "https://t.me/livesportsplay",
-    "last_updated": "2026-04-04 01:00:37 PM (BD Time)",
-    "total_links": 25,
+    "last_updated": "2026-04-04 01:30:44 PM (BD Time)",
+    "total_links": 34,
     "matches": [
         {
             "Category": "Cricket",
@@ -104,6 +104,72 @@
                     "Language": "English",
                     "Embed link": "https://dadocric.st/player.php?id=geosuper",
                     "Stream link": "https://dadocric.st/player.php?id=geosuper"
+                }
+            ]
+        },
+        {
+            "Category": "Cricket",
+            "Tour/Group name": "IPL T20",
+            "match name": "MI vs DC",
+            "Start time": "April 4, 2026, at 10 AM UTC",
+            "End time": "April 4, 2026, at 6 PM UTC",
+            "Status": "LIVE",
+            "referer": "https://player0003.com/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Willow Cricket",
+                    "Language": "English",
+                    "Embed link": "https://dadocric.st/player.php?id=willow",
+                    "Stream link": "https://dadocric.st/player.php?id=willow"
+                },
+                {
+                    "Channel name": "Willow Xtra",
+                    "Language": "HIndi",
+                    "Embed link": "https://dadocric.st/player.php?id=willowextra",
+                    "Stream link": "https://dadocric.st/player.php?id=willowextra"
+                },
+                {
+                    "Channel name": "Star Sports 1",
+                    "Language": "English",
+                    "Embed link": "https://dadocric.st/player.php?id=starsp",
+                    "Stream link": "https://dadocric.st/player.php?id=starsp"
+                },
+                {
+                    "Channel name": "Star Sports 2",
+                    "Language": "English",
+                    "Embed link": "https://dadocric.st/player.php?id=starsp2",
+                    "Stream link": "https://dadocric.st/player.php?id=starsp2"
+                },
+                {
+                    "Channel name": "Star Sports Hindi",
+                    "Language": "Hindi",
+                    "Embed link": "https://dadocric.st/player.php?id=starsp3",
+                    "Stream link": "https://dadocric.st/player.php?id=starsp3"
+                },
+                {
+                    "Channel name": "Sky Cricket",
+                    "Language": "English",
+                    "Embed link": "https://dadocric.st/player.php?id=crich2",
+                    "Stream link": "https://dadocric.st/player.php?id=crich2"
+                },
+                {
+                    "Channel name": "Star Sports 1 Tamil",
+                    "Language": "Tamil",
+                    "Embed link": "https://dadocric.st/player.php?id=starsp1tam",
+                    "Stream link": "https://dadocric.st/player.php?id=starsp1tam"
+                },
+                {
+                    "Channel name": "Star Sports 1 Telugu",
+                    "Language": "Telugu",
+                    "Embed link": "https://dadocric.st/player.php?id=starsp1tel",
+                    "Stream link": "https://dadocric.st/player.php?id=starsp1tel"
+                },
+                {
+                    "Channel name": "Willow HD",
+                    "Language": "English",
+                    "Embed link": "https://dadocric.st/player.php?id=willowhd",
+                    "Stream link": "https://dadocric.st/player.php?id=willowhd"
                 }
             ]
         },
