@@ -2,8 +2,8 @@
     "playlist_name": "Live Sports Events",
     "owner": "Md Sohanur Rahman Hady",
     "telegram": "https://t.me/livesportsplay",
-    "last_updated": "2026-04-08 05:00:38 PM (BD Time)",
-    "total_links": 17,
+    "last_updated": "2026-04-08 05:30:45 PM (BD Time)",
+    "total_links": 21,
     "matches": [
         {
             "Category": "Cricket",
@@ -113,6 +113,42 @@
             "match name": "PZ vs HHK",
             "Start time": "April 8, 2026, at 2 PM UTC",
             "End time": "April 8, 2026, at 6 PM UTC",
+            "Status": "LIVE",
+            "referer": "https://player0003.com/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "PTV Sports",
+                    "Language": "English",
+                    "Embed link": "https://dadocric.st/player.php?id=ptvsp",
+                    "Stream link": "https://dadocric.st/player.php?id=ptvsp"
+                },
+                {
+                    "Channel name": "A Sports HD",
+                    "Language": "English",
+                    "Embed link": "https://dadocric.st/player.php?id=asports",
+                    "Stream link": "https://dadocric.st/player.php?id=asports"
+                },
+                {
+                    "Channel name": "Ten Sports",
+                    "Language": "English",
+                    "Embed link": "https://dadocric.st/player.php?id=tensp",
+                    "Stream link": "https://dadocric.st/player.php?id=tensp"
+                },
+                {
+                    "Channel name": "Geo Super",
+                    "Language": "English",
+                    "Embed link": "https://dadocric.st/player.php?id=geosuper",
+                    "Stream link": "https://dadocric.st/player.php?id=geosuper"
+                }
+            ]
+        },
+        {
+            "Category": "Cricket",
+            "Tour/Group name": "PSL T20",
+            "match name": "ISLU vs LQ",
+            "Start time": "April 9, 2026, at 9:30 AM UTC",
+            "End time": "April 9, 2026, at 1 PM UTC",
             "Status": "LIVE",
             "referer": "https://player0003.com/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
