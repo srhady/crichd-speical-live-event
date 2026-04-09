@@ -2,7 +2,7 @@
     "playlist_name": "Live Sports Events",
     "owner": "Md Sohanur Rahman Hady",
     "telegram": "https://t.me/livesportsplay",
-    "last_updated": "2026-04-09 05:32:12 AM (BD Time)",
+    "last_updated": "2026-04-09 06:02:19 AM (BD Time)",
     "total_links": 0,
     "matches": [
         {
@@ -163,6 +163,34 @@
         },
         {
             "Category": "Football",
+            "Tour/Group name": "AFL",
+            "match name": "Collingwood vs Fremantle",
+            "Team 1 Name": "Collingwood",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/collingwood/logo.webp",
+            "Team 2 Name": "Fremantle",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/fremantle/logo.webp",
+            "Start time": "2026-04-10T09:30:00.000Z",
+            "End time": "2026-04-10T12:40:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/collingwood-vs-fremantle/14592",
+                    "Stream link": ""
+                },
+                {
+                    "Channel name": "Link 2",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/collingwood-vs-fremantle/14593",
+                    "Stream link": ""
+                }
+            ]
+        },
+        {
+            "Category": "Football",
             "Tour/Group name": "NRL",
             "match name": "Bulldogs vs Panthers",
             "Team 1 Name": "Canterbury Bulldogs",
@@ -179,6 +207,56 @@
                     "Channel name": "Link 1",
                     "Language": "English",
                     "Embed link": "https://footystream.top/alpha/bulldogs-vs-panthers/14587",
+                    "Stream link": ""
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "NRL",
+            "match name": "Dragons vs Sea Eagles",
+            "Team 1 Name": "St. George Illawarra Dragons",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/st-george-illawarra-dragons/logo.webp",
+            "Team 2 Name": "Manly-Warringah Sea Eagles",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/manly-warringah-sea-eagles/logo.webp",
+            "Start time": "2026-04-10T08:00:00.000Z",
+            "End time": "2026-04-10T10:15:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/dragons-vs-sea-eagles/14589",
+                    "Stream link": ""
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "NRL",
+            "match name": "Brisbane Broncos vs Cowboys",
+            "Team 1 Name": "Brisbane Broncos",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/brisbane-broncos/logo.webp",
+            "Team 2 Name": "North Queensland Cowboys",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/north-queensland-cowboys/logo.webp",
+            "Start time": "2026-04-10T10:00:00.000Z",
+            "End time": "2026-04-10T12:15:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/brisbane-broncos-vs-cowboys/14590",
+                    "Stream link": ""
+                },
+                {
+                    "Channel name": "Link 2",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/brisbane-broncos-vs-cowboys/14591",
                     "Stream link": ""
                 }
             ]
@@ -493,21 +571,6 @@
         },
         {
             "Category": "Football",
-            "Tour/Group name": "French Ligue 1",
-            "match name": "Nantes vs Auxerre",
-            "Team 1 Name": "Nantes",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/nantes/logo.webp",
-            "Team 2 Name": "Auxerre",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/auxerre/logo.webp",
-            "Start time": "2026-04-11T17:00:00.000Z",
-            "End time": "2026-04-11T19:10:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": []
-        },
-        {
-            "Category": "Football",
             "Tour/Group name": "Bundesliga",
             "match name": "Augsburg vs Hoffenheim",
             "Team 1 Name": "Augsburg",
@@ -718,21 +781,6 @@
         },
         {
             "Category": "Football",
-            "Tour/Group name": "LaLiga",
-            "match name": "Sevilla vs Atlético Madrid",
-            "Team 1 Name": "Sevilla",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/sevilla/logo.webp",
-            "Team 2 Name": "Atlético Madrid",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
-            "Start time": "2026-04-11T19:00:00.000Z",
-            "End time": "2026-04-11T21:10:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": []
-        },
-        {
-            "Category": "Football",
             "Tour/Group name": "Premier League",
             "match name": "West Ham vs Wolves",
             "Team 1 Name": "West Ham United",
@@ -852,28 +900,6 @@
         },
         {
             "Category": "Football",
-            "Tour/Group name": "Champions Cup",
-            "match name": "Sale Sharks vs Leinster",
-            "Team 1 Name": "Sale Sharks",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/sale-sharks/logo.webp",
-            "Team 2 Name": "Leinster",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/leinster/logo.webp",
-            "Start time": "2026-04-11T16:30:00.000Z",
-            "End time": "2026-04-11T18:45:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": [
-                {
-                    "Channel name": "Link 1",
-                    "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/sale-sharks-vs-leinster/14565",
-                    "Stream link": ""
-                }
-            ]
-        },
-        {
-            "Category": "Football",
             "Tour/Group name": "EFL",
             "match name": "West Bromwich Albion vs Millwall",
             "Team 1 Name": "West Bromwich Albion",
@@ -974,14 +1000,14 @@
         },
         {
             "Category": "Football",
-            "Tour/Group name": "Challenge Cup",
-            "match name": "Dragons vs Zebre",
-            "Team 1 Name": "Dragons",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/dragons/logo.webp",
-            "Team 2 Name": "Zebre",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/zebre/logo.webp",
-            "Start time": "2026-04-11T19:00:00.000Z",
-            "End time": "2026-04-11T21:15:00.000Z",
+            "Tour/Group name": "UFC",
+            "match name": "One Championship",
+            "Team 1 Name": "One Championship",
+            "Team 1 Logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
+            "Team 2 Name": "UFC",
+            "Team 2 Logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
+            "Start time": "2026-04-11T01:00:00.000Z",
+            "End time": "2026-04-11T06:30:00.000Z",
             "Status": "UPCOMING",
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
@@ -989,13 +1015,7 @@
                 {
                     "Channel name": "Link 1",
                     "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/dragons-vs-zebre/14566",
-                    "Stream link": ""
-                },
-                {
-                    "Channel name": "Link 2",
-                    "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/dragons-vs-zebre/14567",
+                    "Embed link": "https://footystream.top/alpha/one-championship/14594",
                     "Stream link": ""
                 }
             ]
