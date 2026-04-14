@@ -2,8 +2,8 @@
     "playlist_name": "Live Sports Events",
     "owner": "Md Sohanur Rahman Hady",
     "telegram": "https://t.me/livesportsplay",
-    "last_updated": "2026-04-14 08:31:16 AM (BD Time)",
-    "total_links": 4,
+    "last_updated": "2026-04-14 09:01:30 AM (BD Time)",
+    "total_links": 7,
     "matches": [
         {
             "Category": "Cricket",
@@ -25,28 +25,101 @@
                     "Language": "English",
                     "Quality": "1500",
                     "Embed link": "https://hitsportshd.xyz/view.php?value=ptvpk",
-                    "Stream link": "https://n8.sanwalyaarpya.com:1686/hls/ptvpk.m3u8?md5=2fzca60q4nspEmiS7hOf1w&expires=1776141057"
+                    "Stream link": "https://n2.sanwalyaarpya.com:1686/hls/ptvpk.m3u8?md5=71f8HciYTq6uCkVtHiReRQ&expires=1776142875"
                 },
                 {
                     "Channel name": "A Sports HD",
                     "Language": "English",
                     "Quality": "1500",
                     "Embed link": "https://hitsportshd.xyz/view.php?value=asportshd",
-                    "Stream link": "https://n8.sanwalyaarpya.com:1686/hls/asportshd.m3u8?md5=84yGuJIwMqg7Lteqbekelg&expires=1776141058"
+                    "Stream link": "https://n4.sanwalyaarpya.com:1686/hls/asportshd.m3u8?md5=I34HiPLrEHGytJv2ewf_4g&expires=1776142875"
                 },
                 {
                     "Channel name": "Ten Sports HD",
                     "Language": "English",
                     "Quality": "1500",
                     "Embed link": "https://hitsportshd.xyz/view.php?value=tenspk",
-                    "Stream link": "https://n2.sanwalyaarpya.com:1686/hls/tenspk.m3u8?md5=qWc9Ka4CDlAx3afjR6hN5A&expires=1776141058"
+                    "Stream link": "https://n1.sanwalyaarpya.com:1686/hls/tenspk.m3u8?md5=EAozytjuNkiCeScwxCkRQg&expires=1776142876"
                 },
                 {
                     "Channel name": "Willow Cricket HD",
                     "Language": "English",
                     "Quality": "1500",
                     "Embed link": "https://hitsportshd.xyz/view.php?value=willowextra",
-                    "Stream link": "https://n5.sanwalyaarpya.com:1686/hls/willowextra.m3u8?md5=-xgBxxrur3y-GZcLxA2p8w&expires=1776141058"
+                    "Stream link": "https://n7.sanwalyaarpya.com:1686/hls/willowextra.m3u8?md5=wHHk1g-QwAKqTdltgNtL_w&expires=1776142876"
+                }
+            ]
+        },
+        {
+            "Category": "Cricket",
+            "Tour/Group name": "IPL",
+            "Tour Logo": "https://v2.1cdnforall.online/storage/177/responsive-images/ipl___preview_thumbnail_120_120.webp",
+            "match name": "Indian Premier League vs IPL T20",
+            "Team 1 Name": "Indian Premier League",
+            "Team 1 Logo": "https://v2.1cdnforall.online/storage/217/responsive-images/ipl___preview_thumbnail_120_120.webp",
+            "Team 2 Name": "IPL T20",
+            "Team 2 Logo": "https://v2.1cdnforall.online/storage/218/responsive-images/ipl___preview_thumbnail_120_120.webp",
+            "Start time": "2026-03-28T00:00:00Z",
+            "End time": "2026-05-31T23:00:00Z",
+            "Status": "LIVE",
+            "referer": "https://teachtrendhub.com/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Sky Sports Cricket HD",
+                    "Language": "English",
+                    "Quality": "1500",
+                    "Embed link": "https://hitsportshd.xyz/view.php?value=skyscric",
+                    "Stream link": "https://n1.sanwalyaarpya.com:1686/hls/skyscric.m3u8?md5=iaMQRNhaMKER15fGqAvLKg&expires=1776142878"
+                },
+                {
+                    "Channel name": "Star Sports 1 HD",
+                    "Language": "English",
+                    "Quality": "1500",
+                    "Embed link": "https://hitsportshd.xyz/view.php?value=star1in",
+                    "Stream link": ""
+                },
+                {
+                    "Channel name": "Willow Cricket HD",
+                    "Language": "English",
+                    "Quality": "1500",
+                    "Embed link": "https://hitsportshd.xyz/view.php?value=willowusa",
+                    "Stream link": "https://n8.sanwalyaarpya.com:1686/hls/willowusa.m3u8?md5=62KOBaGrM9tUlaq-JFWHWw&expires=1776142888"
+                },
+                {
+                    "Channel name": "Star Sports Hindi HD",
+                    "Language": "English",
+                    "Quality": "1500",
+                    "Embed link": "https://hitsportshd.xyz/view.php?value=starhindi",
+                    "Stream link": "https://n5.sanwalyaarpya.com:1686/hls/starhindi.m3u8?md5=WQvf4H1cStCUEsKyKxQhbQ&expires=1776142888"
+                },
+                {
+                    "Channel name": "Willow Cricket FHD",
+                    "Language": "English",
+                    "Quality": "1500",
+                    "Embed link": "https://hitsportshd.xyz/fr.php?src=https://markplushub.shop/myplayer/stream-346.php",
+                    "Stream link": ""
+                },
+                {
+                    "Channel name": "Sky Sport Cricket FHD",
+                    "Language": "English",
+                    "Quality": "1500",
+                    "Embed link": "https://hitsportshd.xyz/fr.php?src=https://markplushub.shop/myplayer/stream-65.php",
+                    "Stream link": ""
+                },
+                {
+                    "Channel name": "Fox Cricket FHD",
+                    "Language": "English",
+                    "Quality": "1500",
+                    "Embed link": "https://hitsportshd.xyz/fr.php?src=https://markplushub.shop/myplayer/stream-369.php",
+                    "Stream link": ""
+                },
+                {
+                    "Channel name": "Astro Cricket FHD",
+                    "Language": "English",
+                    "Quality": "1500",
+                    "Embed link": "https://hitsportshd.xyz/fr.php?src=https://markplushub.shop/myplayer/stream-370.php",
+                    "Stream link": ""
                 }
             ]
         }
