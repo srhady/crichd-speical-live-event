@@ -2,37 +2,9 @@
     "playlist_name": "Live Sports Events",
     "owner": "Md Sohanur Rahman Hady",
     "telegram": "https://t.me/livesportsplay",
-    "last_updated": "2026-04-18 03:32:01 PM (BD Time)",
+    "last_updated": "2026-04-18 04:01:53 PM (BD Time)",
     "total_links": 0,
     "matches": [
-        {
-            "Category": "Football",
-            "Tour/Group name": "NRL",
-            "match name": "Rabbitohs vs Dragons",
-            "Team 1 Name": "South Sydney Rabbitohs",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/south-sydney-rabbitohs/logo.webp",
-            "Team 2 Name": "St. George Illawarra Dragons",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/st-george-illawarra-dragons/logo.webp",
-            "Start time": "2026-04-18T07:30:00.000Z",
-            "End time": "2026-04-18T09:45:00.000Z",
-            "Status": "LIVE",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": [
-                {
-                    "Channel name": "Link 1",
-                    "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/rabbitohs-vs-dragons/14745",
-                    "Stream link": ""
-                },
-                {
-                    "Channel name": "Link 2",
-                    "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/rabbitohs-vs-dragons/14746",
-                    "Stream link": ""
-                }
-            ]
-        },
         {
             "Category": "Football",
             "Tour/Group name": "MotorSports",
@@ -121,7 +93,7 @@
             "Team 2 Logo": "https://cdn.img4every1.org/team/sydney-fc/logo.webp",
             "Start time": "2026-04-18T09:35:00.000Z",
             "End time": "2026-04-18T11:45:00.000Z",
-            "Status": "UPCOMING",
+            "Status": "LIVE",
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
@@ -129,50 +101,6 @@
                     "Channel name": "Link 1",
                     "Language": "English",
                     "Embed link": "https://footystream.top/alpha/perth-glory-vs-sydney-fc/14758",
-                    "Stream link": ""
-                }
-            ]
-        },
-        {
-            "Category": "Football",
-            "Tour/Group name": "A League",
-            "match name": "Auckland vs Mariners",
-            "Team 1 Name": "Auckland",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/auckland/logo.webp",
-            "Team 2 Name": "Central Coast Mariners",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/central-coast-mariners/logo.webp",
-            "Start time": "2026-04-19T03:00:00.000Z",
-            "End time": "2026-04-19T05:10:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": [
-                {
-                    "Channel name": "Link 1",
-                    "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/auckland-vs-mariners/14759",
-                    "Stream link": ""
-                }
-            ]
-        },
-        {
-            "Category": "Football",
-            "Tour/Group name": "A League",
-            "match name": "Adelaide United vs Macarthur",
-            "Team 1 Name": "Adelaide United",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/adelaide-united/logo.webp",
-            "Team 2 Name": "Macarthur",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/macarthur/logo.webp",
-            "Start time": "2026-04-19T05:30:00.000Z",
-            "End time": "2026-04-19T07:40:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": [
-                {
-                    "Channel name": "Link 1",
-                    "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/adelaide-united-vs-macarthur/14760",
                     "Stream link": ""
                 }
             ]
@@ -187,7 +115,7 @@
             "Team 2 Logo": "https://cdn.img4every1.org/team/brisbane-broncos/logo.webp",
             "Start time": "2026-04-18T09:35:00.000Z",
             "End time": "2026-04-18T11:50:00.000Z",
-            "Status": "UPCOMING",
+            "Status": "LIVE",
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
@@ -209,7 +137,7 @@
             "Team 2 Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
             "Start time": "2026-04-18T10:00:00.000Z",
             "End time": "2026-04-19T23:45:00.000Z",
-            "Status": "UPCOMING",
+            "Status": "LIVE",
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
@@ -731,6 +659,21 @@
         },
         {
             "Category": "Football",
+            "Tour/Group name": "Bundesliga",
+            "match name": "Borussia M'gladbach vs Mainz 05",
+            "Team 1 Name": "Borussia M'gladbach",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/borussia-mgladbach/logo.webp",
+            "Team 2 Name": "Mainz 05",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/mainz-05/logo.webp",
+            "Start time": "2026-04-19T17:30:00.000Z",
+            "End time": "2026-04-19T19:40:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": []
+        },
+        {
+            "Category": "Football",
             "Tour/Group name": "Premiership Rugby",
             "match name": "Exeter Chiefs vs Northampton",
             "Team 1 Name": "Exeter Chiefs",
@@ -943,6 +886,50 @@
                     "Channel name": "Link 1",
                     "Language": "English",
                     "Embed link": "https://footystream.top/alpha/gilbert-burns-vs-mike-malott/14780",
+                    "Stream link": ""
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "A League",
+            "match name": "Auckland vs Mariners",
+            "Team 1 Name": "Auckland",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/auckland/logo.webp",
+            "Team 2 Name": "Central Coast Mariners",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/central-coast-mariners/logo.webp",
+            "Start time": "2026-04-19T03:00:00.000Z",
+            "End time": "2026-04-19T05:10:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/auckland-vs-mariners/14759",
+                    "Stream link": ""
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "A League",
+            "match name": "Adelaide United vs Macarthur",
+            "Team 1 Name": "Adelaide United",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/adelaide-united/logo.webp",
+            "Team 2 Name": "Macarthur",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/macarthur/logo.webp",
+            "Start time": "2026-04-19T05:30:00.000Z",
+            "End time": "2026-04-19T07:40:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/adelaide-united-vs-macarthur/14760",
                     "Stream link": ""
                 }
             ]
