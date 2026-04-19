@@ -2,7 +2,7 @@
     "playlist_name": "Live Sports Events",
     "owner": "Md Sohanur Rahman Hady",
     "telegram": "https://t.me/livesportsplay",
-    "last_updated": "2026-04-19 07:31:41 PM (BD Time)",
+    "last_updated": "2026-04-19 08:01:46 PM (BD Time)",
     "total_links": 0,
     "matches": [
         {
@@ -189,6 +189,28 @@
         },
         {
             "Category": "Football",
+            "Tour/Group name": "Premiership Rugby",
+            "match name": "Sale Sharks vs Saracens",
+            "Team 1 Name": "Sale Sharks",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/sale-sharks/logo.webp",
+            "Team 2 Name": "Saracens",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/saracens/logo.webp",
+            "Start time": "2026-04-19T14:00:00.000Z",
+            "End time": "2026-04-19T16:15:00.000Z",
+            "Status": "LIVE",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/sale-sharks-vs-saracens/14815",
+                    "Stream link": ""
+                }
+            ]
+        },
+        {
+            "Category": "Football",
             "Tour/Group name": "Bundesliga",
             "match name": "Bayern München vs Stuttgart",
             "Team 1 Name": "Bayern München",
@@ -245,28 +267,6 @@
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": []
-        },
-        {
-            "Category": "Football",
-            "Tour/Group name": "Premiership Rugby",
-            "match name": "Sale Sharks vs Saracens",
-            "Team 1 Name": "Sale Sharks",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/sale-sharks/logo.webp",
-            "Team 2 Name": "Saracens",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/saracens/logo.webp",
-            "Start time": "2026-04-19T14:00:00.000Z",
-            "End time": "2026-04-19T16:15:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": [
-                {
-                    "Channel name": "Link 1",
-                    "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/sale-sharks-vs-saracens/14815",
-                    "Stream link": ""
-                }
-            ]
         },
         {
             "Category": "Football",
