@@ -2,7 +2,7 @@
     "playlist_name": "Live Sports Events",
     "owner": "Md Sohanur Rahman Hady",
     "telegram": "https://t.me/livesportsplay",
-    "last_updated": "2026-04-19 06:01:36 PM (BD Time)",
+    "last_updated": "2026-04-19 06:31:44 PM (BD Time)",
     "total_links": 0,
     "matches": [
         {
@@ -386,7 +386,14 @@
             "Status": "UPCOMING",
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": []
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/borussia-mgladbach-vs-mainz-05/14822",
+                    "Stream link": ""
+                }
+            ]
         },
         {
             "Category": "Football",
@@ -449,18 +456,125 @@
         },
         {
             "Category": "Football",
-            "Tour/Group name": "LaLiga",
-            "match name": "Real Madrid vs Real Betis",
-            "Team 1 Name": "Real Madrid",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
-            "Team 2 Name": "Real Betis",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
-            "Start time": "2026-04-19T16:00:00.000Z",
-            "End time": "2026-04-19T18:10:00.000Z",
+            "Tour/Group name": "MotorSports",
+            "match name": "IndyCar Long Beach GP",
+            "Team 1 Name": "IndyCar Long Beach GP",
+            "Team 1 Logo": "https://cdn.img4every1.org/league/motorsports-streams-free/logo.webp",
+            "Team 2 Name": "MotorSports",
+            "Team 2 Logo": "https://cdn.img4every1.org/league/motorsports-streams-free/logo.webp",
+            "Start time": "2026-04-19T17:00:00.000Z",
+            "End time": "2026-04-20T01:30:00.000Z",
             "Status": "UPCOMING",
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": []
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/indycar-long-beach-gp/14781",
+                    "Stream link": ""
+                },
+                {
+                    "Channel name": "Link 2",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/indycar-long-beach-gp/14782",
+                    "Stream link": ""
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "PGA Tour",
+            "match name": "LIV Golf Mexico City",
+            "Team 1 Name": "LIV Golf Mexico City",
+            "Team 1 Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
+            "Team 2 Name": "PGA Tour",
+            "Team 2 Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
+            "Start time": "2026-04-19T17:00:00.000Z",
+            "End time": "2026-04-19T23:45:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/liv-golf-mexico-city/14727",
+                    "Stream link": ""
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "PGA Tour",
+            "match name": "LPGA LA Championship",
+            "Team 1 Name": "LPGA LA Championship",
+            "Team 1 Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
+            "Team 2 Name": "PGA Tour",
+            "Team 2 Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
+            "Start time": "2026-04-19T22:00:00.000Z",
+            "End time": "2026-04-20T01:30:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/lpga-la-championship/14730",
+                    "Stream link": ""
+                },
+                {
+                    "Channel name": "Link 2",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/lpga-la-championship/14731",
+                    "Stream link": ""
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "French Ligue 1",
+            "match name": "PSG vs Lyon",
+            "Team 1 Name": "PSG",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
+            "Team 2 Name": "Olympique Lyonnais",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/olympique-lyonnais/logo.webp",
+            "Start time": "2026-04-19T18:45:00.000Z",
+            "End time": "2026-04-19T20:55:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/psg-vs-lyon/14761",
+                    "Stream link": ""
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "French Ligue 1",
+            "match name": "PSG vs Nantes",
+            "Team 1 Name": "PSG",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
+            "Team 2 Name": "Nantes",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/nantes/logo.webp",
+            "Start time": "2026-04-22T17:00:00.000Z",
+            "End time": "2026-04-22T19:10:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/psg-vs-nantes/14762",
+                    "Stream link": ""
+                }
+            ]
         },
         {
             "Category": "Football",
@@ -611,128 +725,6 @@
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": []
-        },
-        {
-            "Category": "Football",
-            "Tour/Group name": "MotorSports",
-            "match name": "IndyCar Long Beach GP",
-            "Team 1 Name": "IndyCar Long Beach GP",
-            "Team 1 Logo": "https://cdn.img4every1.org/league/motorsports-streams-free/logo.webp",
-            "Team 2 Name": "MotorSports",
-            "Team 2 Logo": "https://cdn.img4every1.org/league/motorsports-streams-free/logo.webp",
-            "Start time": "2026-04-19T17:00:00.000Z",
-            "End time": "2026-04-20T01:30:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": [
-                {
-                    "Channel name": "Link 1",
-                    "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/indycar-long-beach-gp/14781",
-                    "Stream link": ""
-                },
-                {
-                    "Channel name": "Link 2",
-                    "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/indycar-long-beach-gp/14782",
-                    "Stream link": ""
-                }
-            ]
-        },
-        {
-            "Category": "Football",
-            "Tour/Group name": "PGA Tour",
-            "match name": "LIV Golf Mexico City",
-            "Team 1 Name": "LIV Golf Mexico City",
-            "Team 1 Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-            "Team 2 Name": "PGA Tour",
-            "Team 2 Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-            "Start time": "2026-04-19T17:00:00.000Z",
-            "End time": "2026-04-19T23:45:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": [
-                {
-                    "Channel name": "Link 1",
-                    "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/liv-golf-mexico-city/14727",
-                    "Stream link": ""
-                }
-            ]
-        },
-        {
-            "Category": "Football",
-            "Tour/Group name": "PGA Tour",
-            "match name": "LPGA LA Championship",
-            "Team 1 Name": "LPGA LA Championship",
-            "Team 1 Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-            "Team 2 Name": "PGA Tour",
-            "Team 2 Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-            "Start time": "2026-04-19T22:00:00.000Z",
-            "End time": "2026-04-20T01:30:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": [
-                {
-                    "Channel name": "Link 1",
-                    "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/lpga-la-championship/14730",
-                    "Stream link": ""
-                },
-                {
-                    "Channel name": "Link 2",
-                    "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/lpga-la-championship/14731",
-                    "Stream link": ""
-                }
-            ]
-        },
-        {
-            "Category": "Football",
-            "Tour/Group name": "French Ligue 1",
-            "match name": "PSG vs Lyon",
-            "Team 1 Name": "PSG",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
-            "Team 2 Name": "Olympique Lyonnais",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/olympique-lyonnais/logo.webp",
-            "Start time": "2026-04-19T18:45:00.000Z",
-            "End time": "2026-04-19T20:55:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": [
-                {
-                    "Channel name": "Link 1",
-                    "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/psg-vs-lyon/14761",
-                    "Stream link": ""
-                }
-            ]
-        },
-        {
-            "Category": "Football",
-            "Tour/Group name": "French Ligue 1",
-            "match name": "PSG vs Nantes",
-            "Team 1 Name": "PSG",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
-            "Team 2 Name": "Nantes",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/nantes/logo.webp",
-            "Start time": "2026-04-22T17:00:00.000Z",
-            "End time": "2026-04-22T19:10:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": [
-                {
-                    "Channel name": "Link 1",
-                    "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/psg-vs-nantes/14762",
-                    "Stream link": ""
-                }
-            ]
         },
         {
             "Category": "Football",
