@@ -2,7 +2,7 @@
     "playlist_name": "Live Sports Events",
     "owner": "Md Sohanur Rahman Hady",
     "telegram": "https://t.me/livesportsplay",
-    "last_updated": "2026-04-20 12:31:47 AM (BD Time)",
+    "last_updated": "2026-04-20 01:02:00 AM (BD Time)",
     "total_links": 0,
     "matches": [
         {
@@ -51,28 +51,6 @@
                     "Channel name": "Link 1",
                     "Language": "English",
                     "Embed link": "https://footystream.top/alpha/rbc-heritage/14725",
-                    "Stream link": ""
-                }
-            ]
-        },
-        {
-            "Category": "Football",
-            "Tour/Group name": "WSL",
-            "match name": "Cardiff City vs Swansea City",
-            "Team 1 Name": "Cardiff City",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/cardiff-city/logo.webp",
-            "Team 2 Name": "Swansea City",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/swansea-city/logo.webp",
-            "Start time": "2026-04-19T16:00:00.000Z",
-            "End time": "2026-04-19T18:40:00.000Z",
-            "Status": "LIVE",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": [
-                {
-                    "Channel name": "Link 1",
-                    "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/cardiff-city-vs-swansea-city/14816",
                     "Stream link": ""
                 }
             ]
@@ -159,7 +137,7 @@
             "Team 2 Logo": "https://cdn.img4every1.org/team/bologna/logo.webp",
             "Start time": "2026-04-19T18:45:00.000Z",
             "End time": "2026-04-19T20:55:00.000Z",
-            "Status": "UPCOMING",
+            "Status": "LIVE",
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
@@ -173,21 +151,6 @@
         },
         {
             "Category": "Football",
-            "Tour/Group name": "Serie A",
-            "match name": "Lecce vs Fiorentina",
-            "Team 1 Name": "Lecce",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/lecce/logo.webp",
-            "Team 2 Name": "Fiorentina",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/fiorentina/logo.webp",
-            "Start time": "2026-04-20T18:45:00.000Z",
-            "End time": "2026-04-20T20:55:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": []
-        },
-        {
-            "Category": "Football",
             "Tour/Group name": "French Ligue 1",
             "match name": "PSG vs Lyon",
             "Team 1 Name": "PSG",
@@ -196,7 +159,7 @@
             "Team 2 Logo": "https://cdn.img4every1.org/team/olympique-lyonnais/logo.webp",
             "Start time": "2026-04-19T18:45:00.000Z",
             "End time": "2026-04-19T20:55:00.000Z",
-            "Status": "UPCOMING",
+            "Status": "LIVE",
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
@@ -204,28 +167,6 @@
                     "Channel name": "Link 1",
                     "Language": "English",
                     "Embed link": "https://footystream.top/alpha/psg-vs-lyon/14761",
-                    "Stream link": ""
-                }
-            ]
-        },
-        {
-            "Category": "Football",
-            "Tour/Group name": "French Ligue 1",
-            "match name": "PSG vs Nantes",
-            "Team 1 Name": "PSG",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
-            "Team 2 Name": "Nantes",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/nantes/logo.webp",
-            "Start time": "2026-04-22T17:00:00.000Z",
-            "End time": "2026-04-22T19:10:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": [
-                {
-                    "Channel name": "Link 1",
-                    "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/psg-vs-nantes/14762",
                     "Stream link": ""
                 }
             ]
@@ -257,6 +198,21 @@
                     "Stream link": ""
                 }
             ]
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "Serie A",
+            "match name": "Lecce vs Fiorentina",
+            "Team 1 Name": "Lecce",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/lecce/logo.webp",
+            "Team 2 Name": "Fiorentina",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/fiorentina/logo.webp",
+            "Start time": "2026-04-20T18:45:00.000Z",
+            "End time": "2026-04-20T20:55:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": []
         },
         {
             "Category": "Football",
@@ -470,6 +426,21 @@
         },
         {
             "Category": "Football",
+            "Tour/Group name": "LaLiga",
+            "match name": "Real Madrid vs Real Betis",
+            "Team 1 Name": "Real Madrid",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
+            "Team 2 Name": "Real Betis",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
+            "Start time": "2026-04-24T19:00:00.000Z",
+            "End time": "2026-04-24T21:10:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": []
+        },
+        {
+            "Category": "Football",
             "Tour/Group name": "Coppa Italia",
             "match name": "Inter Milan vs Como",
             "Team 1 Name": "Inter Milan",
@@ -497,6 +468,28 @@
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": []
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "French Ligue 1",
+            "match name": "PSG vs Nantes",
+            "Team 1 Name": "PSG",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
+            "Team 2 Name": "Nantes",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/nantes/logo.webp",
+            "Start time": "2026-04-22T17:00:00.000Z",
+            "End time": "2026-04-22T19:10:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/psg-vs-nantes/14762",
+                    "Stream link": ""
+                }
+            ]
         },
         {
             "Category": "Football",
