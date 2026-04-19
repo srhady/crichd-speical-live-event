@@ -2,7 +2,7 @@
     "playlist_name": "Live Sports Events",
     "owner": "Md Sohanur Rahman Hady",
     "telegram": "https://t.me/livesportsplay",
-    "last_updated": "2026-04-19 11:31:25 PM (BD Time)",
+    "last_updated": "2026-04-20 12:02:04 AM (BD Time)",
     "total_links": 0,
     "matches": [
         {
@@ -54,43 +54,6 @@
                     "Stream link": ""
                 }
             ]
-        },
-        {
-            "Category": "Football",
-            "Tour/Group name": "Bundesliga",
-            "match name": "Bayern München vs Stuttgart",
-            "Team 1 Name": "Bayern München",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
-            "Team 2 Name": "Stuttgart",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/stuttgart/logo.webp",
-            "Start time": "2026-04-19T15:30:00.000Z",
-            "End time": "2026-04-19T17:40:00.000Z",
-            "Status": "LIVE",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": [
-                {
-                    "Channel name": "Link 1",
-                    "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/bayern-munchen-vs-stuttgart/14821",
-                    "Stream link": ""
-                }
-            ]
-        },
-        {
-            "Category": "Football",
-            "Tour/Group name": "Premier League",
-            "match name": "Arsenal vs Manchester City",
-            "Team 1 Name": "Arsenal",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
-            "Team 2 Name": "Manchester City",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
-            "Start time": "2026-04-19T15:30:00.000Z",
-            "End time": "2026-04-19T17:40:00.000Z",
-            "Status": "LIVE",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": []
         },
         {
             "Category": "Football",
@@ -203,21 +166,6 @@
         },
         {
             "Category": "Football",
-            "Tour/Group name": "Bundesliga",
-            "match name": "Bayern München vs Bayer Leverkusen",
-            "Team 1 Name": "Bayern München",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
-            "Team 2 Name": "Bayer Leverkusen",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/bayer-leverkusen/logo.webp",
-            "Start time": "2026-04-22T18:45:00.000Z",
-            "End time": "2026-04-22T20:55:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": []
-        },
-        {
-            "Category": "Football",
             "Tour/Group name": "Serie A",
             "match name": "Juventus vs Bologna",
             "Team 1 Name": "Juventus",
@@ -229,7 +177,14 @@
             "Status": "UPCOMING",
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": []
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/juventus-vs-bologna/14823",
+                    "Stream link": ""
+                }
+            ]
         },
         {
             "Category": "Football",
@@ -553,6 +508,21 @@
             "Team 2 Logo": "https://cdn.img4every1.org/team/atalanta/logo.webp",
             "Start time": "2026-04-22T19:00:00.000Z",
             "End time": "2026-04-22T21:10:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": []
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "Bundesliga",
+            "match name": "Bayern München vs Bayer Leverkusen",
+            "Team 1 Name": "Bayern München",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
+            "Team 2 Name": "Bayer Leverkusen",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/bayer-leverkusen/logo.webp",
+            "Start time": "2026-04-22T18:45:00.000Z",
+            "End time": "2026-04-22T20:55:00.000Z",
             "Status": "UPCOMING",
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
