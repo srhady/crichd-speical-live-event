@@ -2,7 +2,7 @@
     "playlist_name": "Live Sports Events",
     "owner": "Md Sohanur Rahman Hady",
     "telegram": "https://t.me/livesportsplay",
-    "last_updated": "2026-04-21 01:01:51 AM (BD Time)",
+    "last_updated": "2026-04-21 01:31:45 AM (BD Time)",
     "total_links": 0,
     "matches": [
         {
@@ -57,47 +57,48 @@
         {
             "Category": "Football",
             "Tour/Group name": "Premier League",
-            "match name": "Chelsea vs Brighton",
-            "Team 1 Name": "Chelsea",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
-            "Team 2 Name": "Brighton & Hove Albion",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/brighton-hove-albion/logo.webp",
-            "Start time": "2026-04-21T19:00:00.000Z",
-            "End time": "2026-04-21T21:10:00.000Z",
-            "Status": "UPCOMING",
+            "match name": "West Ham vs Crystal Palace",
+            "Team 1 Name": "West Ham United",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/west-ham-united/logo.webp",
+            "Team 2 Name": "Crystal Palace",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
+            "Start time": "2026-04-20T19:00:00.000Z",
+            "End time": "2026-04-20T21:10:00.000Z",
+            "Status": "LIVE",
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": []
-        },
-        {
-            "Category": "Football",
-            "Tour/Group name": "Premier League",
-            "match name": "Manchester City vs Burnley",
-            "Team 1 Name": "Manchester City",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
-            "Team 2 Name": "Burnley FC",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/burnley-fc/logo.webp",
-            "Start time": "2026-04-22T19:00:00.000Z",
-            "End time": "2026-04-22T21:10:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": []
-        },
-        {
-            "Category": "Football",
-            "Tour/Group name": "Premier League",
-            "match name": "Leeds United vs Bournemouth",
-            "Team 1 Name": "Leeds United",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/leeds-united/logo.webp",
-            "Team 2 Name": "AFC Bournemouth",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/afc-bournemouth/logo.webp",
-            "Start time": "2026-04-22T19:00:00.000Z",
-            "End time": "2026-04-22T21:10:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": []
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/west-ham-vs-crystal-palace/14833",
+                    "Stream link": ""
+                },
+                {
+                    "Channel name": "Link 2",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/west-ham-vs-crystal-palace/14834",
+                    "Stream link": ""
+                },
+                {
+                    "Channel name": "Link 3",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/west-ham-vs-crystal-palace/14835",
+                    "Stream link": ""
+                },
+                {
+                    "Channel name": "Link 4",
+                    "Language": "Italiano",
+                    "Embed link": "https://footystream.top/alpha/west-ham-vs-crystal-palace/14836",
+                    "Stream link": ""
+                },
+                {
+                    "Channel name": "Link 5",
+                    "Language": "Español",
+                    "Embed link": "https://footystream.top/alpha/west-ham-vs-crystal-palace/14837",
+                    "Stream link": ""
+                }
+            ]
         },
         {
             "Category": "Football",
@@ -107,6 +108,21 @@
             "Team 1 Logo": "https://cdn.img4every1.org/team/mallorca/logo.webp",
             "Team 2 Name": "Valencia",
             "Team 2 Logo": "https://cdn.img4every1.org/team/valencia/logo.webp",
+            "Start time": "2026-04-21T17:00:00.000Z",
+            "End time": "2026-04-21T19:10:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": []
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "LaLiga",
+            "match name": "Osasuna vs Athletic Club",
+            "Team 1 Name": "Osasuna",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/osasuna/logo.webp",
+            "Team 2 Name": "Athletic Club",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
             "Start time": "2026-04-21T17:00:00.000Z",
             "End time": "2026-04-21T19:10:00.000Z",
             "Status": "UPCOMING",
@@ -295,6 +311,51 @@
         },
         {
             "Category": "Football",
+            "Tour/Group name": "Premier League",
+            "match name": "Chelsea vs Brighton",
+            "Team 1 Name": "Chelsea",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
+            "Team 2 Name": "Brighton & Hove Albion",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/brighton-hove-albion/logo.webp",
+            "Start time": "2026-04-21T19:00:00.000Z",
+            "End time": "2026-04-21T21:10:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": []
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "Premier League",
+            "match name": "Manchester City vs Burnley",
+            "Team 1 Name": "Manchester City",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
+            "Team 2 Name": "Burnley FC",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/burnley-fc/logo.webp",
+            "Start time": "2026-04-22T19:00:00.000Z",
+            "End time": "2026-04-22T21:10:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": []
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "Premier League",
+            "match name": "Leeds United vs Bournemouth",
+            "Team 1 Name": "Leeds United",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/leeds-united/logo.webp",
+            "Team 2 Name": "AFC Bournemouth",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/afc-bournemouth/logo.webp",
+            "Start time": "2026-04-22T19:00:00.000Z",
+            "End time": "2026-04-22T21:10:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": []
+        },
+        {
+            "Category": "Football",
             "Tour/Group name": "Coppa Italia",
             "match name": "Inter Milan vs Como",
             "Team 1 Name": "Inter Milan",
@@ -396,6 +457,28 @@
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": []
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "MotoGP",
+            "match name": "MotoGP Spanish Grand Prix",
+            "Team 1 Name": "MotoGP Spanish Grand Prix",
+            "Team 1 Logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
+            "Team 2 Name": "MotoGP",
+            "Team 2 Logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
+            "Start time": "2026-04-24T07:00:00.000Z",
+            "End time": "2026-04-26T14:00:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/motogp-spanish-grand-prix/14838",
+                    "Stream link": ""
+                }
+            ]
         }
     ]
 }
