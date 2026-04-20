@@ -2,7 +2,7 @@
     "playlist_name": "Live Sports Events",
     "owner": "Md Sohanur Rahman Hady",
     "telegram": "https://t.me/livesportsplay",
-    "last_updated": "2026-04-20 10:31:41 PM (BD Time)",
+    "last_updated": "2026-04-20 11:01:34 PM (BD Time)",
     "total_links": 0,
     "matches": [
         {
@@ -281,6 +281,50 @@
         },
         {
             "Category": "Football",
+            "Tour/Group name": "EFL",
+            "match name": "Hull City vs Leicester City",
+            "Team 1 Name": "Hull City",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/hull-city/logo.webp",
+            "Team 2 Name": "Leicester City",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/leicester-city/logo.webp",
+            "Start time": "2026-04-21T18:45:00.000Z",
+            "End time": "2026-04-21T20:55:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/hull-city-vs-leicester-city/14832",
+                    "Stream link": ""
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "EFL",
+            "match name": "Salford City vs Bromley",
+            "Team 1 Name": "Salford City",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/salford-city/logo.webp",
+            "Team 2 Name": "Bromley",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/bromley/logo.webp",
+            "Start time": "2026-04-23T19:00:00.000Z",
+            "End time": "2026-04-23T21:10:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/salford-city-vs-bromley/14765",
+                    "Stream link": ""
+                }
+            ]
+        },
+        {
+            "Category": "Football",
             "Tour/Group name": "Coppa Italia",
             "match name": "Inter Milan vs Como",
             "Team 1 Name": "Inter Milan",
@@ -360,28 +404,6 @@
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": []
-        },
-        {
-            "Category": "Football",
-            "Tour/Group name": "EFL",
-            "match name": "Salford City vs Bromley",
-            "Team 1 Name": "Salford City",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/salford-city/logo.webp",
-            "Team 2 Name": "Bromley",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/bromley/logo.webp",
-            "Start time": "2026-04-23T19:00:00.000Z",
-            "End time": "2026-04-23T21:10:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": [
-                {
-                    "Channel name": "Link 1",
-                    "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/salford-city-vs-bromley/14765",
-                    "Stream link": ""
-                }
-            ]
         }
     ]
 }
