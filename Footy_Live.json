@@ -2,7 +2,7 @@
     "playlist_name": "Live Sports Events",
     "owner": "Md Sohanur Rahman Hady",
     "telegram": "https://t.me/livesportsplay",
-    "last_updated": "2026-04-21 08:32:13 PM (BD Time)",
+    "last_updated": "2026-04-21 09:01:37 PM (BD Time)",
     "total_links": 0,
     "matches": [
         {
@@ -52,7 +52,20 @@
             "Status": "UPCOMING",
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": []
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/mallorca-vs-valencia/14841",
+                    "Stream link": ""
+                },
+                {
+                    "Channel name": "Link 2",
+                    "Language": "Español",
+                    "Embed link": "https://footystream.top/alpha/mallorca-vs-valencia/14844",
+                    "Stream link": ""
+                }
+            ]
         },
         {
             "Category": "Football",
@@ -72,6 +85,18 @@
                     "Channel name": "Link 1",
                     "Language": "English",
                     "Embed link": "https://footystream.top/alpha/osasuna-vs-athletic-club/14840",
+                    "Stream link": ""
+                },
+                {
+                    "Channel name": "Link 2",
+                    "Language": "Spanish",
+                    "Embed link": "https://footystream.top/alpha/osasuna-vs-athletic-club/14842",
+                    "Stream link": ""
+                },
+                {
+                    "Channel name": "Link 3",
+                    "Language": "Español",
+                    "Embed link": "https://footystream.top/alpha/osasuna-vs-athletic-club/14843",
                     "Stream link": ""
                 }
             ]
