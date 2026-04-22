@@ -2,14 +2,14 @@
     "playlist_name": "Live Sports Events",
     "owner": "Md Sohanur Rahman Hady",
     "telegram": "https://t.me/livesportsplay",
-    "last_updated": "2026-04-22 05:30:44 AM (BD Time)",
-    "total_links": 31,
+    "last_updated": "2026-04-22 06:00:46 AM (BD Time)",
+    "total_links": 39,
     "matches": [
         {
             "Category": "Cricket",
             "Tour/Group name": "PSL T20",
             "match name": "Pakistan Super League",
-            "Start time": "April 21, 2026, at 9 AM UTC",
+            "Start time": "April 22, 2026, at 9 AM UTC",
             "End time": "May 7, 2026, at 8 PM UTC",
             "Status": "LIVE",
             "referer": "https://player0003.com/",
@@ -51,7 +51,7 @@
             "Category": "Cricket",
             "Tour/Group name": "IPL T20",
             "match name": "IPL 2026",
-            "Start time": "April 21, 2026, at 1:30 PM UTC",
+            "Start time": "April 22, 2026, at 1:30 PM UTC",
             "End time": "June 3, 2026, at 8 PM UTC",
             "Status": "LIVE",
             "referer": "https://player0003.com/",
@@ -188,6 +188,66 @@
                     "Language": "English",
                     "Embed link": "https://dadocric.st/player.php?id=gtv",
                     "Stream link": "https://playerado.top/embed2.php?id=gtv"
+                }
+            ]
+        },
+        {
+            "Category": "Cricket",
+            "Tour/Group name": "IPL T20",
+            "match name": "LSG vs RR",
+            "Start time": "April 22, 2026, at 2 PM UTC",
+            "End time": "April 22, 2026, at 6 PM UTC",
+            "Status": "LIVE",
+            "referer": "https://player0003.com/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Willow Cricket",
+                    "Language": "English",
+                    "Embed link": "https://dadocric.st/player.php?id=willow",
+                    "Stream link": "https://playerado.top/embed2.php?id=willow"
+                },
+                {
+                    "Channel name": "Willow Xtra",
+                    "Language": "HIndi",
+                    "Embed link": "https://dadocric.st/player.php?id=willowextra",
+                    "Stream link": "https://playerado.top/embed2.php?id=willowextra"
+                },
+                {
+                    "Channel name": "Star Sports 1",
+                    "Language": "English",
+                    "Embed link": "https://dadocric.st/player.php?id=starsp",
+                    "Stream link": "https://playerado.top/embed2.php?id=starsp"
+                },
+                {
+                    "Channel name": "Star Sports Hindi",
+                    "Language": "Hindi",
+                    "Embed link": "https://dadocric.st/player.php?id=starsp3",
+                    "Stream link": "https://playerado.top/embed2.php?id=starsp3"
+                },
+                {
+                    "Channel name": "Willow HD",
+                    "Language": "English",
+                    "Embed link": "https://dadocric.st/player.php?id=willowhd",
+                    "Stream link": "https://playerado.top/embed2.php?id=willowhd"
+                },
+                {
+                    "Channel name": "Sky Cricket",
+                    "Language": "English",
+                    "Embed link": "https://dadocric.st/player.php?id=crich2",
+                    "Stream link": "https://playerado.top/embed2.php?id=crich2"
+                },
+                {
+                    "Channel name": "Star Sports 1 Tamil",
+                    "Language": "Tamil",
+                    "Embed link": "https://dadocric.st/player.php?id=starsp1tam",
+                    "Stream link": "https://playerado.top/embed2.php?id=starsp1tam"
+                },
+                {
+                    "Channel name": "Star Sports 1 Telugu",
+                    "Language": "Telugu",
+                    "Embed link": "https://dadocric.st/player.php?id=starsp1tel",
+                    "Stream link": "https://playerado.top/embed2.php?id=starsp1tel"
                 }
             ]
         },
