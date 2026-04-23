@@ -2,7 +2,7 @@
     "playlist_name": "Live Sports Events",
     "owner": "Md Sohanur Rahman Hady",
     "telegram": "https://t.me/livesportsplay",
-    "last_updated": "2026-04-24 02:02:30 AM (BD Time)",
+    "last_updated": "2026-04-24 02:32:09 AM (BD Time)",
     "total_links": 0,
     "matches": [
         {
@@ -91,14 +91,14 @@
         },
         {
             "Category": "Football",
-            "Tour/Group name": "LaLiga",
-            "match name": "Rayo Vallecano vs Espanyol",
-            "Team 1 Name": "Rayo Vallecano",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/rayo-vallecano/logo.webp",
-            "Team 2 Name": "Espanyol",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/espanyol/logo.webp",
-            "Start time": "2026-04-23T18:00:00.000Z",
-            "End time": "2026-04-23T20:10:00.000Z",
+            "Tour/Group name": "PGA Tour",
+            "match name": "LPGA Chevron Championship",
+            "Team 1 Name": "LPGA Chevron Championship",
+            "Team 1 Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
+            "Team 2 Name": "PGA Tour",
+            "Team 2 Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
+            "Start time": "2026-04-23T15:00:00.000Z",
+            "End time": "2026-04-26T22:00:00.000Z",
             "Status": "LIVE",
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
@@ -106,13 +106,13 @@
                 {
                     "Channel name": "Link 1",
                     "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/rayo-vallecano-vs-espanyol/14895",
+                    "Embed link": "https://footystream.top/alpha/lpga-chevron-championship/14926",
                     "Stream link": ""
                 },
                 {
                     "Channel name": "Link 2",
-                    "Language": "Español",
-                    "Embed link": "https://footystream.top/alpha/rayo-vallecano-vs-espanyol/14896",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/lpga-chevron-championship/14927",
                     "Stream link": ""
                 }
             ]
@@ -293,6 +293,34 @@
         },
         {
             "Category": "Football",
+            "Tour/Group name": "MotorSports",
+            "match name": "WRC Spain",
+            "Team 1 Name": "WRC Spain",
+            "Team 1 Logo": "https://cdn.img4every1.org/league/motorsports-streams-free/logo.webp",
+            "Team 2 Name": "MotorSports",
+            "Team 2 Logo": "https://cdn.img4every1.org/league/motorsports-streams-free/logo.webp",
+            "Start time": "2026-04-24T07:00:00.000Z",
+            "End time": "2026-04-26T15:45:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/wrc-spain/14924",
+                    "Stream link": ""
+                },
+                {
+                    "Channel name": "Link 2",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/wrc-spain/14925",
+                    "Stream link": ""
+                }
+            ]
+        },
+        {
+            "Category": "Football",
             "Tour/Group name": "NRL",
             "match name": "Cowboys vs Sharks",
             "Team 1 Name": "North Queensland Cowboys",
@@ -309,6 +337,56 @@
                     "Channel name": "Link 1",
                     "Language": "English",
                     "Embed link": "https://footystream.top/alpha/cowboys-vs-sharks/14919",
+                    "Stream link": ""
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "NRL",
+            "match name": "Canterbury Bulldogs vs Brisbane Broncos",
+            "Team 1 Name": "Canterbury Bulldogs",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/canterbury-bulldogs/logo.webp",
+            "Team 2 Name": "Brisbane Broncos",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/brisbane-broncos/logo.webp",
+            "Start time": "2026-04-24T10:00:00.000Z",
+            "End time": "2026-04-24T12:15:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/canterbury-bulldogs-vs-brisbane-broncos/14920",
+                    "Stream link": ""
+                },
+                {
+                    "Channel name": "Link 2",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/canterbury-bulldogs-vs-brisbane-broncos/14921",
+                    "Stream link": ""
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "AFL",
+            "match name": "Richmond vs North Melbourne",
+            "Team 1 Name": "Richmond",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/richmond/logo.webp",
+            "Team 2 Name": "North Melbourne",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/north-melbourne/logo.webp",
+            "Start time": "2026-04-24T09:30:00.000Z",
+            "End time": "2026-04-24T12:40:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/richmond-vs-north-melbourne/14922",
                     "Stream link": ""
                 }
             ]
@@ -425,14 +503,14 @@
         },
         {
             "Category": "Football",
-            "Tour/Group name": "A League",
-            "match name": "Adelaide United vs Melbourne City",
-            "Team 1 Name": "Adelaide United",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/adelaide-united/logo.webp",
-            "Team 2 Name": "Melbourne City",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/melbourne-city/logo.webp",
-            "Start time": "2026-04-26T07:30:00.000Z",
-            "End time": "2026-04-26T09:40:00.000Z",
+            "Tour/Group name": "Cycling",
+            "match name": "Tour of the Alps",
+            "Team 1 Name": "Tour of the Alps",
+            "Team 1 Logo": "https://cdn.img4every1.org/league/cycling-live-stream-free/logo.webp",
+            "Team 2 Name": "Cycling",
+            "Team 2 Logo": "https://cdn.img4every1.org/league/cycling-live-stream-free/logo.webp",
+            "Start time": "2026-04-24T11:30:00.000Z",
+            "End time": "2026-04-24T13:30:00.000Z",
             "Status": "UPCOMING",
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
@@ -440,7 +518,29 @@
                 {
                     "Channel name": "Link 1",
                     "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/adelaide-united-vs-melbourne-city/14914",
+                    "Embed link": "https://footystream.top/alpha/tour-of-the-alps/14859",
+                    "Stream link": ""
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "United Rugby",
+            "match name": "Cardiff Rugby vs Ospreys",
+            "Team 1 Name": "Cardiff Blues",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/cardiff-blues/logo.webp",
+            "Team 2 Name": "Ospreys",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/ospreys/logo.webp",
+            "Start time": "2026-04-24T18:00:00.000Z",
+            "End time": "2026-04-24T20:15:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/cardiff-rugby-vs-ospreys/14928",
                     "Stream link": ""
                 }
             ]
@@ -515,21 +615,6 @@
             "Team 2 Logo": "https://cdn.img4every1.org/team/hoffenheim/logo.webp",
             "Start time": "2026-04-25T16:30:00.000Z",
             "End time": "2026-04-25T18:40:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": []
-        },
-        {
-            "Category": "Football",
-            "Tour/Group name": "Bundesliga",
-            "match name": "Stuttgart vs Werder Bremen",
-            "Team 1 Name": "Stuttgart",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/stuttgart/logo.webp",
-            "Team 2 Name": "Werder Bremen",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/werder-bremen/logo.webp",
-            "Start time": "2026-04-26T13:30:00.000Z",
-            "End time": "2026-04-26T15:40:00.000Z",
             "Status": "UPCOMING",
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
@@ -671,36 +756,6 @@
         },
         {
             "Category": "Football",
-            "Tour/Group name": "Serie A",
-            "match name": "Sassuolo vs Fiorentina",
-            "Team 1 Name": "Sassuolo",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/sassuolo/logo.webp",
-            "Team 2 Name": "Fiorentina",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/fiorentina/logo.webp",
-            "Start time": "2026-04-26T10:30:00.000Z",
-            "End time": "2026-04-26T12:40:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": []
-        },
-        {
-            "Category": "Football",
-            "Tour/Group name": "Serie A",
-            "match name": "Como vs Genoa",
-            "Team 1 Name": "Como",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/como/logo.webp",
-            "Team 2 Name": "Genoa",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/genoa/logo.webp",
-            "Start time": "2026-04-26T13:00:00.000Z",
-            "End time": "2026-04-26T15:10:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": []
-        },
-        {
-            "Category": "Football",
             "Tour/Group name": "EFL",
             "match name": "Leicester City vs Millwall",
             "Team 1 Name": "Leicester City",
@@ -745,34 +800,6 @@
                     "Channel name": "Link 2",
                     "Language": "English",
                     "Embed link": "https://footystream.top/alpha/ipswich-vs-west-brom/14907",
-                    "Stream link": ""
-                }
-            ]
-        },
-        {
-            "Category": "Football",
-            "Tour/Group name": "EFL",
-            "match name": "Wrexham vs Coventry City",
-            "Team 1 Name": "Wrexham",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/wrexham/logo.webp",
-            "Team 2 Name": "Coventry City",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/coventry-city/logo.webp",
-            "Start time": "2026-04-26T11:00:00.000Z",
-            "End time": "2026-04-26T13:10:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": [
-                {
-                    "Channel name": "Link 1",
-                    "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/wrexham-vs-coventry-city/14911",
-                    "Stream link": ""
-                },
-                {
-                    "Channel name": "Link 2",
-                    "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/wrexham-vs-coventry-city/14912",
                     "Stream link": ""
                 }
             ]
@@ -854,18 +881,25 @@
         },
         {
             "Category": "Football",
-            "Tour/Group name": "LaLiga",
-            "match name": "Real Sociedad vs Rayo Vallecano",
-            "Team 1 Name": "Real Sociedad",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/real-sociedad/logo.webp",
-            "Team 2 Name": "Rayo Vallecano",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/rayo-vallecano/logo.webp",
-            "Start time": "2026-04-26T12:00:00.000Z",
-            "End time": "2026-04-26T14:10:00.000Z",
+            "Tour/Group name": "Super League",
+            "match name": "Wigan Warriors vs Warrington Wolves",
+            "Team 1 Name": "Wigan Warriors",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/wigan-warriors/logo.webp",
+            "Team 2 Name": "Warrington Wolves",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/warrington-wolves/logo.webp",
+            "Start time": "2026-04-24T19:00:00.000Z",
+            "End time": "2026-04-24T21:15:00.000Z",
             "Status": "UPCOMING",
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": []
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/wigan-warriors-vs-warrington-wolves/14923",
+                    "Stream link": ""
+                }
+            ]
         },
         {
             "Category": "Football",
