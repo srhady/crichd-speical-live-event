@@ -2,7 +2,7 @@
     "playlist_name": "Live Sports Events",
     "owner": "Md Sohanur Rahman Hady",
     "telegram": "https://t.me/livesportsplay",
-    "last_updated": "2026-04-25 05:32:14 AM (BD Time)",
+    "last_updated": "2026-04-25 06:02:10 AM (BD Time)",
     "total_links": 0,
     "matches": [
         {
@@ -99,7 +99,7 @@
             "Team 2 Logo": "https://cdn.img4every1.org/league/nfl-streams/logo.webp",
             "Start time": "2026-04-25T00:00:00.000Z",
             "End time": "2026-04-25T03:10:00.000Z",
-            "Status": "UPCOMING",
+            "Status": "LIVE",
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
@@ -642,7 +642,14 @@
             "Status": "UPCOMING",
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": []
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/everton-vs-west-ham/15018",
+                    "Stream link": ""
+                }
+            ]
         },
         {
             "Category": "Football",
@@ -663,6 +670,12 @@
                     "Language": "English",
                     "Embed link": "https://footystream.top/alpha/tottenham-vs-wolves/14958",
                     "Stream link": ""
+                },
+                {
+                    "Channel name": "Link 2",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/tottenham-vs-wolves/15019",
+                    "Stream link": ""
                 }
             ]
         },
@@ -679,7 +692,20 @@
             "Status": "UPCOMING",
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": []
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/liverpool-vs-crystal-palace/15017",
+                    "Stream link": ""
+                },
+                {
+                    "Channel name": "Link 2",
+                    "Language": "Español",
+                    "Embed link": "https://footystream.top/alpha/liverpool-vs-crystal-palace/15021",
+                    "Stream link": ""
+                }
+            ]
         },
         {
             "Category": "Football",
@@ -717,6 +743,12 @@
                     "Channel name": "Link 4",
                     "Language": "English",
                     "Embed link": "https://footystream.top/alpha/arsenal-vs-newcastle/14962",
+                    "Stream link": ""
+                },
+                {
+                    "Channel name": "Link 5",
+                    "Language": "Español",
+                    "Embed link": "https://footystream.top/alpha/arsenal-vs-newcastle/15020",
                     "Stream link": ""
                 }
             ]
@@ -925,6 +957,12 @@
                     "Channel name": "Link 5",
                     "Language": "Deutsch",
                     "Embed link": "https://footystream.top/alpha/barcelona-vs-getafe/15001",
+                    "Stream link": ""
+                },
+                {
+                    "Channel name": "Link 6",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/barcelona-vs-getafe/15022",
                     "Stream link": ""
                 }
             ]
