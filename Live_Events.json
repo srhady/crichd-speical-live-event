@@ -2,14 +2,14 @@
     "playlist_name": "Live Sports Events",
     "owner": "Md Sohanur Rahman Hady",
     "telegram": "https://t.me/livesportsplay",
-    "last_updated": "2026-04-28 05:30:35 AM (BD Time)",
-    "total_links": 29,
+    "last_updated": "2026-04-28 06:00:50 AM (BD Time)",
+    "total_links": 38,
     "matches": [
         {
             "Category": "Cricket",
             "Tour/Group name": "IPL T20",
             "match name": "IPL 2026",
-            "Start time": "April 27, 2026, at 1:30 PM UTC",
+            "Start time": "April 28, 2026, at 1:30 PM UTC",
             "End time": "June 3, 2026, at 8 PM UTC",
             "Status": "LIVE",
             "referer": "https://player0003.com/",
@@ -121,31 +121,67 @@
         },
         {
             "Category": "Cricket",
-            "Tour/Group name": "BAN vs NZ",
-            "match name": "Bangladesh vs New Zealand",
-            "Start time": "April 27, 2026, at 7:45 AM UTC",
-            "End time": "May 2, 2026, at 1 PM UTC",
+            "Tour/Group name": "IPL T20",
+            "match name": "PBKS vs RR",
+            "Start time": "April 28, 2025, at 2 PM UTC",
+            "End time": "April 28, 2026, at 6 PM UTC",
             "Status": "LIVE",
             "referer": "https://player0003.com/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
                 {
-                    "Channel name": "T Sports HD",
+                    "Channel name": "Willow Cricket",
                     "Language": "English",
-                    "Embed link": "https://dadocric.st/player.php?id=gtv",
-                    "Stream link": "https://playerado.top/embed2.php?id=gtv"
+                    "Embed link": "https://dadocric.st/player.php?id=willow",
+                    "Stream link": "https://playerado.top/embed2.php?id=willow"
                 },
                 {
-                    "Channel name": "CricGo 3",
-                    "Language": "English",
-                    "Embed link": "https://dadocric.st/player.php?id=cricgo3",
-                    "Stream link": "https://playerado.top/embed2.php?id=cricgo3"
+                    "Channel name": "Willow Xtra",
+                    "Language": "HIndi",
+                    "Embed link": "https://dadocric.st/player.php?id=willowextra",
+                    "Stream link": "https://playerado.top/embed2.php?id=willowextra"
                 },
                 {
-                    "Channel name": "TNT Cricket",
+                    "Channel name": "Star Sports 1",
                     "Language": "English",
-                    "Embed link": "https://dadocric.st/player.php?id=crich14",
-                    "Stream link": "https://playerado.top/embed2.php?id=crich14"
+                    "Embed link": "https://dadocric.st/player.php?id=starsp",
+                    "Stream link": "https://playerado.top/embed2.php?id=starsp"
+                },
+                {
+                    "Channel name": "Star Sports Hindi",
+                    "Language": "Hindi",
+                    "Embed link": "https://dadocric.st/player.php?id=starsp3",
+                    "Stream link": "https://playerado.top/embed2.php?id=starsp3"
+                },
+                {
+                    "Channel name": "Willow HD",
+                    "Language": "English",
+                    "Embed link": "https://dadocric.st/player.php?id=willowhd",
+                    "Stream link": "https://playerado.top/embed2.php?id=willowhd"
+                },
+                {
+                    "Channel name": "Fox Cricket",
+                    "Language": "English",
+                    "Embed link": "https://dadocric.st/player.php?id=fox501",
+                    "Stream link": "https://playerado.top/embed2.php?id=fox501"
+                },
+                {
+                    "Channel name": "Sky Cricket",
+                    "Language": "English",
+                    "Embed link": "https://dadocric.st/player.php?id=crich2",
+                    "Stream link": "https://playerado.top/embed2.php?id=crich2"
+                },
+                {
+                    "Channel name": "Star Sports 1 Tamil",
+                    "Language": "Tamil",
+                    "Embed link": "https://dadocric.st/player.php?id=starsp1tam",
+                    "Stream link": "https://playerado.top/embed2.php?id=starsp1tam"
+                },
+                {
+                    "Channel name": "Star Sports 1 Telugu",
+                    "Language": "Telugu",
+                    "Embed link": "https://dadocric.st/player.php?id=starsp1tel",
+                    "Stream link": "https://playerado.top/embed2.php?id=starsp1tel"
                 }
             ]
         },
@@ -188,6 +224,36 @@
                     "Language": "English",
                     "Embed link": "https://dadocric.st/player.php?id=geosuper",
                     "Stream link": "https://playerado.top/embed2.php?id=geosuper"
+                }
+            ]
+        },
+        {
+            "Category": "Cricket",
+            "Tour/Group name": "BAN vs NZ",
+            "match name": "Bangladesh vs New Zealand",
+            "Start time": "April 29, 2026, at 7:45 AM UTC",
+            "End time": "May 2, 2026, at 1 PM UTC",
+            "Status": "LIVE",
+            "referer": "https://player0003.com/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "T Sports HD",
+                    "Language": "English",
+                    "Embed link": "https://dadocric.st/player.php?id=gtv",
+                    "Stream link": "https://playerado.top/embed2.php?id=gtv"
+                },
+                {
+                    "Channel name": "CricGo 3",
+                    "Language": "English",
+                    "Embed link": "https://dadocric.st/player.php?id=cricgo3",
+                    "Stream link": "https://playerado.top/embed2.php?id=cricgo3"
+                },
+                {
+                    "Channel name": "TNT Cricket",
+                    "Language": "English",
+                    "Embed link": "https://dadocric.st/player.php?id=crich14",
+                    "Stream link": "https://playerado.top/embed2.php?id=crich14"
                 }
             ]
         },
