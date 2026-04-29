@@ -2,8 +2,8 @@
     "playlist_name": "Live Sports Events",
     "owner": "Md Sohanur Rahman Hady",
     "telegram": "https://t.me/livesportsplay",
-    "last_updated": "2026-04-29 10:31:31 AM (BD Time)",
-    "total_links": 1,
+    "last_updated": "2026-04-29 11:01:53 AM (BD Time)",
+    "total_links": 4,
     "matches": [
         {
             "Tour name": "ODI Match",
@@ -12,6 +12,27 @@
                 {
                     "Channel name": "CricGo 2",
                     "Stream link": "https://playerado.top/embed2.php?id=cricgo2",
+                    "Referer": "https://player0003.com/"
+                }
+            ]
+        },
+        {
+            "Tour name": "BAN vs NZ",
+            "Match name": "Bangladesh vs New Zealand",
+            "Channels": [
+                {
+                    "Channel name": "T Sports HD",
+                    "Stream link": "https://playerado.top/embed2.php?id=gtv",
+                    "Referer": "https://player0003.com/"
+                },
+                {
+                    "Channel name": "CricGo 3",
+                    "Stream link": "https://playerado.top/embed2.php?id=cricgo3",
+                    "Referer": "https://player0003.com/"
+                },
+                {
+                    "Channel name": "TNT Cricket",
+                    "Stream link": "https://playerado.top/embed2.php?id=crich14",
                     "Referer": "https://player0003.com/"
                 }
             ]
