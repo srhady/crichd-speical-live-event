@@ -2,57 +2,9 @@
     "playlist_name": "Live Sports Events",
     "owner": "Md Sohanur Rahman Hady",
     "telegram": "https://t.me/livesportsplay",
-    "last_updated": "2026-04-30 05:30:44 AM (BD Time)",
+    "last_updated": "2026-04-30 06:01:03 AM (BD Time)",
     "total_links": 42,
     "matches": [
-        {
-            "Category": "Cricket",
-            "Tour/Group name": "PSL T20",
-            "match name": "Pakistan Super League",
-            "Start time": "April 29, 2026, at 1:30 PM UTC",
-            "End time": "May 7, 2026, at 8 PM UTC",
-            "Status": "LIVE",
-            "referer": "https://player0003.com/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": [
-                {
-                    "Channel name": "Willow",
-                    "Language": "English",
-                    "Embed link": "https://dadocric.st/player.php?id=willowbuzz",
-                    "Stream link": "https://playerado.top/embed2.php?id=willowbuzz"
-                },
-                {
-                    "Channel name": "PTV Sports",
-                    "Language": "English",
-                    "Embed link": "https://dadocric.st/player.php?id=ptvsp",
-                    "Stream link": "https://playerado.top/embed2.php?id=ptvsp"
-                },
-                {
-                    "Channel name": "A Sports HD",
-                    "Language": "English",
-                    "Embed link": "https://dadocric.st/player.php?id=asports",
-                    "Stream link": "https://playerado.top/embed2.php?id=asports"
-                },
-                {
-                    "Channel name": "Ten Sports",
-                    "Language": "English",
-                    "Embed link": "https://dadocric.st/player.php?id=tensp",
-                    "Stream link": "https://playerado.top/embed2.php?id=tensp"
-                },
-                {
-                    "Channel name": "Geo Super",
-                    "Language": "English",
-                    "Embed link": "https://dadocric.st/player.php?id=geosuper",
-                    "Stream link": "https://playerado.top/embed2.php?id=geosuper"
-                },
-                {
-                    "Channel name": "T Sports HD",
-                    "Language": "English",
-                    "Embed link": "https://dadocric.st/player.php?id=gtv",
-                    "Stream link": "https://playerado.top/embed2.php?id=gtv"
-                }
-            ]
-        },
         {
             "Category": "Cricket",
             "Tour/Group name": "IPL T20",
@@ -116,6 +68,54 @@
                     "Language": "Telugu",
                     "Embed link": "https://dadocric.st/player.php?id=starsp1tel",
                     "Stream link": "https://playerado.top/embed2.php?id=starsp1tel"
+                }
+            ]
+        },
+        {
+            "Category": "Cricket",
+            "Tour/Group name": "PSL T20",
+            "match name": "Pakistan Super League",
+            "Start time": "May 1, 2026, at 1:30 PM UTC",
+            "End time": "May 7, 2026, at 8 PM UTC",
+            "Status": "LIVE",
+            "referer": "https://player0003.com/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Willow",
+                    "Language": "English",
+                    "Embed link": "https://dadocric.st/player.php?id=willowbuzz",
+                    "Stream link": "https://playerado.top/embed2.php?id=willowbuzz"
+                },
+                {
+                    "Channel name": "PTV Sports",
+                    "Language": "English",
+                    "Embed link": "https://dadocric.st/player.php?id=ptvsp",
+                    "Stream link": "https://playerado.top/embed2.php?id=ptvsp"
+                },
+                {
+                    "Channel name": "A Sports HD",
+                    "Language": "English",
+                    "Embed link": "https://dadocric.st/player.php?id=asports",
+                    "Stream link": "https://playerado.top/embed2.php?id=asports"
+                },
+                {
+                    "Channel name": "Ten Sports",
+                    "Language": "English",
+                    "Embed link": "https://dadocric.st/player.php?id=tensp",
+                    "Stream link": "https://playerado.top/embed2.php?id=tensp"
+                },
+                {
+                    "Channel name": "Geo Super",
+                    "Language": "English",
+                    "Embed link": "https://dadocric.st/player.php?id=geosuper",
+                    "Stream link": "https://playerado.top/embed2.php?id=geosuper"
+                },
+                {
+                    "Channel name": "T Sports HD",
+                    "Language": "English",
+                    "Embed link": "https://dadocric.st/player.php?id=gtv",
+                    "Stream link": "https://playerado.top/embed2.php?id=gtv"
                 }
             ]
         },
