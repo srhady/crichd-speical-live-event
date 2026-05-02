@@ -2,7 +2,7 @@
     "playlist_name": "Live Sports Events",
     "owner": "Md Sohanur Rahman Hady",
     "telegram": "https://t.me/livesportsplay",
-    "last_updated": "2026-05-02 05:03:54 PM (BD Time)",
+    "last_updated": "2026-05-02 05:34:05 PM (BD Time)",
     "total_links": 0,
     "matches": [
         {
@@ -293,7 +293,7 @@
             "Team 2 Logo": "https://cdn.img4every1.org/team/queens-park-rangers/logo.webp",
             "Start time": "2026-05-02T11:30:00.000Z",
             "End time": "2026-05-02T13:40:00.000Z",
-            "Status": "UPCOMING",
+            "Status": "LIVE",
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
@@ -315,7 +315,7 @@
             "Team 2 Logo": "https://cdn.img4every1.org/team/oxford-united/logo.webp",
             "Start time": "2026-05-02T11:30:00.000Z",
             "End time": "2026-05-02T13:40:00.000Z",
-            "Status": "UPCOMING",
+            "Status": "LIVE",
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
@@ -323,50 +323,6 @@
                     "Channel name": "Link 1",
                     "Language": "English",
                     "Embed link": "https://footystream.top/alpha/millwall-v-oxford-united/15127",
-                    "Stream link": ""
-                }
-            ]
-        },
-        {
-            "Category": "Football",
-            "Tour/Group name": "EFL",
-            "match name": "Exeter City vs Bradford City",
-            "Team 1 Name": "Exeter City",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/exeter-city/logo.webp",
-            "Team 2 Name": "Bradford City",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/bradford-city/logo.webp",
-            "Start time": "2026-05-02T14:00:00.000Z",
-            "End time": "2026-05-02T16:10:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": [
-                {
-                    "Channel name": "Link 1",
-                    "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/exeter-city-vs-bradford-city/15129",
-                    "Stream link": ""
-                }
-            ]
-        },
-        {
-            "Category": "Football",
-            "Tour/Group name": "EFL",
-            "match name": "Crawley Town vs Salford City",
-            "Team 1 Name": "Crawley Town",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/crawley-town/logo.webp",
-            "Team 2 Name": "Salford City",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/salford-city/logo.webp",
-            "Start time": "2026-05-02T14:00:00.000Z",
-            "End time": "2026-05-02T16:10:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": [
-                {
-                    "Channel name": "Link 1",
-                    "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/crawley-town-vs-salford-city/15130",
                     "Stream link": ""
                 }
             ]
@@ -930,6 +886,50 @@
                     "Channel name": "Link 1",
                     "Language": "English",
                     "Embed link": "https://footystream.top/alpha/leinster-vs-toulon/15128",
+                    "Stream link": ""
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "EFL",
+            "match name": "Exeter City vs Bradford City",
+            "Team 1 Name": "Exeter City",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/exeter-city/logo.webp",
+            "Team 2 Name": "Bradford City",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/bradford-city/logo.webp",
+            "Start time": "2026-05-02T14:00:00.000Z",
+            "End time": "2026-05-02T16:10:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/exeter-city-vs-bradford-city/15129",
+                    "Stream link": ""
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "EFL",
+            "match name": "Crawley Town vs Salford City",
+            "Team 1 Name": "Crawley Town",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/crawley-town/logo.webp",
+            "Team 2 Name": "Salford City",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/salford-city/logo.webp",
+            "Start time": "2026-05-02T14:00:00.000Z",
+            "End time": "2026-05-02T16:10:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/crawley-town-vs-salford-city/15130",
                     "Stream link": ""
                 }
             ]
