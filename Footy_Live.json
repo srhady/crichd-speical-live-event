@@ -2,7 +2,7 @@
     "playlist_name": "Live Sports Events",
     "owner": "Md Sohanur Rahman Hady",
     "telegram": "https://t.me/livesportsplay",
-    "last_updated": "2026-05-09 12:34:02 AM (BD Time)",
+    "last_updated": "2026-05-09 01:03:49 AM (BD Time)",
     "total_links": 0,
     "matches": [
         {
@@ -171,7 +171,7 @@
             "Team 2 Logo": "https://cdn.img4every1.org/team/nantes/logo.webp",
             "Start time": "2026-05-08T18:45:00.000Z",
             "End time": "2026-05-08T20:55:00.000Z",
-            "Status": "UPCOMING",
+            "Status": "LIVE",
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
@@ -193,7 +193,7 @@
             "Team 2 Logo": "https://cdn.img4every1.org/team/cardiff-blues/logo.webp",
             "Start time": "2026-05-08T18:45:00.000Z",
             "End time": "2026-05-08T21:00:00.000Z",
-            "Status": "UPCOMING",
+            "Status": "LIVE",
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
@@ -201,28 +201,6 @@
                     "Channel name": "Link 1",
                     "Language": "English",
                     "Embed link": "https://footystream.top/alpha/glasgow-warriors-vs-cardiff-rugby/15273",
-                    "Stream link": ""
-                }
-            ]
-        },
-        {
-            "Category": "Football",
-            "Tour/Group name": "United Rugby",
-            "match name": "Ulster vs Stormers",
-            "Team 1 Name": "Ulster",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/ulster/logo.webp",
-            "Team 2 Name": "Stormers",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/stormers/logo.webp",
-            "Start time": "2026-05-08T18:45:00.000Z",
-            "End time": "2026-05-08T21:00:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": [
-                {
-                    "Channel name": "Link 1",
-                    "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/ulster-vs-stormers/15274",
                     "Stream link": ""
                 }
             ]
@@ -237,7 +215,7 @@
             "Team 2 Logo": "https://cdn.img4every1.org/team/torino/logo.webp",
             "Start time": "2026-05-08T18:45:00.000Z",
             "End time": "2026-05-08T20:55:00.000Z",
-            "Status": "UPCOMING",
+            "Status": "LIVE",
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
@@ -257,70 +235,25 @@
         },
         {
             "Category": "Football",
-            "Tour/Group name": "Serie A",
-            "match name": "Cagliari vs Udinese",
-            "Team 1 Name": "Cagliari",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/cagliari/logo.webp",
-            "Team 2 Name": "Udinese",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/udinese/logo.webp",
-            "Start time": "2026-05-09T13:00:00.000Z",
-            "End time": "2026-05-09T15:10:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": []
-        },
-        {
-            "Category": "Football",
-            "Tour/Group name": "Serie A",
-            "match name": "Inter Milan vs Lazio",
-            "Team 1 Name": "Inter Milan",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
-            "Team 2 Name": "Lazio",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
-            "Start time": "2026-05-09T16:00:00.000Z",
-            "End time": "2026-05-09T18:10:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": []
-        },
-        {
-            "Category": "Football",
-            "Tour/Group name": "Serie A",
-            "match name": "Juventus vs Lecce",
-            "Team 1 Name": "Juventus",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
-            "Team 2 Name": "Lecce",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/lecce/logo.webp",
-            "Start time": "2026-05-09T18:45:00.000Z",
-            "End time": "2026-05-09T20:55:00.000Z",
-            "Status": "UPCOMING",
+            "Tour/Group name": "United Rugby",
+            "match name": "Ulster vs Stormers",
+            "Team 1 Name": "Ulster",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/ulster/logo.webp",
+            "Team 2 Name": "Stormers",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/stormers/logo.webp",
+            "Start time": "2026-05-08T18:45:00.000Z",
+            "End time": "2026-05-08T21:00:00.000Z",
+            "Status": "LIVE",
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
                 {
                     "Channel name": "Link 1",
                     "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/juventus-vs-lecce/15229",
+                    "Embed link": "https://footystream.top/alpha/ulster-vs-stormers/15274",
                     "Stream link": ""
                 }
             ]
-        },
-        {
-            "Category": "Football",
-            "Tour/Group name": "Serie A",
-            "match name": "Como vs Hellas Verona",
-            "Team 1 Name": "Como",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/como/logo.webp",
-            "Team 2 Name": "Hellas Verona",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/hellas-verona/logo.webp",
-            "Start time": "2026-05-10T10:30:00.000Z",
-            "End time": "2026-05-10T12:40:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": []
         },
         {
             "Category": "Football",
@@ -332,7 +265,7 @@
             "Team 2 Logo": "https://cdn.img4every1.org/team/gloucester-rugby/logo.webp",
             "Start time": "2026-05-08T18:45:00.000Z",
             "End time": "2026-05-08T21:00:00.000Z",
-            "Status": "UPCOMING",
+            "Status": "LIVE",
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
@@ -354,7 +287,7 @@
             "Team 2 Logo": "https://cdn.img4every1.org/team/levante/logo.webp",
             "Start time": "2026-05-08T19:00:00.000Z",
             "End time": "2026-05-08T21:10:00.000Z",
-            "Status": "UPCOMING",
+            "Status": "LIVE",
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
@@ -469,7 +402,7 @@
             "Team 2 Logo": "https://cdn.img4every1.org/team/millwall-fc/logo.webp",
             "Start time": "2026-05-08T19:00:00.000Z",
             "End time": "2026-05-08T21:10:00.000Z",
-            "Status": "UPCOMING",
+            "Status": "LIVE",
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
@@ -677,6 +610,28 @@
                     "Channel name": "Link 1",
                     "Language": "English",
                     "Embed link": "https://footystream.top/alpha/gold-coast-suns-vs-st-kilda/15286",
+                    "Stream link": ""
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "AFL",
+            "match name": "Collingwood vs Geelong Cats",
+            "Team 1 Name": "Collingwood",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/collingwood/logo.webp",
+            "Team 2 Name": "Geelong Cats",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/geelong-cats/logo.webp",
+            "Start time": "2026-05-09T09:30:00.000Z",
+            "End time": "2026-05-09T12:40:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/collingwood-vs-geelong-cats/15289",
                     "Stream link": ""
                 }
             ]
@@ -935,21 +890,6 @@
         },
         {
             "Category": "Football",
-            "Tour/Group name": "Premier League",
-            "match name": "Everton vs Crystal Palace",
-            "Team 1 Name": "Everton",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/everton/logo.webp",
-            "Team 2 Name": "Crystal Palace",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
-            "Start time": "2026-05-10T13:00:00.000Z",
-            "End time": "2026-05-10T15:10:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": []
-        },
-        {
-            "Category": "Football",
             "Tour/Group name": "PGA Tour",
             "match name": "Catalunya Championship",
             "Team 1 Name": "Catalunya Championship",
@@ -969,6 +909,73 @@
                     "Stream link": ""
                 }
             ]
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "Serie A",
+            "match name": "Cagliari vs Udinese",
+            "Team 1 Name": "Cagliari",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/cagliari/logo.webp",
+            "Team 2 Name": "Udinese",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/udinese/logo.webp",
+            "Start time": "2026-05-09T13:00:00.000Z",
+            "End time": "2026-05-09T15:10:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": []
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "Serie A",
+            "match name": "Inter Milan vs Lazio",
+            "Team 1 Name": "Inter Milan",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
+            "Team 2 Name": "Lazio",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
+            "Start time": "2026-05-09T16:00:00.000Z",
+            "End time": "2026-05-09T18:10:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": []
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "Serie A",
+            "match name": "Juventus vs Lecce",
+            "Team 1 Name": "Juventus",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
+            "Team 2 Name": "Lecce",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/lecce/logo.webp",
+            "Start time": "2026-05-09T18:45:00.000Z",
+            "End time": "2026-05-09T20:55:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/juventus-vs-lecce/15229",
+                    "Stream link": ""
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "Serie A",
+            "match name": "Como vs Hellas Verona",
+            "Team 1 Name": "Como",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/como/logo.webp",
+            "Team 2 Name": "Hellas Verona",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/hellas-verona/logo.webp",
+            "Start time": "2026-05-10T10:30:00.000Z",
+            "End time": "2026-05-10T12:40:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": []
         },
         {
             "Category": "Football",
