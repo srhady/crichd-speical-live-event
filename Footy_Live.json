@@ -2,7 +2,7 @@
     "playlist_name": "Live Sports Events",
     "owner": "Md Sohanur Rahman Hady",
     "telegram": "https://t.me/livesportsplay",
-    "last_updated": "2026-05-10 12:04:43 AM (BD Time)",
+    "last_updated": "2026-05-10 12:33:43 AM (BD Time)",
     "total_links": 0,
     "matches": [
         {
@@ -103,6 +103,18 @@
                     "Channel name": "Link 1",
                     "Language": "English",
                     "Embed link": "https://footystream.top/alpha/juventus-vs-lecce/15229",
+                    "Stream link": ""
+                },
+                {
+                    "Channel name": "Link 2",
+                    "Language": "Italiano",
+                    "Embed link": "https://footystream.top/alpha/juventus-vs-lecce/15345",
+                    "Stream link": ""
+                },
+                {
+                    "Channel name": "Link 3",
+                    "Language": "Italiano",
+                    "Embed link": "https://footystream.top/alpha/juventus-vs-lecce/15346",
                     "Stream link": ""
                 }
             ]
@@ -302,21 +314,6 @@
                     "Stream link": ""
                 }
             ]
-        },
-        {
-            "Category": "Football",
-            "Tour/Group name": "Serie A",
-            "match name": "Inter Milan vs Lazio",
-            "Team 1 Name": "Inter Milan",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
-            "Team 2 Name": "Lazio",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/lazio/logo.webp",
-            "Start time": "2026-05-09T16:00:00.000Z",
-            "End time": "2026-05-09T18:10:00.000Z",
-            "Status": "LIVE",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": []
         },
         {
             "Category": "Football",
@@ -632,6 +629,21 @@
             "Team 2 Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
             "Start time": "2026-05-10T19:00:00.000Z",
             "End time": "2026-05-10T21:10:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": []
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "LaLiga",
+            "match name": "Girona vs Rayo Vallecano",
+            "Team 1 Name": "Rayo Vallecano",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/rayo-vallecano/logo.webp",
+            "Team 2 Name": "Girona",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/girona/logo.webp",
+            "Start time": "2026-05-11T19:00:00.000Z",
+            "End time": "2026-05-11T21:10:00.000Z",
             "Status": "UPCOMING",
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
