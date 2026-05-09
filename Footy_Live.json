@@ -2,7 +2,7 @@
     "playlist_name": "Live Sports Events",
     "owner": "Md Sohanur Rahman Hady",
     "telegram": "https://t.me/livesportsplay",
-    "last_updated": "2026-05-09 08:33:59 PM (BD Time)",
+    "last_updated": "2026-05-09 09:03:50 PM (BD Time)",
     "total_links": 0,
     "matches": [
         {
@@ -836,21 +836,6 @@
         },
         {
             "Category": "Football",
-            "Tour/Group name": "LaLiga",
-            "match name": "Athletic Club vs Valencia",
-            "Team 1 Name": "Athletic Club",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/athletic-club/logo.webp",
-            "Team 2 Name": "Valencia",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/valencia/logo.webp",
-            "Start time": "2026-05-10T14:15:00.000Z",
-            "End time": "2026-05-10T16:25:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": []
-        },
-        {
-            "Category": "Football",
             "Tour/Group name": "Premiership Rugby",
             "match name": "Bristol Bears vs Saracens",
             "Team 1 Name": "Bristol Bears",
@@ -1038,6 +1023,28 @@
         },
         {
             "Category": "Football",
+            "Tour/Group name": "AFL",
+            "match name": "Richmond vs Crows",
+            "Team 1 Name": "Richmond",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/richmond/logo.webp",
+            "Team 2 Name": "Adelaide Crows",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/adelaide-crows/logo.webp",
+            "Start time": "2026-05-10T05:00:00.000Z",
+            "End time": "2026-05-10T08:10:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/richmond-vs-crows/15342",
+                    "Stream link": ""
+                }
+            ]
+        },
+        {
+            "Category": "Football",
             "Tour/Group name": "NRL",
             "match name": "Storm vs Tigers",
             "Team 1 Name": "Melbourne Storm",
@@ -1060,6 +1067,34 @@
         },
         {
             "Category": "Football",
+            "Tour/Group name": "NRL",
+            "match name": "Panthers vs Raiders",
+            "Team 1 Name": "Penrith Panthers",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/penrith-panthers/logo.webp",
+            "Team 2 Name": "Canberra Raiders",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/canberra-raiders/logo.webp",
+            "Start time": "2026-05-10T06:00:00.000Z",
+            "End time": "2026-05-10T08:15:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/panthers-vs-raiders/15343",
+                    "Stream link": ""
+                },
+                {
+                    "Channel name": "Link 2",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/panthers-vs-raiders/15344",
+                    "Stream link": ""
+                }
+            ]
+        },
+        {
+            "Category": "Football",
             "Tour/Group name": "WSL",
             "match name": "",
             "Team 1 Name": "Liverpool",
@@ -1076,28 +1111,6 @@
                     "Channel name": "Link 1",
                     "Language": "English",
                     "Embed link": "https://footystream.top/alpha/liverpool-vs-brighton/15258",
-                    "Stream link": ""
-                }
-            ]
-        },
-        {
-            "Category": "Football",
-            "Tour/Group name": "WSL",
-            "match name": "Chelsea vs Manchester City",
-            "Team 1 Name": "Chelsea",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
-            "Team 2 Name": "Manchester City",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
-            "Start time": "2026-05-10T14:30:00.000Z",
-            "End time": "2026-05-10T16:40:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": [
-                {
-                    "Channel name": "Link 1",
-                    "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/chelsea-vs-manchester-city/15259",
                     "Stream link": ""
                 }
             ]
