@@ -2,7 +2,7 @@
     "playlist_name": "Live Sports Events",
     "owner": "Md Sohanur Rahman Hady",
     "telegram": "https://t.me/livesportsplay",
-    "last_updated": "2026-05-10 07:33:40 PM (BD Time)",
+    "last_updated": "2026-05-10 08:03:33 PM (BD Time)",
     "total_links": 0,
     "matches": [
         {
@@ -435,7 +435,7 @@
             "Team 2 Logo": "https://cdn.img4every1.org/team/salford-city/logo.webp",
             "Start time": "2026-05-10T14:00:00.000Z",
             "End time": "2026-05-10T16:10:00.000Z",
-            "Status": "UPCOMING",
+            "Status": "LIVE",
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
@@ -443,28 +443,6 @@
                     "Channel name": "Link 1",
                     "Language": "English",
                     "Embed link": "https://footystream.top/alpha/grimsby-town-vs-salford-city/15260",
-                    "Stream link": ""
-                }
-            ]
-        },
-        {
-            "Category": "Football",
-            "Tour/Group name": "EFL",
-            "match name": "Chesterfield vs Notts County",
-            "Team 1 Name": "Chesterfield",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/chesterfield/logo.webp",
-            "Team 2 Name": "Notts County",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/notts-county/logo.webp",
-            "Start time": "2026-05-10T17:00:00.000Z",
-            "End time": "2026-05-10T19:10:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": [
-                {
-                    "Channel name": "Link 1",
-                    "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/chesterfield-vs-notts-county/15261",
                     "Stream link": ""
                 }
             ]
@@ -479,7 +457,7 @@
             "Team 2 Logo": "https://cdn.img4every1.org/team/harlequins/logo.webp",
             "Start time": "2026-05-10T14:00:00.000Z",
             "End time": "2026-05-10T16:15:00.000Z",
-            "Status": "UPCOMING",
+            "Status": "LIVE",
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
@@ -487,28 +465,6 @@
                     "Channel name": "Link 1",
                     "Language": "English",
                     "Embed link": "https://footystream.top/alpha/newcastle-vs-harlequins/15347",
-                    "Stream link": ""
-                }
-            ]
-        },
-        {
-            "Category": "Football",
-            "Tour/Group name": "Premiership Rugby",
-            "match name": "Bath vs Exeter Chiefs",
-            "Team 1 Name": "Bath Rugby",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/bath-rugby/logo.webp",
-            "Team 2 Name": "Exeter Chiefs",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/exeter-chiefs/logo.webp",
-            "Start time": "2026-05-10T14:30:00.000Z",
-            "End time": "2026-05-10T16:45:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": [
-                {
-                    "Channel name": "Link 1",
-                    "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/bath-vs-exeter/15348",
                     "Stream link": ""
                 }
             ]
@@ -690,6 +646,28 @@
         },
         {
             "Category": "Football",
+            "Tour/Group name": "Premiership Rugby",
+            "match name": "Bath vs Exeter Chiefs",
+            "Team 1 Name": "Bath Rugby",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/bath-rugby/logo.webp",
+            "Team 2 Name": "Exeter Chiefs",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/exeter-chiefs/logo.webp",
+            "Start time": "2026-05-10T14:30:00.000Z",
+            "End time": "2026-05-10T16:45:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/bath-vs-exeter/15348",
+                    "Stream link": ""
+                }
+            ]
+        },
+        {
+            "Category": "Football",
             "Tour/Group name": "Challenge Cup",
             "match name": "Warrington Wolves vs Hull KR",
             "Team 1 Name": "Warrington Wolves",
@@ -805,6 +783,28 @@
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": []
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "EFL",
+            "match name": "Chesterfield vs Notts County",
+            "Team 1 Name": "Chesterfield",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/chesterfield/logo.webp",
+            "Team 2 Name": "Notts County",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/notts-county/logo.webp",
+            "Start time": "2026-05-10T17:00:00.000Z",
+            "End time": "2026-05-10T19:10:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/chesterfield-vs-notts-county/15261",
+                    "Stream link": ""
+                }
+            ]
         },
         {
             "Category": "Football",
