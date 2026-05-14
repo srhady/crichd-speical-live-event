@@ -2,7 +2,7 @@
     "playlist_name": "Live Sports Events",
     "owner": "Md Sohanur Rahman Hady",
     "telegram": "https://t.me/livesportsplay",
-    "last_updated": "2026-05-14 10:33:58 PM (BD Time)",
+    "last_updated": "2026-05-14 11:04:00 PM (BD Time)",
     "total_links": 0,
     "matches": [
         {
@@ -87,7 +87,7 @@
             "Team 2 Logo": "https://cdn.img4every1.org/team/rayo-vallecano/logo.webp",
             "Start time": "2026-05-14T17:00:00.000Z",
             "End time": "2026-05-14T19:10:00.000Z",
-            "Status": "UPCOMING",
+            "Status": "LIVE",
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
@@ -217,36 +217,6 @@
             "Team 1 Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
             "Team 2 Name": "Real Betis",
             "Team 2 Logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
-            "Start time": "2026-05-17T17:00:00.000Z",
-            "End time": "2026-05-17T19:10:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": []
-        },
-        {
-            "Category": "Football",
-            "Tour/Group name": "LaLiga",
-            "match name": "Girona vs Atletico Madrid",
-            "Team 1 Name": "Girona",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/girona/logo.webp",
-            "Team 2 Name": "Atlético Madrid",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
-            "Start time": "2026-05-17T17:00:00.000Z",
-            "End time": "2026-05-17T19:10:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": []
-        },
-        {
-            "Category": "Football",
-            "Tour/Group name": "LaLiga",
-            "match name": "Real Madrid vs Sevilla",
-            "Team 1 Name": "Real Madrid",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/real-madrid/logo.webp",
-            "Team 2 Name": "Sevilla",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/sevilla/logo.webp",
             "Start time": "2026-05-17T17:00:00.000Z",
             "End time": "2026-05-17T19:10:00.000Z",
             "Status": "UPCOMING",
@@ -488,6 +458,72 @@
                     "Channel name": "Link 1",
                     "Language": "English",
                     "Embed link": "https://footystream.top/alpha/dolphins-vs-rabbitohs/15503",
+                    "Stream link": ""
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "NRL",
+            "match name": "Sea Eagles vs Tigers",
+            "Team 1 Name": "Manly-Warringah Sea Eagles",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/manly-warringah-sea-eagles/logo.webp",
+            "Team 2 Name": "Wests Tigers",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/wests-tigers/logo.webp",
+            "Start time": "2026-05-16T05:00:00.000Z",
+            "End time": "2026-05-16T07:15:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/sea-eagles-vs-tigers/15511",
+                    "Stream link": ""
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "NRL",
+            "match name": "Roosters vs Cowboys",
+            "Team 1 Name": "Sydney Roosters",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/sydney-roosters/logo.webp",
+            "Team 2 Name": "North Queensland Cowboys",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/north-queensland-cowboys/logo.webp",
+            "Start time": "2026-05-16T07:30:00.000Z",
+            "End time": "2026-05-16T09:45:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/roosters-vs-cowboys/15514",
+                    "Stream link": ""
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "NRL",
+            "match name": "Parramatta Eels vs Melbourne Storm",
+            "Team 1 Name": "Parramatta Eels",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/parramatta-eels/logo.webp",
+            "Team 2 Name": "Melbourne Storm",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/melbourne-storm/logo.webp",
+            "Start time": "2026-05-16T09:45:00.000Z",
+            "End time": "2026-05-16T12:00:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/parramatta-eels-vs-melbourne-storm/15515",
                     "Stream link": ""
                 }
             ]
@@ -1054,6 +1090,34 @@
         },
         {
             "Category": "Football",
+            "Tour/Group name": "MotorSports",
+            "match name": "Formula E Monaco ePrix",
+            "Team 1 Name": "Formula E Monaco ePrix",
+            "Team 1 Logo": "https://cdn.img4every1.org/league/motorsports-streams-free/logo.webp",
+            "Team 2 Name": "MotorSports",
+            "Team 2 Logo": "https://cdn.img4every1.org/league/motorsports-streams-free/logo.webp",
+            "Start time": "2026-05-16T05:30:00.000Z",
+            "End time": "2026-05-17T16:00:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/formula-e-monaco-eprix/15512",
+                    "Stream link": ""
+                },
+                {
+                    "Channel name": "Link 2",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/formula-e-monaco-eprix/15513",
+                    "Stream link": ""
+                }
+            ]
+        },
+        {
+            "Category": "Football",
             "Tour/Group name": "Serie A",
             "match name": "Inter Milan vs Hellas Verona",
             "Team 1 Name": "Inter Milan",
@@ -1096,28 +1160,6 @@
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": []
-        },
-        {
-            "Category": "Football",
-            "Tour/Group name": "French Ligue 1",
-            "match name": "PSG vs Paris",
-            "Team 1 Name": "PSG",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/psg/logo.webp",
-            "Team 2 Name": "Paris FC",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/paris-fc/logo.webp",
-            "Start time": "2026-05-17T19:00:00.000Z",
-            "End time": "2026-05-17T21:10:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": [
-                {
-                    "Channel name": "Link 1",
-                    "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/psg-vs-paris/15416",
-                    "Stream link": ""
-                }
-            ]
         }
     ]
 }
