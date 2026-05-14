@@ -2,7 +2,7 @@
     "playlist_name": "Live Sports Events",
     "owner": "Md Sohanur Rahman Hady",
     "telegram": "https://t.me/livesportsplay",
-    "last_updated": "2026-05-15 12:34:14 AM (BD Time)",
+    "last_updated": "2026-05-15 01:04:14 AM (BD Time)",
     "total_links": 0,
     "matches": [
         {
@@ -241,7 +241,7 @@
             "Team 2 Logo": "https://cdn.img4every1.org/team/bradford-city/logo.webp",
             "Start time": "2026-05-14T19:00:00.000Z",
             "End time": "2026-05-14T22:10:00.000Z",
-            "Status": "UPCOMING",
+            "Status": "LIVE",
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
@@ -267,50 +267,6 @@
         },
         {
             "Category": "Football",
-            "Tour/Group name": "EFL",
-            "match name": "Grimsby Town vs Salford City",
-            "Team 1 Name": "Grimsby Town",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/grimsby-town/logo.webp",
-            "Team 2 Name": "Salford City",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/salford-city/logo.webp",
-            "Start time": "2026-05-15T18:15:00.000Z",
-            "End time": "2026-05-15T20:25:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": [
-                {
-                    "Channel name": "Link 1",
-                    "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/grimsby-town-vs-salford-city/15408",
-                    "Stream link": ""
-                }
-            ]
-        },
-        {
-            "Category": "Football",
-            "Tour/Group name": "EFL",
-            "match name": "Chesterfield vs Notts County",
-            "Team 1 Name": "Chesterfield",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/chesterfield/logo.webp",
-            "Team 2 Name": "Notts County",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/notts-county/logo.webp",
-            "Start time": "2026-05-15T19:00:00.000Z",
-            "End time": "2026-05-15T21:10:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": [
-                {
-                    "Channel name": "Link 1",
-                    "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/chesterfield-vs-notts-county/15409",
-                    "Stream link": ""
-                }
-            ]
-        },
-        {
-            "Category": "Football",
             "Tour/Group name": "PGA Tour",
             "match name": "Kroger Queen City Championship",
             "Team 1 Name": "Kroger Queen City Championship",
@@ -319,7 +275,7 @@
             "Team 2 Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
             "Start time": "2026-05-14T19:00:00.000Z",
             "End time": "2026-05-17T23:00:00.000Z",
-            "Status": "UPCOMING",
+            "Status": "LIVE",
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
@@ -769,6 +725,50 @@
                     "Channel name": "Link 1",
                     "Language": "English",
                     "Embed link": "https://footystream.top/alpha/koln-vs-bayern-munchen/15411",
+                    "Stream link": ""
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "EFL",
+            "match name": "Grimsby Town vs Salford City",
+            "Team 1 Name": "Grimsby Town",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/grimsby-town/logo.webp",
+            "Team 2 Name": "Salford City",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/salford-city/logo.webp",
+            "Start time": "2026-05-15T18:15:00.000Z",
+            "End time": "2026-05-15T20:25:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/grimsby-town-vs-salford-city/15408",
+                    "Stream link": ""
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "EFL",
+            "match name": "Chesterfield vs Notts County",
+            "Team 1 Name": "Chesterfield",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/chesterfield/logo.webp",
+            "Team 2 Name": "Notts County",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/notts-county/logo.webp",
+            "Start time": "2026-05-15T19:00:00.000Z",
+            "End time": "2026-05-15T21:10:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/chesterfield-vs-notts-county/15409",
                     "Stream link": ""
                 }
             ]
