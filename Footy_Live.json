@@ -2,7 +2,7 @@
     "playlist_name": "Live Sports Events",
     "owner": "Md Sohanur Rahman Hady",
     "telegram": "https://t.me/livesportsplay",
-    "last_updated": "2026-05-14 11:33:55 PM (BD Time)",
+    "last_updated": "2026-05-15 12:03:58 AM (BD Time)",
     "total_links": 0,
     "matches": [
         {
@@ -185,7 +185,7 @@
             "Team 2 Logo": "https://cdn.img4every1.org/team/girona/logo.webp",
             "Start time": "2026-05-14T18:00:00.000Z",
             "End time": "2026-05-14T20:10:00.000Z",
-            "Status": "UPCOMING",
+            "Status": "LIVE",
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
@@ -211,21 +211,6 @@
         },
         {
             "Category": "Football",
-            "Tour/Group name": "LaLiga",
-            "match name": "Barcelona vs Real Betis",
-            "Team 1 Name": "FC Barcelona",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
-            "Team 2 Name": "Real Betis",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
-            "Start time": "2026-05-17T17:00:00.000Z",
-            "End time": "2026-05-17T19:10:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": []
-        },
-        {
-            "Category": "Football",
             "Tour/Group name": "FA Cup",
             "match name": "Manchester City U18 vs Manchester United U18",
             "Team 1 Name": "Manchester City",
@@ -234,7 +219,7 @@
             "Team 2 Logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
             "Start time": "2026-05-14T18:00:00.000Z",
             "End time": "2026-05-14T20:10:00.000Z",
-            "Status": "UPCOMING",
+            "Status": "LIVE",
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
@@ -242,28 +227,6 @@
                     "Channel name": "Link 1",
                     "Language": "English",
                     "Embed link": "https://footystream.top/alpha/manchester-city-u18-vs-manchester-united-u18/15404",
-                    "Stream link": ""
-                }
-            ]
-        },
-        {
-            "Category": "Football",
-            "Tour/Group name": "FA Cup",
-            "match name": "Chelsea vs Manchester City",
-            "Team 1 Name": "Chelsea",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
-            "Team 2 Name": "Manchester City",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
-            "Start time": "2026-05-16T14:00:00.000Z",
-            "End time": "2026-05-16T17:10:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": [
-                {
-                    "Channel name": "Link 1",
-                    "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/chelsea-vs-manchester-city/15410",
                     "Stream link": ""
                 }
             ]
@@ -1118,6 +1081,28 @@
         },
         {
             "Category": "Football",
+            "Tour/Group name": "FA Cup",
+            "match name": "Chelsea vs Manchester City",
+            "Team 1 Name": "Chelsea",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
+            "Team 2 Name": "Manchester City",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
+            "Start time": "2026-05-16T14:00:00.000Z",
+            "End time": "2026-05-16T17:10:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/chelsea-vs-manchester-city/15410",
+                    "Stream link": ""
+                }
+            ]
+        },
+        {
+            "Category": "Football",
             "Tour/Group name": "Serie A",
             "match name": "Inter Milan vs Hellas Verona",
             "Team 1 Name": "Inter Milan",
@@ -1156,6 +1141,21 @@
             "Team 2 Logo": "https://cdn.img4every1.org/team/genoa/logo.webp",
             "Start time": "2026-05-17T13:00:00.000Z",
             "End time": "2026-05-17T15:10:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": []
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "LaLiga",
+            "match name": "Barcelona vs Real Betis",
+            "Team 1 Name": "FC Barcelona",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
+            "Team 2 Name": "Real Betis",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
+            "Start time": "2026-05-17T17:00:00.000Z",
+            "End time": "2026-05-17T19:10:00.000Z",
             "Status": "UPCOMING",
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
