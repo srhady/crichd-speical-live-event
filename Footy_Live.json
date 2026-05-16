@@ -2,9 +2,55 @@
     "playlist_name": "Live Sports Events",
     "owner": "Md Sohanur Rahman Hady",
     "telegram": "https://t.me/livesportsplay",
-    "last_updated": "2026-05-16 05:33:42 PM (BD Time)",
+    "last_updated": "2026-05-16 06:03:43 PM (BD Time)",
     "total_links": 0,
     "matches": [
+        {
+            "Category": "Football",
+            "Tour/Group name": "FA Cup",
+            "match name": "Chelsea vs Manchester City",
+            "Team 1 Name": "Chelsea",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
+            "Team 2 Name": "Manchester City",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
+            "Start time": "2026-05-16T14:00:00.000Z",
+            "End time": "2026-05-16T17:10:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/chelsea-vs-manchester-city/15410",
+                    "Stream link": ""
+                },
+                {
+                    "Channel name": "Link 2",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/chelsea-vs-manchester-city/15551",
+                    "Stream link": ""
+                },
+                {
+                    "Channel name": "Link 3",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/chelsea-vs-manchester-city/15552",
+                    "Stream link": ""
+                },
+                {
+                    "Channel name": "Link 4",
+                    "Language": "Español",
+                    "Embed link": "https://footystream.top/alpha/chelsea-vs-manchester-city/15553",
+                    "Stream link": ""
+                },
+                {
+                    "Channel name": "Link 5",
+                    "Language": "Spanish",
+                    "Embed link": "https://footystream.top/alpha/chelsea-vs-manchester-city/15554",
+                    "Stream link": ""
+                }
+            ]
+        },
         {
             "Category": "Football",
             "Tour/Group name": "ATP Tour",
@@ -179,50 +225,6 @@
         },
         {
             "Category": "Football",
-            "Tour/Group name": "A League",
-            "match name": "Sydney vs Newcastle Jets",
-            "Team 1 Name": "Sydney FC",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/sydney-fc/logo.webp",
-            "Team 2 Name": "Newcastle Jets",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/newcastle-jets/logo.webp",
-            "Start time": "2026-05-16T09:40:00.000Z",
-            "End time": "2026-05-16T11:50:00.000Z",
-            "Status": "LIVE",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": [
-                {
-                    "Channel name": "Link 1",
-                    "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/sydney-vs-newcastle-jets/15413",
-                    "Stream link": ""
-                }
-            ]
-        },
-        {
-            "Category": "Football",
-            "Tour/Group name": "NRL",
-            "match name": "Parramatta Eels vs Melbourne Storm",
-            "Team 1 Name": "Parramatta Eels",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/parramatta-eels/logo.webp",
-            "Team 2 Name": "Melbourne Storm",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/melbourne-storm/logo.webp",
-            "Start time": "2026-05-16T09:45:00.000Z",
-            "End time": "2026-05-16T12:00:00.000Z",
-            "Status": "LIVE",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": [
-                {
-                    "Channel name": "Link 1",
-                    "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/parramatta-eels-vs-melbourne-storm/15515",
-                    "Stream link": ""
-                }
-            ]
-        },
-        {
-            "Category": "Football",
             "Tour/Group name": "United Rugby",
             "match name": "Sharks vs Zebre",
             "Team 1 Name": "The Sharks",
@@ -231,7 +233,7 @@
             "Team 2 Logo": "https://cdn.img4every1.org/team/zebre/logo.webp",
             "Start time": "2026-05-16T11:45:00.000Z",
             "End time": "2026-05-16T14:00:00.000Z",
-            "Status": "UPCOMING",
+            "Status": "LIVE",
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
@@ -239,6 +241,178 @@
                     "Channel name": "Link 1",
                     "Language": "English",
                     "Embed link": "https://footystream.top/alpha/sharks-vs-zebre/15525",
+                    "Stream link": ""
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "WSL",
+            "match name": "Chelsea vs Manchester United",
+            "Team 1 Name": "Chelsea",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
+            "Team 2 Name": "Manchester United",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
+            "Start time": "2026-05-16T12:00:00.000Z",
+            "End time": "2026-05-16T14:10:00.000Z",
+            "Status": "LIVE",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/chelsea-vs-manchester-united/15544",
+                    "Stream link": ""
+                },
+                {
+                    "Channel name": "Link 2",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/chelsea-vs-manchester-united/15545",
+                    "Stream link": ""
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "PGA Tour",
+            "match name": "Amundi German Masters",
+            "Team 1 Name": "Amundi German Masters",
+            "Team 1 Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
+            "Team 2 Name": "PGA Tour",
+            "Team 2 Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
+            "Start time": "2026-05-16T12:00:00.000Z",
+            "End time": "2026-05-17T15:00:00.000Z",
+            "Status": "LIVE",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/amundi-german-masters/15528",
+                    "Stream link": ""
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "WSL",
+            "match name": "Manchester City vs West Ham",
+            "Team 1 Name": "Manchester City",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
+            "Team 2 Name": "West Ham United",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/west-ham-united/logo.webp",
+            "Start time": "2026-05-16T12:00:00.000Z",
+            "End time": "2026-05-16T14:10:00.000Z",
+            "Status": "LIVE",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/manchester-city-vs-west-ham/15543",
+                    "Stream link": ""
+                },
+                {
+                    "Channel name": "Link 2",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/manchester-city-vs-west-ham/15546",
+                    "Stream link": ""
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "WSL",
+            "match name": "Arsenal vs",
+            "Team 1 Name": "Arsenal",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
+            "Team 2 Name": "Liverpool",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
+            "Start time": "2026-05-16T12:00:00.000Z",
+            "End time": "2026-05-16T14:10:00.000Z",
+            "Status": "LIVE",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/arsenal-vs-liverpool/15526",
+                    "Stream link": ""
+                },
+                {
+                    "Channel name": "Link 2",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/arsenal-vs-liverpool/15547",
+                    "Stream link": ""
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "WSL",
+            "match name": "Everton vs Leicester City",
+            "Team 1 Name": "Everton",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/everton/logo.webp",
+            "Team 2 Name": "Leicester City",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/leicester-city/logo.webp",
+            "Start time": "2026-05-16T12:00:00.000Z",
+            "End time": "2026-05-16T14:10:00.000Z",
+            "Status": "LIVE",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/everton-vs-leicester-city/15548",
+                    "Stream link": ""
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "Bundesliga",
+            "match name": "Hamburger SV vs Bayer Leverkusen",
+            "Team 1 Name": "Hamburger SV",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/hamburger-sv/logo.webp",
+            "Team 2 Name": "Bayer Leverkusen",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/bayer-leverkusen/logo.webp",
+            "Start time": "2026-05-16T13:30:00.000Z",
+            "End time": "2026-05-16T15:40:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/hamburger-sv-vs-bayer-leverkusen/15412",
+                    "Stream link": ""
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "Bundesliga",
+            "match name": "Köln vs Bayern München",
+            "Team 1 Name": "Köln",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/koln/logo.webp",
+            "Team 2 Name": "Bayern München",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
+            "Start time": "2026-05-16T13:30:00.000Z",
+            "End time": "2026-05-16T15:40:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/koln-vs-bayern-munchen/15411",
                     "Stream link": ""
                 }
             ]
@@ -333,178 +507,6 @@
         },
         {
             "Category": "Football",
-            "Tour/Group name": "WSL",
-            "match name": "Chelsea vs Manchester United",
-            "Team 1 Name": "Chelsea",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
-            "Team 2 Name": "Manchester United",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
-            "Start time": "2026-05-16T12:00:00.000Z",
-            "End time": "2026-05-16T14:10:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": [
-                {
-                    "Channel name": "Link 1",
-                    "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/chelsea-vs-manchester-united/15544",
-                    "Stream link": ""
-                },
-                {
-                    "Channel name": "Link 2",
-                    "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/chelsea-vs-manchester-united/15545",
-                    "Stream link": ""
-                }
-            ]
-        },
-        {
-            "Category": "Football",
-            "Tour/Group name": "WSL",
-            "match name": "Manchester City vs West Ham",
-            "Team 1 Name": "Manchester City",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
-            "Team 2 Name": "West Ham United",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/west-ham-united/logo.webp",
-            "Start time": "2026-05-16T12:00:00.000Z",
-            "End time": "2026-05-16T14:10:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": [
-                {
-                    "Channel name": "Link 1",
-                    "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/manchester-city-vs-west-ham/15543",
-                    "Stream link": ""
-                },
-                {
-                    "Channel name": "Link 2",
-                    "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/manchester-city-vs-west-ham/15546",
-                    "Stream link": ""
-                }
-            ]
-        },
-        {
-            "Category": "Football",
-            "Tour/Group name": "WSL",
-            "match name": "Arsenal vs",
-            "Team 1 Name": "Arsenal",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/arsenal/logo.webp",
-            "Team 2 Name": "Liverpool",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/liverpool/logo.webp",
-            "Start time": "2026-05-16T12:00:00.000Z",
-            "End time": "2026-05-16T14:10:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": [
-                {
-                    "Channel name": "Link 1",
-                    "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/arsenal-vs-liverpool/15526",
-                    "Stream link": ""
-                },
-                {
-                    "Channel name": "Link 2",
-                    "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/arsenal-vs-liverpool/15547",
-                    "Stream link": ""
-                }
-            ]
-        },
-        {
-            "Category": "Football",
-            "Tour/Group name": "WSL",
-            "match name": "Everton vs Leicester City",
-            "Team 1 Name": "Everton",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/everton/logo.webp",
-            "Team 2 Name": "Leicester City",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/leicester-city/logo.webp",
-            "Start time": "2026-05-16T12:00:00.000Z",
-            "End time": "2026-05-16T14:10:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": [
-                {
-                    "Channel name": "Link 1",
-                    "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/everton-vs-leicester-city/15548",
-                    "Stream link": ""
-                }
-            ]
-        },
-        {
-            "Category": "Football",
-            "Tour/Group name": "PGA Tour",
-            "match name": "Amundi German Masters",
-            "Team 1 Name": "Amundi German Masters",
-            "Team 1 Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-            "Team 2 Name": "PGA Tour",
-            "Team 2 Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-            "Start time": "2026-05-16T12:00:00.000Z",
-            "End time": "2026-05-17T15:00:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": [
-                {
-                    "Channel name": "Link 1",
-                    "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/amundi-german-masters/15528",
-                    "Stream link": ""
-                }
-            ]
-        },
-        {
-            "Category": "Football",
-            "Tour/Group name": "Bundesliga",
-            "match name": "Hamburger SV vs Bayer Leverkusen",
-            "Team 1 Name": "Hamburger SV",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/hamburger-sv/logo.webp",
-            "Team 2 Name": "Bayer Leverkusen",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/bayer-leverkusen/logo.webp",
-            "Start time": "2026-05-16T13:30:00.000Z",
-            "End time": "2026-05-16T15:40:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": [
-                {
-                    "Channel name": "Link 1",
-                    "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/hamburger-sv-vs-bayer-leverkusen/15412",
-                    "Stream link": ""
-                }
-            ]
-        },
-        {
-            "Category": "Football",
-            "Tour/Group name": "Bundesliga",
-            "match name": "Köln vs Bayern München",
-            "Team 1 Name": "Köln",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/koln/logo.webp",
-            "Team 2 Name": "Bayern München",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
-            "Start time": "2026-05-16T13:30:00.000Z",
-            "End time": "2026-05-16T15:40:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": [
-                {
-                    "Channel name": "Link 1",
-                    "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/koln-vs-bayern-munchen/15411",
-                    "Stream link": ""
-                }
-            ]
-        },
-        {
-            "Category": "Football",
             "Tour/Group name": "Premiership Rugby",
             "match name": "Newcastle vs Bath Rugby",
             "Team 1 Name": "Newcastle Falcons",
@@ -565,28 +567,6 @@
                     "Channel name": "Link 1",
                     "Language": "English",
                     "Embed link": "https://footystream.top/alpha/gloucester-vs-saracens/15536",
-                    "Stream link": ""
-                }
-            ]
-        },
-        {
-            "Category": "Football",
-            "Tour/Group name": "FA Cup",
-            "match name": "Chelsea vs Manchester City",
-            "Team 1 Name": "Chelsea",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
-            "Team 2 Name": "Manchester City",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
-            "Start time": "2026-05-16T14:00:00.000Z",
-            "End time": "2026-05-16T17:10:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": [
-                {
-                    "Channel name": "Link 1",
-                    "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/chelsea-vs-manchester-city/15410",
                     "Stream link": ""
                 }
             ]
@@ -1003,6 +983,36 @@
             "Team 2 Logo": "https://cdn.img4every1.org/team/burnley-fc/logo.webp",
             "Start time": "2026-05-18T19:00:00.000Z",
             "End time": "2026-05-18T21:10:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": []
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "Premier League",
+            "match name": "Manchester City vs Bournemouth",
+            "Team 1 Name": "Manchester City",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
+            "Team 2 Name": "AFC Bournemouth",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/afc-bournemouth/logo.webp",
+            "Start time": "2026-05-19T18:30:00.000Z",
+            "End time": "2026-05-19T20:40:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": []
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "Premier League",
+            "match name": "Chelsea vs Tottenham Hotspur",
+            "Team 1 Name": "Chelsea",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
+            "Team 2 Name": "Tottenham Hotspur",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/tottenham-hotspur/logo.webp",
+            "Start time": "2026-05-19T19:15:00.000Z",
+            "End time": "2026-05-19T21:25:00.000Z",
             "Status": "UPCOMING",
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
