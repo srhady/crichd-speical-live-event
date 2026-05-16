@@ -2,9 +2,31 @@
     "playlist_name": "Live Sports Events",
     "owner": "Md Sohanur Rahman Hady",
     "telegram": "https://t.me/livesportsplay",
-    "last_updated": "2026-05-16 07:33:41 PM (BD Time)",
+    "last_updated": "2026-05-16 08:04:02 PM (BD Time)",
     "total_links": 0,
     "matches": [
+        {
+            "Category": "Football",
+            "Tour/Group name": "Bundesliga",
+            "match name": "Köln vs Bayern München",
+            "Team 1 Name": "Köln",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/koln/logo.webp",
+            "Team 2 Name": "Bayern München",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
+            "Start time": "2026-05-16T13:30:00.000Z",
+            "End time": "2026-05-16T15:40:00.000Z",
+            "Status": "LIVE",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/koln-vs-bayern-munchen/15411",
+                    "Stream link": ""
+                }
+            ]
+        },
         {
             "Category": "Football",
             "Tour/Group name": "FA Cup",
@@ -15,7 +37,7 @@
             "Team 2 Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
             "Start time": "2026-05-16T14:00:00.000Z",
             "End time": "2026-05-16T17:10:00.000Z",
-            "Status": "UPCOMING",
+            "Status": "LIVE",
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
@@ -203,28 +225,6 @@
         },
         {
             "Category": "Football",
-            "Tour/Group name": "United Rugby",
-            "match name": "Sharks vs Zebre",
-            "Team 1 Name": "The Sharks",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/the-sharks/logo.webp",
-            "Team 2 Name": "Zebre",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/zebre/logo.webp",
-            "Start time": "2026-05-16T11:45:00.000Z",
-            "End time": "2026-05-16T14:00:00.000Z",
-            "Status": "LIVE",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": [
-                {
-                    "Channel name": "Link 1",
-                    "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/sharks-vs-zebre/15525",
-                    "Stream link": ""
-                }
-            ]
-        },
-        {
-            "Category": "Football",
             "Tour/Group name": "WSL",
             "match name": "Chelsea vs Manchester United",
             "Team 1 Name": "Chelsea",
@@ -375,28 +375,6 @@
         },
         {
             "Category": "Football",
-            "Tour/Group name": "Bundesliga",
-            "match name": "Köln vs Bayern München",
-            "Team 1 Name": "Köln",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/koln/logo.webp",
-            "Team 2 Name": "Bayern München",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/bayern-munchen/logo.webp",
-            "Start time": "2026-05-16T13:30:00.000Z",
-            "End time": "2026-05-16T15:40:00.000Z",
-            "Status": "LIVE",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": [
-                {
-                    "Channel name": "Link 1",
-                    "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/koln-vs-bayern-munchen/15411",
-                    "Stream link": ""
-                }
-            ]
-        },
-        {
-            "Category": "Football",
             "Tour/Group name": "United Rugby",
             "match name": "Bulls vs Benetton Treviso",
             "Team 1 Name": "Bulls",
@@ -405,7 +383,7 @@
             "Team 2 Logo": "https://cdn.img4every1.org/team/benetton/logo.webp",
             "Start time": "2026-05-16T14:00:00.000Z",
             "End time": "2026-05-16T16:15:00.000Z",
-            "Status": "UPCOMING",
+            "Status": "LIVE",
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
@@ -413,6 +391,72 @@
                     "Channel name": "Link 1",
                     "Language": "English",
                     "Embed link": "https://footystream.top/alpha/bulls-vs-benetton-treviso/15529",
+                    "Stream link": ""
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "Premiership Rugby",
+            "match name": "Newcastle vs Bath Rugby",
+            "Team 1 Name": "Newcastle Falcons",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/newcastle-falcons/logo.webp",
+            "Team 2 Name": "Bath Rugby",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/bath-rugby/logo.webp",
+            "Start time": "2026-05-16T14:00:00.000Z",
+            "End time": "2026-05-16T16:15:00.000Z",
+            "Status": "LIVE",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/newcastle-vs-bath-rugby/15530",
+                    "Stream link": ""
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "Premiership Rugby",
+            "match name": "Exeter Chiefs vs Harlequins",
+            "Team 1 Name": "Exeter Chiefs",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/exeter-chiefs/logo.webp",
+            "Team 2 Name": "Harlequins",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/harlequins/logo.webp",
+            "Start time": "2026-05-16T15:00:00.000Z",
+            "End time": "2026-05-16T17:15:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/exeter-chiefs-vs-harlequins/15531",
+                    "Stream link": ""
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "Premiership Rugby",
+            "match name": "Gloucester vs Saracens",
+            "Team 1 Name": "Gloucester Rugby",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/gloucester-rugby/logo.webp",
+            "Team 2 Name": "Saracens",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/saracens/logo.webp",
+            "Start time": "2026-05-16T17:30:00.000Z",
+            "End time": "2026-05-16T19:45:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/gloucester-vs-saracens/15536",
                     "Stream link": ""
                 }
             ]
@@ -479,72 +523,6 @@
                     "Channel name": "Link 1",
                     "Language": "English",
                     "Embed link": "https://footystream.top/alpha/lions-vs-munster/15537",
-                    "Stream link": ""
-                }
-            ]
-        },
-        {
-            "Category": "Football",
-            "Tour/Group name": "Premiership Rugby",
-            "match name": "Newcastle vs Bath Rugby",
-            "Team 1 Name": "Newcastle Falcons",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/newcastle-falcons/logo.webp",
-            "Team 2 Name": "Bath Rugby",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/bath-rugby/logo.webp",
-            "Start time": "2026-05-16T14:00:00.000Z",
-            "End time": "2026-05-16T16:15:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": [
-                {
-                    "Channel name": "Link 1",
-                    "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/newcastle-vs-bath-rugby/15530",
-                    "Stream link": ""
-                }
-            ]
-        },
-        {
-            "Category": "Football",
-            "Tour/Group name": "Premiership Rugby",
-            "match name": "Exeter Chiefs vs Harlequins",
-            "Team 1 Name": "Exeter Chiefs",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/exeter-chiefs/logo.webp",
-            "Team 2 Name": "Harlequins",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/harlequins/logo.webp",
-            "Start time": "2026-05-16T15:00:00.000Z",
-            "End time": "2026-05-16T17:15:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": [
-                {
-                    "Channel name": "Link 1",
-                    "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/exeter-chiefs-vs-harlequins/15531",
-                    "Stream link": ""
-                }
-            ]
-        },
-        {
-            "Category": "Football",
-            "Tour/Group name": "Premiership Rugby",
-            "match name": "Gloucester vs Saracens",
-            "Team 1 Name": "Gloucester Rugby",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/gloucester-rugby/logo.webp",
-            "Team 2 Name": "Saracens",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/saracens/logo.webp",
-            "Start time": "2026-05-16T17:30:00.000Z",
-            "End time": "2026-05-16T19:45:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": [
-                {
-                    "Channel name": "Link 1",
-                    "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/gloucester-vs-saracens/15536",
                     "Stream link": ""
                 }
             ]
