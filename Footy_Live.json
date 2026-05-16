@@ -2,7 +2,7 @@
     "playlist_name": "Live Sports Events",
     "owner": "Md Sohanur Rahman Hady",
     "telegram": "https://t.me/livesportsplay",
-    "last_updated": "2026-05-16 01:33:51 PM (BD Time)",
+    "last_updated": "2026-05-16 02:03:50 PM (BD Time)",
     "total_links": 0,
     "matches": [
         {
@@ -521,14 +521,14 @@
         },
         {
             "Category": "Football",
-            "Tour/Group name": "PGA Tour",
-            "match name": "Amundi German Masters",
-            "Team 1 Name": "Amundi German Masters",
-            "Team 1 Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-            "Team 2 Name": "PGA Tour",
-            "Team 2 Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
+            "Tour/Group name": "WSL",
+            "match name": "Chelsea vs Manchester United",
+            "Team 1 Name": "Chelsea",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/chelsea/logo.webp",
+            "Team 2 Name": "Manchester United",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
             "Start time": "2026-05-16T12:00:00.000Z",
-            "End time": "2026-05-17T15:00:00.000Z",
+            "End time": "2026-05-16T14:10:00.000Z",
             "Status": "UPCOMING",
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
@@ -536,14 +536,20 @@
                 {
                     "Channel name": "Link 1",
                     "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/amundi-german-masters/15528",
+                    "Embed link": "https://footystream.top/alpha/chelsea-vs-manchester-united/15544",
+                    "Stream link": ""
+                },
+                {
+                    "Channel name": "Link 2",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/chelsea-vs-manchester-united/15545",
                     "Stream link": ""
                 }
             ]
         },
         {
             "Category": "Football",
-            "Tour/Group name": "Premier League",
+            "Tour/Group name": "WSL",
             "match name": "Manchester City vs West Ham",
             "Team 1 Name": "Manchester City",
             "Team 1 Logo": "https://cdn.img4every1.org/team/manchester-city/logo.webp",
@@ -558,110 +564,13 @@
                 {
                     "Channel name": "Link 1",
                     "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/manchester-city-vs-west-ham/15527",
-                    "Stream link": ""
-                }
-            ]
-        },
-        {
-            "Category": "Football",
-            "Tour/Group name": "Premier League",
-            "match name": "Manchester United vs Nottm Forest",
-            "Team 1 Name": "Manchester United",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
-            "Team 2 Name": "Nottingham Forest",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/nottingham-forest/logo.webp",
-            "Start time": "2026-05-17T11:30:00.000Z",
-            "End time": "2026-05-17T13:40:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": []
-        },
-        {
-            "Category": "Football",
-            "Tour/Group name": "Premier League",
-            "match name": "Fulham vs Wolves",
-            "Team 1 Name": "Fulham",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/fulham/logo.webp",
-            "Team 2 Name": "Wolverhampton Wanderers",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/wolverhampton-wanderers/logo.webp",
-            "Start time": "2026-05-17T14:00:00.000Z",
-            "End time": "2026-05-17T16:10:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": []
-        },
-        {
-            "Category": "Football",
-            "Tour/Group name": "Premier League",
-            "match name": "Brighton vs Leeds United",
-            "Team 1 Name": "Brighton & Hove Albion",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/brighton-hove-albion/logo.webp",
-            "Team 2 Name": "Leeds United",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/leeds-united/logo.webp",
-            "Start time": "2026-05-17T14:00:00.000Z",
-            "End time": "2026-05-17T16:10:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": []
-        },
-        {
-            "Category": "Football",
-            "Tour/Group name": "Premier League",
-            "match name": "Everton vs Sunderland",
-            "Team 1 Name": "Everton",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/everton/logo.webp",
-            "Team 2 Name": "Sunderland",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/sunderland/logo.webp",
-            "Start time": "2026-05-17T14:00:00.000Z",
-            "End time": "2026-05-17T16:10:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": []
-        },
-        {
-            "Category": "Football",
-            "Tour/Group name": "Premier League",
-            "match name": "Brentford vs Crystal Palace",
-            "Team 1 Name": "Brentford",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/brentford/logo.webp",
-            "Team 2 Name": "Crystal Palace",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
-            "Start time": "2026-05-17T14:00:00.000Z",
-            "End time": "2026-05-17T16:10:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": []
-        },
-        {
-            "Category": "Football",
-            "Tour/Group name": "Premier League",
-            "match name": "West Ham vs Newcastle United",
-            "Team 1 Name": "West Ham United",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/west-ham-united/logo.webp",
-            "Team 2 Name": "Newcastle United",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/newcastle-united/logo.webp",
-            "Start time": "2026-05-17T16:30:00.000Z",
-            "End time": "2026-05-17T18:40:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": [
-                {
-                    "Channel name": "Link 1",
-                    "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/west-ham-vs-newcastle-united/15414",
+                    "Embed link": "https://footystream.top/alpha/manchester-city-vs-west-ham/15543",
                     "Stream link": ""
                 },
                 {
                     "Channel name": "Link 2",
                     "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/west-ham-vs-newcastle-united/15415",
+                    "Embed link": "https://footystream.top/alpha/manchester-city-vs-west-ham/15546",
                     "Stream link": ""
                 }
             ]
@@ -684,6 +593,34 @@
                     "Channel name": "Link 1",
                     "Language": "English",
                     "Embed link": "https://footystream.top/alpha/arsenal-vs-liverpool/15526",
+                    "Stream link": ""
+                },
+                {
+                    "Channel name": "Link 2",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/arsenal-vs-liverpool/15547",
+                    "Stream link": ""
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "PGA Tour",
+            "match name": "Amundi German Masters",
+            "Team 1 Name": "Amundi German Masters",
+            "Team 1 Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
+            "Team 2 Name": "PGA Tour",
+            "Team 2 Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
+            "Start time": "2026-05-16T12:00:00.000Z",
+            "End time": "2026-05-17T15:00:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/amundi-german-masters/15528",
                     "Stream link": ""
                 }
             ]
@@ -958,6 +895,109 @@
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": []
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "Premier League",
+            "match name": "Manchester United vs Nottm Forest",
+            "Team 1 Name": "Manchester United",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/manchester-united/logo.webp",
+            "Team 2 Name": "Nottingham Forest",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/nottingham-forest/logo.webp",
+            "Start time": "2026-05-17T11:30:00.000Z",
+            "End time": "2026-05-17T13:40:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": []
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "Premier League",
+            "match name": "Fulham vs Wolves",
+            "Team 1 Name": "Fulham",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/fulham/logo.webp",
+            "Team 2 Name": "Wolverhampton Wanderers",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/wolverhampton-wanderers/logo.webp",
+            "Start time": "2026-05-17T14:00:00.000Z",
+            "End time": "2026-05-17T16:10:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": []
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "Premier League",
+            "match name": "Brighton vs Leeds United",
+            "Team 1 Name": "Brighton & Hove Albion",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/brighton-hove-albion/logo.webp",
+            "Team 2 Name": "Leeds United",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/leeds-united/logo.webp",
+            "Start time": "2026-05-17T14:00:00.000Z",
+            "End time": "2026-05-17T16:10:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": []
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "Premier League",
+            "match name": "Everton vs Sunderland",
+            "Team 1 Name": "Everton",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/everton/logo.webp",
+            "Team 2 Name": "Sunderland",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/sunderland/logo.webp",
+            "Start time": "2026-05-17T14:00:00.000Z",
+            "End time": "2026-05-17T16:10:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": []
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "Premier League",
+            "match name": "Brentford vs Crystal Palace",
+            "Team 1 Name": "Brentford",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/brentford/logo.webp",
+            "Team 2 Name": "Crystal Palace",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/crystal-palace/logo.webp",
+            "Start time": "2026-05-17T14:00:00.000Z",
+            "End time": "2026-05-17T16:10:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": []
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "Premier League",
+            "match name": "West Ham vs Newcastle United",
+            "Team 1 Name": "West Ham United",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/west-ham-united/logo.webp",
+            "Team 2 Name": "Newcastle United",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/newcastle-united/logo.webp",
+            "Start time": "2026-05-17T16:30:00.000Z",
+            "End time": "2026-05-17T18:40:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/west-ham-vs-newcastle-united/15414",
+                    "Stream link": ""
+                },
+                {
+                    "Channel name": "Link 2",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/west-ham-vs-newcastle-united/15415",
+                    "Stream link": ""
+                }
+            ]
         },
         {
             "Category": "Football",
