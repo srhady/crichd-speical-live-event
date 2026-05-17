@@ -2,24 +2,9 @@
     "playlist_name": "Live Sports Events",
     "owner": "Md Sohanur Rahman Hady",
     "telegram": "https://t.me/livesportsplay",
-    "last_updated": "2026-05-17 06:03:23 PM (BD Time)",
+    "last_updated": "2026-05-17 06:33:11 PM (BD Time)",
     "total_links": 0,
     "matches": [
-        {
-            "Category": "Football",
-            "Tour/Group name": "Serie A",
-            "match name": "Juventus vs Fiorentina",
-            "Team 1 Name": "Juventus",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/juventus/logo.webp",
-            "Team 2 Name": "Fiorentina",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/fiorentina/logo.webp",
-            "Start time": "2026-05-17T10:30:00.000Z",
-            "End time": "2026-05-17T12:30:00.000Z",
-            "Status": "LIVE",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": []
-        },
         {
             "Category": "Football",
             "Tour/Group name": "Premier League",
@@ -169,36 +154,6 @@
         {
             "Category": "Football",
             "Tour/Group name": "Serie A",
-            "match name": "Inter Milan vs Hellas Verona",
-            "Team 1 Name": "Inter Milan",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
-            "Team 2 Name": "Hellas Verona",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/hellas-verona/logo.webp",
-            "Start time": "2026-05-17T10:30:00.000Z",
-            "End time": "2026-05-17T12:30:00.000Z",
-            "Status": "LIVE",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": []
-        },
-        {
-            "Category": "Football",
-            "Tour/Group name": "Serie A",
-            "match name": "AC Milan vs Genoa",
-            "Team 1 Name": "AC Milan",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/ac-milan/logo.webp",
-            "Team 2 Name": "Genoa",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/genoa/logo.webp",
-            "Start time": "2026-05-17T10:30:00.000Z",
-            "End time": "2026-05-17T12:30:00.000Z",
-            "Status": "LIVE",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": []
-        },
-        {
-            "Category": "Football",
-            "Tour/Group name": "Serie A",
             "match name": "Roma vs Lazio",
             "Team 1 Name": "AS Roma",
             "Team 1 Logo": "https://cdn.img4every1.org/team/as-roma/logo.webp",
@@ -236,6 +191,43 @@
                     "Channel name": "Link 1",
                     "Language": "English",
                     "Embed link": "https://footystream.top/alpha/pga-championship-live-stream/15437",
+                    "Stream link": ""
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "Serie A",
+            "match name": "Inter Milan vs Hellas Verona",
+            "Team 1 Name": "Inter Milan",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/inter-milan/logo.webp",
+            "Team 2 Name": "Hellas Verona",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/hellas-verona/logo.webp",
+            "Start time": "2026-05-17T13:00:00.000Z",
+            "End time": "2026-05-17T15:00:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": []
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "Serie A",
+            "match name": "Cremonese vs Udinese",
+            "Team 1 Name": "Cremonese",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/cremonese/logo.webp",
+            "Team 2 Name": "Udinese",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/udinese/logo.webp",
+            "Start time": "2026-05-17T18:45:00.000Z",
+            "End time": "2026-05-17T20:55:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/cremonese-vs-udinese/15549",
                     "Stream link": ""
                 }
             ]
@@ -468,11 +460,11 @@
         {
             "Category": "Football",
             "Tour/Group name": "LaLiga",
-            "match name": "Barcelona vs Real Betis",
-            "Team 1 Name": "FC Barcelona",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
-            "Team 2 Name": "Real Betis",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
+            "match name": "Girona vs Atletico Madrid",
+            "Team 1 Name": "Girona",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/girona/logo.webp",
+            "Team 2 Name": "Atlético Madrid",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
             "Start time": "2026-05-17T17:00:00.000Z",
             "End time": "2026-05-17T19:10:00.000Z",
             "Status": "UPCOMING",
@@ -483,11 +475,11 @@
         {
             "Category": "Football",
             "Tour/Group name": "LaLiga",
-            "match name": "Girona vs Atletico Madrid",
-            "Team 1 Name": "Girona",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/girona/logo.webp",
-            "Team 2 Name": "Atlético Madrid",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/atletico-madrid/logo.webp",
+            "match name": "Villarreal vs Rayo Vallecano",
+            "Team 1 Name": "Villarreal",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/villarreal/logo.webp",
+            "Team 2 Name": "Rayo Vallecano",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/rayo-vallecano/logo.webp",
             "Start time": "2026-05-17T17:00:00.000Z",
             "End time": "2026-05-17T19:10:00.000Z",
             "Status": "UPCOMING",
@@ -512,25 +504,18 @@
         },
         {
             "Category": "Football",
-            "Tour/Group name": "Serie A",
-            "match name": "Cremonese vs Udinese",
-            "Team 1 Name": "Cremonese",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/cremonese/logo.webp",
-            "Team 2 Name": "Udinese",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/udinese/logo.webp",
-            "Start time": "2026-05-17T18:45:00.000Z",
-            "End time": "2026-05-17T20:55:00.000Z",
+            "Tour/Group name": "LaLiga",
+            "match name": "Barcelona vs Real Betis",
+            "Team 1 Name": "FC Barcelona",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/fc-barcelona/logo.webp",
+            "Team 2 Name": "Real Betis",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/real-betis/logo.webp",
+            "Start time": "2026-05-17T19:15:00.000Z",
+            "End time": "2026-05-17T21:15:00.000Z",
             "Status": "UPCOMING",
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": [
-                {
-                    "Channel name": "Link 1",
-                    "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/cremonese-vs-udinese/15549",
-                    "Stream link": ""
-                }
-            ]
+            "Channels": []
         },
         {
             "Category": "Football",
