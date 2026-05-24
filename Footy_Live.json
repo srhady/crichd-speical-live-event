@@ -2,9 +2,43 @@
     "playlist_name": "Live Sports Events",
     "owner": "Md Sohanur Rahman Hady",
     "telegram": "https://t.me/livesportsplay",
-    "last_updated": "2026-05-24 11:32:51 PM (BD Time)",
+    "last_updated": "2026-05-25 12:03:11 AM (BD Time)",
     "total_links": 0,
     "matches": [
+        {
+            "Category": "Football",
+            "Tour/Group name": "Formula 1",
+            "match name": "F1 Canadian GP",
+            "Team 1 Name": "F1 Canadian GP",
+            "Team 1 Logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
+            "Team 2 Name": "Formula 1",
+            "Team 2 Logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
+            "Start time": "2026-05-22T13:00:00.000Z",
+            "End time": "2026-05-24T23:45:00.000Z",
+            "Status": "LIVE",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/f1-canadian-gp/15397",
+                    "Stream link": ""
+                },
+                {
+                    "Channel name": "Link 2",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/f1-canadian-gp/15656",
+                    "Stream link": ""
+                },
+                {
+                    "Channel name": "Link 3",
+                    "Language": "Español",
+                    "Embed link": "https://footystream.top/alpha/f1-canadian-gp/15657",
+                    "Stream link": ""
+                }
+            ]
+        },
         {
             "Category": "Football",
             "Tour/Group name": "Serie A",
@@ -38,6 +72,18 @@
                     "Channel name": "Link 1",
                     "Language": "English",
                     "Embed link": "https://footystream.top/alpha/juventus-vs-torino/15679",
+                    "Stream link": ""
+                },
+                {
+                    "Channel name": "Link 2",
+                    "Language": "Italiano",
+                    "Embed link": "https://footystream.top/alpha/juventus-vs-torino/15704",
+                    "Stream link": ""
+                },
+                {
+                    "Channel name": "Link 3",
+                    "Language": "Italiano",
+                    "Embed link": "https://footystream.top/alpha/juventus-vs-torino/15705",
                     "Stream link": ""
                 }
             ]
@@ -112,40 +158,6 @@
         },
         {
             "Category": "Football",
-            "Tour/Group name": "Formula 1",
-            "match name": "F1 Canadian GP",
-            "Team 1 Name": "F1 Canadian GP",
-            "Team 1 Logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
-            "Team 2 Name": "Formula 1",
-            "Team 2 Logo": "https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp",
-            "Start time": "2026-05-22T13:00:00.000Z",
-            "End time": "2026-05-24T23:45:00.000Z",
-            "Status": "LIVE",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": [
-                {
-                    "Channel name": "Link 1",
-                    "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/f1-canadian-gp/15397",
-                    "Stream link": ""
-                },
-                {
-                    "Channel name": "Link 2",
-                    "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/f1-canadian-gp/15656",
-                    "Stream link": ""
-                },
-                {
-                    "Channel name": "Link 3",
-                    "Language": "Español",
-                    "Embed link": "https://footystream.top/alpha/f1-canadian-gp/15657",
-                    "Stream link": ""
-                }
-            ]
-        },
-        {
-            "Category": "Football",
             "Tour/Group name": "ATP Tour",
             "match name": "Roland Garros",
             "Team 1 Name": "Roland Garros",
@@ -189,21 +201,6 @@
                     "Stream link": ""
                 }
             ]
-        },
-        {
-            "Category": "Football",
-            "Tour/Group name": "Serie A",
-            "match name": "Napoli vs Udinese",
-            "Team 1 Name": "Napoli",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/napoli/logo.webp",
-            "Team 2 Name": "Udinese",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/udinese/logo.webp",
-            "Start time": "2026-05-24T16:00:00.000Z",
-            "End time": "2026-05-24T18:00:00.000Z",
-            "Status": "LIVE",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": []
         },
         {
             "Category": "Football",
@@ -259,6 +256,50 @@
         },
         {
             "Category": "Football",
+            "Tour/Group name": "MLB",
+            "match name": "Padres vs Athletics",
+            "Team 1 Name": "San Diego Padres",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/san-diego-padres/logo.webp",
+            "Team 2 Name": "Athletics",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/athletics/logo.webp",
+            "Start time": "2026-05-24T20:00:00.000Z",
+            "End time": "2026-05-24T23:00:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/padres-vs-athletics/15710",
+                    "Stream link": ""
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "MLB",
+            "match name": "Angels vs Rangers",
+            "Team 1 Name": "Los Angeles Angels",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/los-angeles-angels/logo.webp",
+            "Team 2 Name": "Texas Rangers",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/texas-rangers/logo.webp",
+            "Start time": "2026-05-24T23:20:00.000Z",
+            "End time": "2026-05-25T02:20:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/angels-vs-rangers/15711",
+                    "Stream link": ""
+                }
+            ]
+        },
+        {
+            "Category": "Football",
             "Tour/Group name": "MLS",
             "match name": "Inter Miami vs Philadelphia Union",
             "Team 1 Name": "Inter Miami",
@@ -282,6 +323,160 @@
             "Team 2 Logo": "https://cdn.img4every1.org/team/seattle-sounders-fc/logo.webp",
             "Start time": "2026-05-25T01:00:00.000Z",
             "End time": "2026-05-25T03:10:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": []
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "NBA",
+            "match name": "San Antonio Spurs vs Thunder",
+            "Team 1 Name": "San Antonio Spurs",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/san-antonio-spurs/logo.webp",
+            "Team 2 Name": "Oklahoma City Thunder",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/oklahoma-city-thunder/logo.webp",
+            "Start time": "2026-05-25T00:00:00.000Z",
+            "End time": "2026-05-25T02:35:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/san-antonio-spurs-vs-thunder/15713",
+                    "Stream link": ""
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "NHL",
+            "match name": "Knights vs Avalanche",
+            "Team 1 Name": "Vegas Golden Knights",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/vegas-golden-knights/logo.webp",
+            "Team 2 Name": "Colorado Avalanche",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/colorado-avalanche/logo.webp",
+            "Start time": "2026-05-25T00:00:00.000Z",
+            "End time": "2026-05-25T03:00:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/knights-vs-avalanche/15712",
+                    "Stream link": ""
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "EFL",
+            "match name": "Notts County vs Salford City",
+            "Team 1 Name": "Notts County",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/notts-county/logo.webp",
+            "Team 2 Name": "Salford City",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/salford-city/logo.webp",
+            "Start time": "2026-05-25T14:00:00.000Z",
+            "End time": "2026-05-25T16:10:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/notts-county-vs-salford-city/15708",
+                    "Stream link": ""
+                },
+                {
+                    "Channel name": "Link 2",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/notts-county-vs-salford-city/15709",
+                    "Stream link": ""
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "Bundesliga",
+            "match name": "Wolfsburg vs Paderborn",
+            "Team 1 Name": "Wolfsburg",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/wolfsburg/logo.webp",
+            "Team 2 Name": "Paderborn",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/paderborn/logo.webp",
+            "Start time": "2026-05-25T18:30:00.000Z",
+            "End time": "2026-05-25T20:40:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/wolfsburg-vs-paderborn/15707",
+                    "Stream link": ""
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "Friendly",
+            "match name": "Nigeria vs Zimbabwe",
+            "Team 1 Name": "Nigeria",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/nigeria/logo.webp",
+            "Team 2 Name": "Zimbabwe",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/zimbabwe/logo.webp",
+            "Start time": "2026-05-26T18:30:00.000Z",
+            "End time": "2026-05-26T20:40:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": []
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "Friendly",
+            "match name": "India vs Jamaica",
+            "Team 1 Name": "India",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/india/logo.webp",
+            "Team 2 Name": "Jamaica",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/jamaica/logo.webp",
+            "Start time": "2026-05-27T18:30:00.000Z",
+            "End time": "2026-05-27T20:40:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": []
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "Friendly",
+            "match name": "Egypt vs Russia",
+            "Team 1 Name": "Egypt",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/egypt/logo.webp",
+            "Team 2 Name": "Russia",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/russia/logo.webp",
+            "Start time": "2026-05-28T12:00:00.000Z",
+            "End time": "2026-05-28T14:10:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": []
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "Friendly",
+            "match name": "Qatar vs Ireland",
+            "Team 1 Name": "Qatar",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/qatar/logo.webp",
+            "Team 2 Name": "Ireland",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/ireland/logo.webp",
+            "Start time": "2026-05-28T18:45:00.000Z",
+            "End time": "2026-05-28T20:55:00.000Z",
             "Status": "UPCOMING",
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
