@@ -2,7 +2,7 @@
     "playlist_name": "Live Sports Events",
     "owner": "Md Sohanur Rahman Hady",
     "telegram": "https://t.me/livesportsplay",
-    "last_updated": "2026-05-28 05:33:01 AM (BD Time)",
+    "last_updated": "2026-05-28 06:03:04 AM (BD Time)",
     "total_links": 0,
     "matches": [
         {
@@ -61,7 +61,7 @@
             "Team 2 Logo": "https://cdn.img4every1.org/team/carolina-hurricanes/logo.webp",
             "Start time": "2026-05-28T00:00:00.000Z",
             "End time": "2026-05-28T03:00:00.000Z",
-            "Status": "UPCOMING",
+            "Status": "LIVE",
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
@@ -83,7 +83,7 @@
             "Team 2 Logo": "https://cdn.img4every1.org/team/houston-astros/logo.webp",
             "Start time": "2026-05-28T00:00:00.000Z",
             "End time": "2026-05-28T03:00:00.000Z",
-            "Status": "UPCOMING",
+            "Status": "LIVE",
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
@@ -91,50 +91,6 @@
                     "Channel name": "Link 1",
                     "Language": "English",
                     "Embed link": "https://footystream.top/alpha/rangers-vs-astros/15743",
-                    "Stream link": ""
-                }
-            ]
-        },
-        {
-            "Category": "Football",
-            "Tour/Group name": "MLB",
-            "match name": "White Sox vs Twins",
-            "Team 1 Name": "Chicago White Sox",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/chicago-white-sox/logo.webp",
-            "Team 2 Name": "Minnesota Twins",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/minnesota-twins/logo.webp",
-            "Start time": "2026-05-28T18:00:00.000Z",
-            "End time": "2026-05-28T21:00:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": [
-                {
-                    "Channel name": "Link 1",
-                    "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/white-sox-vs-twins/15750",
-                    "Stream link": ""
-                }
-            ]
-        },
-        {
-            "Category": "Football",
-            "Tour/Group name": "MLB",
-            "match name": "Atlanta Braves vs Boston Red Sox",
-            "Team 1 Name": "Atlanta Braves",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/atlanta-braves/logo.webp",
-            "Team 2 Name": "Boston Red Sox",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/boston-red-sox/logo.webp",
-            "Start time": "2026-05-28T20:00:00.000Z",
-            "End time": "2026-05-28T23:00:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": [
-                {
-                    "Channel name": "Link 1",
-                    "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/atlanta-braves-vs-boston-red-sox/15751",
                     "Stream link": ""
                 }
             ]
@@ -468,6 +424,50 @@
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": []
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "MLB",
+            "match name": "White Sox vs Twins",
+            "Team 1 Name": "Chicago White Sox",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/chicago-white-sox/logo.webp",
+            "Team 2 Name": "Minnesota Twins",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/minnesota-twins/logo.webp",
+            "Start time": "2026-05-28T18:00:00.000Z",
+            "End time": "2026-05-28T21:00:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/white-sox-vs-twins/15750",
+                    "Stream link": ""
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "MLB",
+            "match name": "Atlanta Braves vs Boston Red Sox",
+            "Team 1 Name": "Atlanta Braves",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/atlanta-braves/logo.webp",
+            "Team 2 Name": "Boston Red Sox",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/boston-red-sox/logo.webp",
+            "Start time": "2026-05-28T20:00:00.000Z",
+            "End time": "2026-05-28T23:00:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/atlanta-braves-vs-boston-red-sox/15751",
+                    "Stream link": ""
+                }
+            ]
         },
         {
             "Category": "Football",
