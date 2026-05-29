@@ -2,8 +2,8 @@
     "playlist_name": "Live Sports Events",
     "owner": "Md Sohanur Rahman Hady",
     "telegram": "https://t.me/livesportsplay",
-    "last_updated": "2026-05-30 04:02:23 AM (BD Time)",
-    "total_links": 15,
+    "last_updated": "2026-05-30 04:32:24 AM (BD Time)",
+    "total_links": 26,
     "matches": [
         {
             "Category": "Cricket",
@@ -103,14 +103,62 @@
         },
         {
             "Category": "Cricket",
-            "Tour/Group name": "IRE vs NZ",
-            "match name": "Ireland vs New Zealand",
-            "Start time": "May 27, 2026, at 10 AM UTC",
-            "End time": "May 30, 2026, at 6 PM UTC",
+            "Tour/Group name": "PAK vs AUS",
+            "match name": "Pakistan vs Australia",
+            "Start time": "May 30, 2026, at 11 AM UTC",
+            "End time": "June 4, 2026, at 8 PM UTC",
             "Status": "LIVE",
             "referer": "https://player0003.com/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
+                {
+                    "Channel name": "Willow Cricket",
+                    "Language": "English",
+                    "Embed link": "https://dadocric.st/player.php?id=willow",
+                    "Stream link": "https://playerado.top/embed2.php?id=willow"
+                },
+                {
+                    "Channel name": "PTV Sports",
+                    "Language": "English",
+                    "Embed link": "https://dadocric.st/player.php?id=ptvsp",
+                    "Stream link": "https://playerado.top/embed2.php?id=ptvsp"
+                },
+                {
+                    "Channel name": "A Sports HD",
+                    "Language": "English",
+                    "Embed link": "https://dadocric.st/player.php?id=asports",
+                    "Stream link": "https://playerado.top/embed2.php?id=asports"
+                },
+                {
+                    "Channel name": "Geo Super",
+                    "Language": "English",
+                    "Embed link": "https://dadocric.st/player.php?id=geosuper",
+                    "Stream link": "https://playerado.top/embed2.php?id=geosuper"
+                },
+                {
+                    "Channel name": "Fox Cricket",
+                    "Language": "English",
+                    "Embed link": "https://dadocric.st/player.php?id=fox501",
+                    "Stream link": "https://playerado.top/embed2.php?id=fox501"
+                }
+            ]
+        },
+        {
+            "Category": "Cricket",
+            "Tour/Group name": "IPL T20",
+            "match name": "CSK vs GT",
+            "Start time": "May 31, 2026, at 2 PM UTC",
+            "End time": "May 31, 2026, at 8 PM UTC",
+            "Status": "LIVE",
+            "referer": "https://player0003.com/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Willow Cricket",
+                    "Language": "English",
+                    "Embed link": "https://dadocric.st/player.php?id=willow",
+                    "Stream link": "https://playerado.top/embed2.php?id=willow"
+                },
                 {
                     "Channel name": "Willow Xtra",
                     "Language": "HIndi",
@@ -118,16 +166,46 @@
                     "Stream link": "https://playerado.top/embed2.php?id=willowextra"
                 },
                 {
-                    "Channel name": "CricGo 1",
+                    "Channel name": "Star Sports 1",
                     "Language": "English",
-                    "Embed link": "https://dadocric.st/player.php?id=cricgo1",
-                    "Stream link": "https://playerado.top/embed2.php?id=cricgo1"
+                    "Embed link": "https://dadocric.st/player.php?id=starsp",
+                    "Stream link": "https://playerado.top/embed2.php?id=starsp"
                 },
                 {
-                    "Channel name": "TNT Cricket",
+                    "Channel name": "Star Sports Hindi",
+                    "Language": "Hindi",
+                    "Embed link": "https://dadocric.st/player.php?id=starsp3",
+                    "Stream link": "https://playerado.top/embed2.php?id=starsp3"
+                },
+                {
+                    "Channel name": "Willow HD",
                     "Language": "English",
-                    "Embed link": "https://dadocric.st/player.php?id=btsp10",
-                    "Stream link": "https://playerado.top/embed2.php?id=btsp10"
+                    "Embed link": "https://dadocric.st/player.php?id=willowhd",
+                    "Stream link": "https://playerado.top/embed2.php?id=willowhd"
+                },
+                {
+                    "Channel name": "Fox Cricket",
+                    "Language": "English",
+                    "Embed link": "https://dadocric.st/player.php?id=fox501",
+                    "Stream link": "https://playerado.top/embed2.php?id=fox501"
+                },
+                {
+                    "Channel name": "Sky Cricket",
+                    "Language": "English",
+                    "Embed link": "https://dadocric.st/player.php?id=crich2",
+                    "Stream link": "https://playerado.top/embed2.php?id=crich2"
+                },
+                {
+                    "Channel name": "Star Sports 1 Tamil",
+                    "Language": "Tamil",
+                    "Embed link": "https://dadocric.st/player.php?id=starsp1tam",
+                    "Stream link": "https://playerado.top/embed2.php?id=starsp1tam"
+                },
+                {
+                    "Channel name": "Star Sports 1 Telugu",
+                    "Language": "Telugu",
+                    "Embed link": "https://dadocric.st/player.php?id=starsp1tel",
+                    "Stream link": "https://playerado.top/embed2.php?id=starsp1tel"
                 }
             ]
         }
