@@ -2,7 +2,7 @@
     "playlist_name": "Live Sports Events",
     "owner": "Md Sohanur Rahman Hady",
     "telegram": "https://t.me/livesportsplay",
-    "last_updated": "2026-05-31 11:32:58 PM (BD Time)",
+    "last_updated": "2026-06-01 12:02:59 AM (BD Time)",
     "total_links": 0,
     "matches": [
         {
@@ -142,7 +142,20 @@
             "Status": "UPCOMING",
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": []
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/brazil-vs-panama/15823",
+                    "Stream link": ""
+                },
+                {
+                    "Channel name": "Link 2",
+                    "Language": "Portuguese",
+                    "Embed link": "https://footystream.top/alpha/brazil-vs-panama/15824",
+                    "Stream link": ""
+                }
+            ]
         },
         {
             "Category": "Football",
@@ -184,6 +197,36 @@
             "Team 2 Logo": "https://cdn.img4every1.org/team/sweden/logo.webp",
             "Start time": "2026-06-01T17:00:00.000Z",
             "End time": "2026-06-01T19:10:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": []
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "Friendly",
+            "match name": "Austria vs Tunisia",
+            "Team 1 Name": "Austria",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/austria/logo.webp",
+            "Team 2 Name": "Tunisia",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/tunisia/logo.webp",
+            "Start time": "2026-06-01T18:45:00.000Z",
+            "End time": "2026-06-01T20:55:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": []
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "Friendly",
+            "match name": "Colombia vs Costa Rica",
+            "Team 1 Name": "Colombia",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/colombia/logo.webp",
+            "Team 2 Name": "Costa Rica",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/costa-rica/logo.webp",
+            "Start time": "2026-06-01T23:00:00.000Z",
+            "End time": "2026-06-02T01:10:00.000Z",
             "Status": "UPCOMING",
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
@@ -287,68 +330,32 @@
         {
             "Category": "Football",
             "Tour/Group name": "Friendly",
-            "match name": "Netherlands vs Algeria",
-            "Team 1 Name": "Netherlands",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/netherlands/logo.webp",
-            "Team 2 Name": "Algeria",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/algeria/logo.webp",
-            "Start time": "2026-06-03T18:45:00.000Z",
-            "End time": "2026-06-03T20:55:00.000Z",
+            "match name": "Denmark vs Congo",
+            "Team 1 Name": "Denmark",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/denmark/logo.webp",
+            "Team 2 Name": "DR Congo",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/dr-congo/logo.webp",
+            "Start time": "2026-06-03T18:00:00.000Z",
+            "End time": "2026-06-03T20:10:00.000Z",
             "Status": "UPCOMING",
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": [
-                {
-                    "Channel name": "Link 1",
-                    "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/netherlands-vs-algeria/15720",
-                    "Stream link": ""
-                }
-            ]
+            "Channels": []
         },
         {
             "Category": "Football",
             "Tour/Group name": "Friendly",
-            "match name": "Andorra vs Liechtenstein",
-            "Team 1 Name": "Andorra",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/andorra/logo.webp",
-            "Team 2 Name": "Liechtenstein",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/liechtenstein/logo.webp",
-            "Start time": "2026-06-04T17:00:00.000Z",
-            "End time": "2026-06-04T19:10:00.000Z",
+            "match name": "Albania vs Israel",
+            "Team 1 Name": "Albania",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/albania/logo.webp",
+            "Team 2 Name": "Israel",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/israel/logo.webp",
+            "Start time": "2026-06-03T18:00:00.000Z",
+            "End time": "2026-06-03T20:10:00.000Z",
             "Status": "UPCOMING",
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": [
-                {
-                    "Channel name": "Link 1",
-                    "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/andorra-vs-liechtenstein/15721",
-                    "Stream link": ""
-                }
-            ]
-        },
-        {
-            "Category": "Football",
-            "Tour/Group name": "Friendly",
-            "match name": "France vs Ivory Coast",
-            "Team 1 Name": "France",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/france/logo.webp",
-            "Team 2 Name": "Côte d'Ivoire",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/cote-divoire/logo.webp",
-            "Start time": "2026-06-04T19:10:00.000Z",
-            "End time": "2026-06-04T21:20:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": [
-                {
-                    "Channel name": "Link 1",
-                    "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/france-vs-ivory-coast/15722",
-                    "Stream link": ""
-                }
-            ]
+            "Channels": []
         },
         {
             "Category": "Football",
