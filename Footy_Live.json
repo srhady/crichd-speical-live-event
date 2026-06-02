@@ -2,7 +2,7 @@
     "playlist_name": "Live Sports Events",
     "owner": "Md Sohanur Rahman Hady",
     "telegram": "https://t.me/livesportsplay",
-    "last_updated": "2026-06-02 11:03:08 PM (BD Time)",
+    "last_updated": "2026-06-02 11:33:11 PM (BD Time)",
     "total_links": 0,
     "matches": [
         {
@@ -126,7 +126,20 @@
             "Status": "UPCOMING",
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": []
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/wales-vs-ghana/15842",
+                    "Stream link": ""
+                },
+                {
+                    "Channel name": "Link 2",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/wales-vs-ghana/15843",
+                    "Stream link": ""
+                }
+            ]
         },
         {
             "Category": "Football",
@@ -343,6 +356,28 @@
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": []
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "Friendly",
+            "match name": "France vs Ivory Coast",
+            "Team 1 Name": "France",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/france/logo.webp",
+            "Team 2 Name": "Côte d'Ivoire",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/cote-divoire/logo.webp",
+            "Start time": "2026-06-04T19:10:00.000Z",
+            "End time": "2026-06-04T21:20:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/france-vs-ivory-coast/15722",
+                    "Stream link": ""
+                }
+            ]
         },
         {
             "Category": "Football",
