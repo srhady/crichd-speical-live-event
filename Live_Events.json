@@ -2,8 +2,8 @@
     "playlist_name": "Live Sports Events",
     "owner": "Md Sohanur Rahman Hady",
     "telegram": "https://t.me/livesportsplay",
-    "last_updated": "2026-06-03 11:32:32 PM (BD Time)",
-    "total_links": 19,
+    "last_updated": "2026-06-04 12:02:33 AM (BD Time)",
+    "total_links": 23,
     "matches": [
         {
             "Category": "Cricket",
@@ -164,6 +164,42 @@
                     "Language": "English",
                     "Embed link": "https://dadocric.st/player.php?id=crich12",
                     "Stream link": "https://playerado.top/embed2.php?id=crich12"
+                }
+            ]
+        },
+        {
+            "Category": "Cricket",
+            "Tour/Group name": "ENG vs NZ",
+            "match name": "1st Test England vs New Zealand",
+            "Start time": "June 4, 2026, at 10 AM UTC",
+            "End time": "June 8, 2026, at 6 PM UTC",
+            "Status": "LIVE",
+            "referer": "https://player0003.com/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Willow Cricket",
+                    "Language": "English",
+                    "Embed link": "https://dadocric.st/player.php?id=willow",
+                    "Stream link": "https://playerado.top/embed2.php?id=willow"
+                },
+                {
+                    "Channel name": "Sony Sports Ten 1",
+                    "Language": "English",
+                    "Embed link": "https://dadocric.st/player.php?id=ten1",
+                    "Stream link": "https://playerado.top/embed2.php?id=ten1"
+                },
+                {
+                    "Channel name": "CricGo 2",
+                    "Language": "English",
+                    "Embed link": "https://dadocric.st/player.php?id=cricgo2",
+                    "Stream link": "https://playerado.top/embed2.php?id=cricgo2"
+                },
+                {
+                    "Channel name": "Sky Cricket",
+                    "Language": "English",
+                    "Embed link": "https://dadocric.st/player.php?id=crich2",
+                    "Stream link": "https://playerado.top/embed2.php?id=crich2"
                 }
             ]
         }
