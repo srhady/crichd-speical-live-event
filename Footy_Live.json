@@ -2,7 +2,7 @@
     "playlist_name": "Live Sports Events",
     "owner": "Md Sohanur Rahman Hady",
     "telegram": "https://t.me/livesportsplay",
-    "last_updated": "2026-06-05 01:03:06 AM (BD Time)",
+    "last_updated": "2026-06-05 01:33:08 AM (BD Time)",
     "total_links": 0,
     "matches": [
         {
@@ -167,62 +167,6 @@
         },
         {
             "Category": "Football",
-            "Tour/Group name": "Friendly",
-            "match name": "Andorra vs Liechtenstein",
-            "Team 1 Name": "Andorra",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/andorra/logo.webp",
-            "Team 2 Name": "Liechtenstein",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/liechtenstein/logo.webp",
-            "Start time": "2026-06-04T17:00:00.000Z",
-            "End time": "2026-06-04T19:10:00.000Z",
-            "Status": "LIVE",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": [
-                {
-                    "Channel name": "Link 1",
-                    "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/andorra-vs-liechtenstein/15721",
-                    "Stream link": ""
-                }
-            ]
-        },
-        {
-            "Category": "Football",
-            "Tour/Group name": "Friendly",
-            "match name": "Sweden vs Greece",
-            "Team 1 Name": "Sweden",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/sweden/logo.webp",
-            "Team 2 Name": "Greece",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/greece/logo.webp",
-            "Start time": "2026-06-04T17:00:00.000Z",
-            "End time": "2026-06-04T19:10:00.000Z",
-            "Status": "LIVE",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": [
-                {
-                    "Channel name": "Link 1",
-                    "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/sweden-vs-greece/15883",
-                    "Stream link": ""
-                },
-                {
-                    "Channel name": "Link 2",
-                    "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/sweden-vs-greece/15884",
-                    "Stream link": ""
-                },
-                {
-                    "Channel name": "Link 3",
-                    "Language": "Portuguese",
-                    "Embed link": "https://footystream.top/alpha/sweden-vs-greece/15885",
-                    "Stream link": ""
-                }
-            ]
-        },
-        {
-            "Category": "Football",
             "Tour/Group name": "PGA Tour",
             "match name": "US Womens Open",
             "Team 1 Name": "US Womens Open",
@@ -287,7 +231,7 @@
             "Team 2 Logo": "https://cdn.img4every1.org/team/cote-divoire/logo.webp",
             "Start time": "2026-06-04T19:10:00.000Z",
             "End time": "2026-06-04T21:20:00.000Z",
-            "Status": "UPCOMING",
+            "Status": "LIVE",
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
@@ -313,6 +257,50 @@
                     "Channel name": "Link 4",
                     "Language": "English",
                     "Embed link": "https://footystream.top/alpha/france-vs-ivory-coast/15894",
+                    "Stream link": ""
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "NHL",
+            "match name": "Knights vs Hurricanes",
+            "Team 1 Name": "Vegas Golden Knights",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/vegas-golden-knights/logo.webp",
+            "Team 2 Name": "Carolina Hurricanes",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/carolina-hurricanes/logo.webp",
+            "Start time": "2026-06-05T00:00:00.000Z",
+            "End time": "2026-06-05T03:00:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/knights-vs-hurricanes/15874",
+                    "Stream link": ""
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "MLB",
+            "match name": "Cubs vs Athletics",
+            "Team 1 Name": "Chicago Cubs",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/chicago-cubs/logo.webp",
+            "Team 2 Name": "Athletics",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/athletics/logo.webp",
+            "Start time": "2026-06-05T00:00:00.000Z",
+            "End time": "2026-06-05T03:00:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/cubs-vs-athletics/15875",
                     "Stream link": ""
                 }
             ]
@@ -463,50 +451,6 @@
         },
         {
             "Category": "Football",
-            "Tour/Group name": "NHL",
-            "match name": "Knights vs Hurricanes",
-            "Team 1 Name": "Vegas Golden Knights",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/vegas-golden-knights/logo.webp",
-            "Team 2 Name": "Carolina Hurricanes",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/carolina-hurricanes/logo.webp",
-            "Start time": "2026-06-05T00:00:00.000Z",
-            "End time": "2026-06-05T03:00:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": [
-                {
-                    "Channel name": "Link 1",
-                    "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/knights-vs-hurricanes/15874",
-                    "Stream link": ""
-                }
-            ]
-        },
-        {
-            "Category": "Football",
-            "Tour/Group name": "MLB",
-            "match name": "Cubs vs Athletics",
-            "Team 1 Name": "Chicago Cubs",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/chicago-cubs/logo.webp",
-            "Team 2 Name": "Athletics",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/athletics/logo.webp",
-            "Start time": "2026-06-05T00:00:00.000Z",
-            "End time": "2026-06-05T03:00:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": [
-                {
-                    "Channel name": "Link 1",
-                    "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/cubs-vs-athletics/15875",
-                    "Stream link": ""
-                }
-            ]
-        },
-        {
-            "Category": "Football",
             "Tour/Group name": "MotoGP",
             "match name": "MotoGP Hungary Grand Prix",
             "Team 1 Name": "MotoGP Hungary Grand Prix",
@@ -579,6 +523,12 @@
                     "Channel name": "Link 2",
                     "Language": "English",
                     "Embed link": "https://footystream.top/alpha/monaco-gp/15880",
+                    "Stream link": ""
+                },
+                {
+                    "Channel name": "Link 3",
+                    "Language": "Español",
+                    "Embed link": "https://footystream.top/alpha/monaco-gp/15906",
                     "Stream link": ""
                 }
             ]
