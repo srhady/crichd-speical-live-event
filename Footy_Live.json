@@ -2,7 +2,7 @@
     "playlist_name": "Live Sports Events",
     "owner": "Md Sohanur Rahman Hady",
     "telegram": "https://t.me/livesportsplay",
-    "last_updated": "2026-06-06 11:33:14 PM (BD Time)",
+    "last_updated": "2026-06-07 12:03:18 AM (BD Time)",
     "total_links": 0,
     "matches": [
         {
@@ -49,7 +49,7 @@
             "Team 2 Logo": "https://cdn.img4every1.org/team/chile/logo.webp",
             "Start time": "2026-06-06T17:45:00.000Z",
             "End time": "2026-06-06T19:55:00.000Z",
-            "Status": "UPCOMING",
+            "Status": "LIVE",
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
@@ -89,7 +89,7 @@
             "Team 2 Logo": "https://cdn.img4every1.org/team/romania/logo.webp",
             "Start time": "2026-06-06T17:45:00.000Z",
             "End time": "2026-06-06T19:55:00.000Z",
-            "Status": "UPCOMING",
+            "Status": "LIVE",
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
@@ -137,6 +137,62 @@
                     "Channel name": "Link 2",
                     "Language": "Deutsch",
                     "Embed link": "https://footystream.top/alpha/germany-vs-usa/15968",
+                    "Stream link": ""
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "Friendly",
+            "match name": "Australia vs Switzerland",
+            "Team 1 Name": "Australia",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/australia/logo.webp",
+            "Team 2 Name": "Switzerland",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/switzerland/logo.webp",
+            "Start time": "2026-06-06T19:00:00.000Z",
+            "End time": "2026-06-06T21:10:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/australia-vs-switzerland/15969",
+                    "Stream link": ""
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "Friendly",
+            "match name": "England vs New Zealand",
+            "Team 1 Name": "England",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/england/logo.webp",
+            "Team 2 Name": "New Zealand",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
+            "Start time": "2026-06-06T20:00:00.000Z",
+            "End time": "2026-06-06T22:15:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/england-vs-new-zealand/15724",
+                    "Stream link": ""
+                },
+                {
+                    "Channel name": "Link 2",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/england-vs-new-zealand/15970",
+                    "Stream link": ""
+                },
+                {
+                    "Channel name": "Link 3",
+                    "Language": "Deutsch",
+                    "Embed link": "https://footystream.top/alpha/england-vs-new-zealand/15971",
                     "Stream link": ""
                 }
             ]
@@ -205,106 +261,6 @@
         },
         {
             "Category": "Football",
-            "Tour/Group name": "PGA Tour",
-            "match name": "US Womens Open",
-            "Team 1 Name": "US Womens Open",
-            "Team 1 Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-            "Team 2 Name": "PGA Tour",
-            "Team 2 Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-            "Start time": "2026-06-04T18:00:00.000Z",
-            "End time": "2026-06-07T23:00:00.000Z",
-            "Status": "LIVE",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": [
-                {
-                    "Channel name": "Link 1",
-                    "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/us-womens-open/15870",
-                    "Stream link": ""
-                },
-                {
-                    "Channel name": "Link 2",
-                    "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/us-womens-open/15871",
-                    "Stream link": ""
-                }
-            ]
-        },
-        {
-            "Category": "Football",
-            "Tour/Group name": "MotoGP",
-            "match name": "MotoGP Hungary Grand Prix",
-            "Team 1 Name": "MotoGP Hungary Grand Prix",
-            "Team 1 Logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
-            "Team 2 Name": "MotoGP",
-            "Team 2 Logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
-            "Start time": "2026-06-05T07:00:00.000Z",
-            "End time": "2026-06-07T14:45:00.000Z",
-            "Status": "LIVE",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": [
-                {
-                    "Channel name": "Link 1",
-                    "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/motogp-hungary-grand-prix/15876",
-                    "Stream link": ""
-                }
-            ]
-        },
-        {
-            "Category": "Football",
-            "Tour/Group name": "PGA Tour",
-            "match name": "KLM Open",
-            "Team 1 Name": "KLM Open",
-            "Team 1 Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-            "Team 2 Name": "PGA Tour",
-            "Team 2 Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-            "Start time": "2026-06-05T11:00:00.000Z",
-            "End time": "2026-06-07T16:00:00.000Z",
-            "Status": "LIVE",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": [
-                {
-                    "Channel name": "Link 1",
-                    "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/klm-open/15864",
-                    "Stream link": ""
-                }
-            ]
-        },
-        {
-            "Category": "Football",
-            "Tour/Group name": "PGA Tour",
-            "match name": "LIV Golf Andalusia",
-            "Team 1 Name": "LIV Golf Andalusia",
-            "Team 1 Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-            "Team 2 Name": "PGA Tour",
-            "Team 2 Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-            "Start time": "2026-06-05T11:15:00.000Z",
-            "End time": "2026-06-07T16:15:00.000Z",
-            "Status": "LIVE",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": [
-                {
-                    "Channel name": "Link 1",
-                    "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/liv-golf-andalusia/15865",
-                    "Stream link": ""
-                },
-                {
-                    "Channel name": "Link 2",
-                    "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/liv-golf-andalusia/15866",
-                    "Stream link": ""
-                }
-            ]
-        },
-        {
-            "Category": "Football",
             "Tour/Group name": "Darts",
             "match name": "Nordic Darts Masters",
             "Team 1 Name": "Nordic Darts Masters",
@@ -321,28 +277,6 @@
                     "Channel name": "Link 1",
                     "Language": "English",
                     "Embed link": "https://footystream.top/alpha/nordic-darts-masters/15910",
-                    "Stream link": ""
-                }
-            ]
-        },
-        {
-            "Category": "Football",
-            "Tour/Group name": "Super League",
-            "match name": "Hull KR vs Wakefield Trinity",
-            "Team 1 Name": "Hull KR",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/hull-kr/logo.webp",
-            "Team 2 Name": "Wakefield Trinity",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/wakefield-trinity/logo.webp",
-            "Start time": "2026-06-06T15:30:00.000Z",
-            "End time": "2026-06-06T17:45:00.000Z",
-            "Status": "LIVE",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": [
-                {
-                    "Channel name": "Link 1",
-                    "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/hull-kr-vs-wakefield-trinity/15941",
                     "Stream link": ""
                 }
             ]
@@ -444,7 +378,7 @@
             "Team 2 Logo": "https://cdn.img4every1.org/league/boxing-streams/logo.webp",
             "Start time": "2026-06-06T18:00:00.000Z",
             "End time": "2026-06-06T20:30:00.000Z",
-            "Status": "UPCOMING",
+            "Status": "LIVE",
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
@@ -466,10 +400,17 @@
             "Team 2 Logo": "https://cdn.img4every1.org/team/luxembourg/logo.webp",
             "Start time": "2026-06-06T18:00:00.000Z",
             "End time": "2026-06-06T20:10:00.000Z",
-            "Status": "UPCOMING",
+            "Status": "LIVE",
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": []
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "Arabic",
+                    "Embed link": "https://footystream.top/alpha/albania-vs-luxembourg/15972",
+                    "Stream link": ""
+                }
+            ]
         },
         {
             "Category": "Football",
@@ -485,62 +426,6 @@
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": []
-        },
-        {
-            "Category": "Football",
-            "Tour/Group name": "Friendly",
-            "match name": "Australia vs Switzerland",
-            "Team 1 Name": "Australia",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/australia/logo.webp",
-            "Team 2 Name": "Switzerland",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/switzerland/logo.webp",
-            "Start time": "2026-06-06T19:00:00.000Z",
-            "End time": "2026-06-06T21:10:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": [
-                {
-                    "Channel name": "Link 1",
-                    "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/australia-vs-switzerland/15969",
-                    "Stream link": ""
-                }
-            ]
-        },
-        {
-            "Category": "Football",
-            "Tour/Group name": "Friendly",
-            "match name": "England vs New Zealand",
-            "Team 1 Name": "England",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/england/logo.webp",
-            "Team 2 Name": "New Zealand",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
-            "Start time": "2026-06-06T20:00:00.000Z",
-            "End time": "2026-06-06T22:15:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": [
-                {
-                    "Channel name": "Link 1",
-                    "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/england-vs-new-zealand/15724",
-                    "Stream link": ""
-                },
-                {
-                    "Channel name": "Link 2",
-                    "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/england-vs-new-zealand/15970",
-                    "Stream link": ""
-                },
-                {
-                    "Channel name": "Link 3",
-                    "Language": "Deutsch",
-                    "Embed link": "https://footystream.top/alpha/england-vs-new-zealand/15971",
-                    "Stream link": ""
-                }
-            ]
         },
         {
             "Category": "Football",
@@ -716,6 +601,58 @@
         },
         {
             "Category": "Football",
+            "Tour/Group name": "Friendly",
+            "match name": "Morocco vs Norway",
+            "Team 1 Name": "Morocco",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/morocco/logo.webp",
+            "Team 2 Name": "Norway",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/norway/logo.webp",
+            "Start time": "2026-06-07T19:00:00.000Z",
+            "End time": "2026-06-07T21:10:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/morocco-vs-norway/15916",
+                    "Stream link": ""
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "Friendly",
+            "match name": "Ecuador vs Guatemala",
+            "Team 1 Name": "Ecuador",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/ecuador/logo.webp",
+            "Team 2 Name": "Guatemala",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/guatemala/logo.webp",
+            "Start time": "2026-06-07T20:00:00.000Z",
+            "End time": "2026-06-07T22:10:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": []
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "Friendly",
+            "match name": "Jordan vs Colombia",
+            "Team 1 Name": "Jordan",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/jordan/logo.webp",
+            "Team 2 Name": "Colombia",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/colombia/logo.webp",
+            "Start time": "2026-06-07T23:00:00.000Z",
+            "End time": "2026-06-08T01:10:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": []
+        },
+        {
+            "Category": "Football",
             "Tour/Group name": "UFC",
             "match name": "Belal Muhammad vs Gabriel Bonfim",
             "Team 1 Name": "Belal Muhammad",
@@ -732,6 +669,84 @@
                     "Channel name": "Link 1",
                     "Language": "English",
                     "Embed link": "https://footystream.top/alpha/belal-muhammad-vs-gabriel-bonfim/15918",
+                    "Stream link": ""
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "PGA Tour",
+            "match name": "US Womens Open",
+            "Team 1 Name": "US Womens Open",
+            "Team 1 Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
+            "Team 2 Name": "PGA Tour",
+            "Team 2 Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
+            "Start time": "2026-06-06T22:00:00.000Z",
+            "End time": "2026-06-08T00:30:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/us-womens-open/15870",
+                    "Stream link": ""
+                },
+                {
+                    "Channel name": "Link 2",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/us-womens-open/15871",
+                    "Stream link": ""
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "PGA Tour",
+            "match name": "KLM Open",
+            "Team 1 Name": "KLM Open",
+            "Team 1 Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
+            "Team 2 Name": "PGA Tour",
+            "Team 2 Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
+            "Start time": "2026-06-07T10:30:00.000Z",
+            "End time": "2026-06-07T15:00:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/klm-open/15864",
+                    "Stream link": ""
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "PGA Tour",
+            "match name": "LIV Golf Andalusia",
+            "Team 1 Name": "LIV Golf Andalusia",
+            "Team 1 Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
+            "Team 2 Name": "PGA Tour",
+            "Team 2 Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
+            "Start time": "2026-06-07T11:15:00.000Z",
+            "End time": "2026-06-07T16:15:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/liv-golf-andalusia/15865",
+                    "Stream link": ""
+                },
+                {
+                    "Channel name": "Link 2",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/liv-golf-andalusia/15866",
                     "Stream link": ""
                 }
             ]
@@ -794,6 +809,28 @@
                     "Channel name": "Link 2",
                     "Language": "English",
                     "Embed link": "https://footystream.top/alpha/sharks-vs-dragons/15954",
+                    "Stream link": ""
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "MotoGP",
+            "match name": "MotoGP Hungary Grand Prix",
+            "Team 1 Name": "MotoGP Hungary Grand Prix",
+            "Team 1 Logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
+            "Team 2 Name": "MotoGP",
+            "Team 2 Logo": "https://cdn.img4every1.org/league/motogp-streams/logo.webp",
+            "Start time": "2026-06-07T06:00:00.000Z",
+            "End time": "2026-06-07T14:45:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/motogp-hungary-grand-prix/15876",
                     "Stream link": ""
                 }
             ]
