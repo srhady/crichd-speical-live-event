@@ -2,7 +2,7 @@
     "playlist_name": "Live Sports Events",
     "owner": "Md Sohanur Rahman Hady",
     "telegram": "https://t.me/livesportsplay",
-    "last_updated": "2026-06-07 01:03:20 AM (BD Time)",
+    "last_updated": "2026-06-07 01:33:24 AM (BD Time)",
     "total_links": 0,
     "matches": [
         {
@@ -694,6 +694,21 @@
         },
         {
             "Category": "Football",
+            "Tour/Group name": "Friendly",
+            "match name": "Netherlands vs Uzbekistan",
+            "Team 1 Name": "Netherlands",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/netherlands/logo.webp",
+            "Team 2 Name": "Uzbekistan",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/uzbekistan/logo.webp",
+            "Start time": "2026-06-08T18:45:00.000Z",
+            "End time": "2026-06-08T20:55:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": []
+        },
+        {
+            "Category": "Football",
             "Tour/Group name": "UFC",
             "match name": "Belal Muhammad vs Gabriel Bonfim",
             "Team 1 Name": "Belal Muhammad",
@@ -875,6 +890,21 @@
                     "Stream link": ""
                 }
             ]
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "Fifa World Cup",
+            "match name": "Mexico vs South Africa",
+            "Team 1 Name": "Mexico",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/mexico/logo.webp",
+            "Team 2 Name": "South Africa",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/south-africa/logo.webp",
+            "Start time": "2026-06-11T19:00:00.000Z",
+            "End time": "2026-06-11T21:10:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": []
         }
     ]
 }
