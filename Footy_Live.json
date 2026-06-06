@@ -2,7 +2,7 @@
     "playlist_name": "Live Sports Events",
     "owner": "Md Sohanur Rahman Hady",
     "telegram": "https://t.me/livesportsplay",
-    "last_updated": "2026-06-06 06:33:29 PM (BD Time)",
+    "last_updated": "2026-06-06 07:03:35 PM (BD Time)",
     "total_links": 0,
     "matches": [
         {
@@ -276,10 +276,17 @@
             "Team 2 Logo": "https://cdn.img4every1.org/team/latvia/logo.webp",
             "Start time": "2026-06-06T13:00:00.000Z",
             "End time": "2026-06-06T15:10:00.000Z",
-            "Status": "UPCOMING",
+            "Status": "LIVE",
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": []
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/lithuania-vs-latvia/15959",
+                    "Stream link": ""
+                }
+            ]
         },
         {
             "Category": "Football",
@@ -291,7 +298,7 @@
             "Team 2 Logo": "https://cdn.img4every1.org/team/tunisia/logo.webp",
             "Start time": "2026-06-06T13:00:00.000Z",
             "End time": "2026-06-06T15:10:00.000Z",
-            "Status": "UPCOMING",
+            "Status": "LIVE",
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
@@ -320,215 +327,6 @@
                     "Stream link": ""
                 }
             ]
-        },
-        {
-            "Category": "Football",
-            "Tour/Group name": "Friendly",
-            "match name": "Portugal vs Chile",
-            "Team 1 Name": "Portugal",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/portugal/logo.webp",
-            "Team 2 Name": "Chile",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/chile/logo.webp",
-            "Start time": "2026-06-06T17:45:00.000Z",
-            "End time": "2026-06-06T19:55:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": []
-        },
-        {
-            "Category": "Football",
-            "Tour/Group name": "Friendly",
-            "match name": "Wales vs Romania",
-            "Team 1 Name": "Wales",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/wales/logo.webp",
-            "Team 2 Name": "Romania",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/romania/logo.webp",
-            "Start time": "2026-06-06T17:45:00.000Z",
-            "End time": "2026-06-06T19:55:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": []
-        },
-        {
-            "Category": "Football",
-            "Tour/Group name": "Friendly",
-            "match name": "Albania vs Luxembourg",
-            "Team 1 Name": "Albania",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/albania/logo.webp",
-            "Team 2 Name": "Luxembourg",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/luxembourg/logo.webp",
-            "Start time": "2026-06-06T18:00:00.000Z",
-            "End time": "2026-06-06T20:10:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": []
-        },
-        {
-            "Category": "Football",
-            "Tour/Group name": "Friendly",
-            "match name": "Germany vs USA",
-            "Team 1 Name": "Germany",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/germany/logo.webp",
-            "Team 2 Name": "USA",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/usa/logo.webp",
-            "Start time": "2026-06-06T18:30:00.000Z",
-            "End time": "2026-06-06T20:40:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": []
-        },
-        {
-            "Category": "Football",
-            "Tour/Group name": "Friendly",
-            "match name": "Panama vs Bosnia",
-            "Team 1 Name": "Panama",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/panama/logo.webp",
-            "Team 2 Name": "Bosnia and Herzegovina",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/bosnia/logo.webp",
-            "Start time": "2026-06-06T19:00:00.000Z",
-            "End time": "2026-06-06T21:10:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": []
-        },
-        {
-            "Category": "Football",
-            "Tour/Group name": "Friendly",
-            "match name": "Australia vs Switzerland",
-            "Team 1 Name": "Australia",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/australia/logo.webp",
-            "Team 2 Name": "Switzerland",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/switzerland/logo.webp",
-            "Start time": "2026-06-06T19:00:00.000Z",
-            "End time": "2026-06-06T21:10:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": []
-        },
-        {
-            "Category": "Football",
-            "Tour/Group name": "Friendly",
-            "match name": "England vs New Zealand",
-            "Team 1 Name": "England",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/england/logo.webp",
-            "Team 2 Name": "New Zealand",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
-            "Start time": "2026-06-06T20:00:00.000Z",
-            "End time": "2026-06-06T22:15:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": [
-                {
-                    "Channel name": "Link 1",
-                    "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/england-vs-new-zealand/15724",
-                    "Stream link": ""
-                }
-            ]
-        },
-        {
-            "Category": "Football",
-            "Tour/Group name": "Friendly",
-            "match name": "Scotland vs Bolivia",
-            "Team 1 Name": "Scotland",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/scotland/logo.webp",
-            "Team 2 Name": "Bolivia",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/bolivia/logo.webp",
-            "Start time": "2026-06-06T20:00:00.000Z",
-            "End time": "2026-06-06T22:10:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": []
-        },
-        {
-            "Category": "Football",
-            "Tour/Group name": "Friendly",
-            "match name": "Turkey vs Venezuela",
-            "Team 1 Name": "Turkiye",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/turkiye/logo.webp",
-            "Team 2 Name": "Venezuela",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/venezuela/logo.webp",
-            "Start time": "2026-06-06T22:00:00.000Z",
-            "End time": "2026-06-07T00:10:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": [
-                {
-                    "Channel name": "Link 1",
-                    "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/turkey-vs-venezuela/15915",
-                    "Stream link": ""
-                }
-            ]
-        },
-        {
-            "Category": "Football",
-            "Tour/Group name": "Friendly",
-            "match name": "Brazil vs Egypt",
-            "Team 1 Name": "Brazil",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/brazil/logo.webp",
-            "Team 2 Name": "Egypt",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/egypt/logo.webp",
-            "Start time": "2026-06-06T22:00:00.000Z",
-            "End time": "2026-06-07T00:10:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": []
-        },
-        {
-            "Category": "Football",
-            "Tour/Group name": "Friendly",
-            "match name": "Argentina vs Honduras",
-            "Team 1 Name": "Argentina",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/argentina/logo.webp",
-            "Team 2 Name": "Honduras",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/honduras/logo.webp",
-            "Start time": "2026-06-07T00:00:00.000Z",
-            "End time": "2026-06-07T02:10:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": []
-        },
-        {
-            "Category": "Football",
-            "Tour/Group name": "Friendly",
-            "match name": "Pakistan vs Afghanistan",
-            "Team 1 Name": "Pakistan",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/pakistan/logo.webp",
-            "Team 2 Name": "Afghanistan",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/afghanistan/logo.webp",
-            "Start time": "2026-06-07T11:00:00.000Z",
-            "End time": "2026-06-07T13:10:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": []
-        },
-        {
-            "Category": "Football",
-            "Tour/Group name": "Friendly",
-            "match name": "Oman vs Mozambique",
-            "Team 1 Name": "Oman",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/oman/logo.webp",
-            "Team 2 Name": "Mozambique",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/mozambique/logo.webp",
-            "Start time": "2026-06-07T13:00:00.000Z",
-            "End time": "2026-06-07T15:10:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": []
         },
         {
             "Category": "Football",
@@ -704,6 +502,302 @@
                     "Stream link": ""
                 }
             ]
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "Friendly",
+            "match name": "Portugal vs Chile",
+            "Team 1 Name": "Portugal",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/portugal/logo.webp",
+            "Team 2 Name": "Chile",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/chile/logo.webp",
+            "Start time": "2026-06-06T17:45:00.000Z",
+            "End time": "2026-06-06T19:55:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/portugal-vs-chile/15960",
+                    "Stream link": ""
+                },
+                {
+                    "Channel name": "Link 2",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/portugal-vs-chile/15961",
+                    "Stream link": ""
+                },
+                {
+                    "Channel name": "Link 3",
+                    "Language": "Portuguese",
+                    "Embed link": "https://footystream.top/alpha/portugal-vs-chile/15962",
+                    "Stream link": ""
+                },
+                {
+                    "Channel name": "Link 4",
+                    "Language": "Portuguese",
+                    "Embed link": "https://footystream.top/alpha/portugal-vs-chile/15963",
+                    "Stream link": ""
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "Friendly",
+            "match name": "Wales vs Romania",
+            "Team 1 Name": "Wales",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/wales/logo.webp",
+            "Team 2 Name": "Romania",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/romania/logo.webp",
+            "Start time": "2026-06-06T17:45:00.000Z",
+            "End time": "2026-06-06T19:55:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/wales-vs-romania/15964",
+                    "Stream link": ""
+                },
+                {
+                    "Channel name": "Link 2",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/wales-vs-romania/15965",
+                    "Stream link": ""
+                },
+                {
+                    "Channel name": "Link 3",
+                    "Language": "Deutsch",
+                    "Embed link": "https://footystream.top/alpha/wales-vs-romania/15966",
+                    "Stream link": ""
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "Friendly",
+            "match name": "Albania vs Luxembourg",
+            "Team 1 Name": "Albania",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/albania/logo.webp",
+            "Team 2 Name": "Luxembourg",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/luxembourg/logo.webp",
+            "Start time": "2026-06-06T18:00:00.000Z",
+            "End time": "2026-06-06T20:10:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": []
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "Friendly",
+            "match name": "Germany vs USA",
+            "Team 1 Name": "Germany",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/germany/logo.webp",
+            "Team 2 Name": "USA",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/usa/logo.webp",
+            "Start time": "2026-06-06T18:30:00.000Z",
+            "End time": "2026-06-06T20:40:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/germany-vs-usa/15967",
+                    "Stream link": ""
+                },
+                {
+                    "Channel name": "Link 2",
+                    "Language": "Deutsch",
+                    "Embed link": "https://footystream.top/alpha/germany-vs-usa/15968",
+                    "Stream link": ""
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "Friendly",
+            "match name": "Panama vs Bosnia",
+            "Team 1 Name": "Panama",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/panama/logo.webp",
+            "Team 2 Name": "Bosnia and Herzegovina",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/bosnia/logo.webp",
+            "Start time": "2026-06-06T19:00:00.000Z",
+            "End time": "2026-06-06T21:10:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": []
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "Friendly",
+            "match name": "Australia vs Switzerland",
+            "Team 1 Name": "Australia",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/australia/logo.webp",
+            "Team 2 Name": "Switzerland",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/switzerland/logo.webp",
+            "Start time": "2026-06-06T19:00:00.000Z",
+            "End time": "2026-06-06T21:10:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": []
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "Friendly",
+            "match name": "England vs New Zealand",
+            "Team 1 Name": "England",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/england/logo.webp",
+            "Team 2 Name": "New Zealand",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/new-zealand/logo.webp",
+            "Start time": "2026-06-06T20:00:00.000Z",
+            "End time": "2026-06-06T22:15:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/england-vs-new-zealand/15724",
+                    "Stream link": ""
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "Friendly",
+            "match name": "Scotland vs Bolivia",
+            "Team 1 Name": "Scotland",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/scotland/logo.webp",
+            "Team 2 Name": "Bolivia",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/bolivia/logo.webp",
+            "Start time": "2026-06-06T20:00:00.000Z",
+            "End time": "2026-06-06T22:10:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": []
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "Friendly",
+            "match name": "Turkey vs Venezuela",
+            "Team 1 Name": "Turkiye",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/turkiye/logo.webp",
+            "Team 2 Name": "Venezuela",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/venezuela/logo.webp",
+            "Start time": "2026-06-06T22:00:00.000Z",
+            "End time": "2026-06-07T00:10:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/turkey-vs-venezuela/15915",
+                    "Stream link": ""
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "Friendly",
+            "match name": "Brazil vs Egypt",
+            "Team 1 Name": "Brazil",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/brazil/logo.webp",
+            "Team 2 Name": "Egypt",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/egypt/logo.webp",
+            "Start time": "2026-06-06T22:00:00.000Z",
+            "End time": "2026-06-07T00:10:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": []
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "Friendly",
+            "match name": "Argentina vs Honduras",
+            "Team 1 Name": "Argentina",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/argentina/logo.webp",
+            "Team 2 Name": "Honduras",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/honduras/logo.webp",
+            "Start time": "2026-06-07T00:00:00.000Z",
+            "End time": "2026-06-07T02:10:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": []
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "Friendly",
+            "match name": "Pakistan vs Afghanistan",
+            "Team 1 Name": "Pakistan",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/pakistan/logo.webp",
+            "Team 2 Name": "Afghanistan",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/afghanistan/logo.webp",
+            "Start time": "2026-06-07T11:00:00.000Z",
+            "End time": "2026-06-07T13:10:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": []
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "Friendly",
+            "match name": "Oman vs Mozambique",
+            "Team 1 Name": "Oman",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/oman/logo.webp",
+            "Team 2 Name": "Mozambique",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/mozambique/logo.webp",
+            "Start time": "2026-06-07T13:00:00.000Z",
+            "End time": "2026-06-07T15:10:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": []
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "Friendly",
+            "match name": "Cyprus vs Liechtenstein",
+            "Team 1 Name": "Cyprus",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/cyprus/logo.webp",
+            "Team 2 Name": "Liechtenstein",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/liechtenstein/logo.webp",
+            "Start time": "2026-06-07T13:00:00.000Z",
+            "End time": "2026-06-07T15:10:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": []
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "Friendly",
+            "match name": "Denmark vs Ukraine",
+            "Team 1 Name": "Denmark",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/denmark/logo.webp",
+            "Team 2 Name": "Ukraine",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/ukraine/logo.webp",
+            "Start time": "2026-06-07T16:30:00.000Z",
+            "End time": "2026-06-07T18:40:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": []
         },
         {
             "Category": "Football",
