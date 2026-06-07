@@ -2,7 +2,7 @@
     "playlist_name": "Live Sports Events",
     "owner": "Md Sohanur Rahman Hady",
     "telegram": "https://t.me/livesportsplay",
-    "last_updated": "2026-06-07 04:32:53 PM (BD Time)",
+    "last_updated": "2026-06-07 05:03:02 PM (BD Time)",
     "total_links": 0,
     "matches": [
         {
@@ -183,10 +183,45 @@
             "Team 2 Logo": "https://cdn.img4every1.org/team/afghanistan/logo.webp",
             "Start time": "2026-06-07T11:00:00.000Z",
             "End time": "2026-06-07T13:10:00.000Z",
+            "Status": "LIVE",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/pakistan-vs-afghanistan/15986",
+                    "Stream link": ""
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "PGA Tour",
+            "match name": "LIV Golf Andalusia",
+            "Team 1 Name": "LIV Golf Andalusia",
+            "Team 1 Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
+            "Team 2 Name": "PGA Tour",
+            "Team 2 Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
+            "Start time": "2026-06-07T11:15:00.000Z",
+            "End time": "2026-06-07T16:15:00.000Z",
             "Status": "UPCOMING",
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": []
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/liv-golf-andalusia/15865",
+                    "Stream link": ""
+                },
+                {
+                    "Channel name": "Link 2",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/liv-golf-andalusia/15866",
+                    "Stream link": ""
+                }
+            ]
         },
         {
             "Category": "Football",
@@ -407,31 +442,18 @@
         },
         {
             "Category": "Football",
-            "Tour/Group name": "PGA Tour",
-            "match name": "LIV Golf Andalusia",
-            "Team 1 Name": "LIV Golf Andalusia",
-            "Team 1 Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-            "Team 2 Name": "PGA Tour",
-            "Team 2 Logo": "https://cdn.img4every1.org/league/pga-tour/logo.webp",
-            "Start time": "2026-06-07T11:15:00.000Z",
-            "End time": "2026-06-07T16:15:00.000Z",
+            "Tour/Group name": "Friendly",
+            "match name": "Belarus vs Burkina Faso",
+            "Team 1 Name": "Belarus",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/belarus/logo.webp",
+            "Team 2 Name": "Burkina Faso",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/burkina-faso/logo.webp",
+            "Start time": "2026-06-09T16:30:00.000Z",
+            "End time": "2026-06-09T18:40:00.000Z",
             "Status": "UPCOMING",
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": [
-                {
-                    "Channel name": "Link 1",
-                    "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/liv-golf-andalusia/15865",
-                    "Stream link": ""
-                },
-                {
-                    "Channel name": "Link 2",
-                    "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/liv-golf-andalusia/15866",
-                    "Stream link": ""
-                }
-            ]
+            "Channels": []
         },
         {
             "Category": "Football",
