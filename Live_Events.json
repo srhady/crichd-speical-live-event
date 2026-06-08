@@ -2,8 +2,8 @@
     "playlist_name": "Live Sports Events",
     "owner": "Md Sohanur Rahman Hady",
     "telegram": "https://t.me/livesportsplay",
-    "last_updated": "2026-06-08 11:32:30 PM (BD Time)",
-    "total_links": 25,
+    "last_updated": "2026-06-09 12:02:38 AM (BD Time)",
+    "total_links": 31,
     "matches": [
         {
             "Category": "Cricket",
@@ -170,6 +170,66 @@
                     "Language": "English",
                     "Embed link": "https://cricstreams.org/player.php?id=skymix",
                     "Stream link": "https://playerado.top/embed2.php?id=skymix"
+                }
+            ]
+        },
+        {
+            "Category": "Cricket",
+            "Tour/Group name": "Tri-Series",
+            "match name": "India A vs Sri Lanka A",
+            "Start time": "June 9, 2026, at 4:30 AM UTC",
+            "End time": "June 9, 2026, at 12 PM UTC",
+            "Status": "LIVE",
+            "referer": "https://player0003.com/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Willow Cricket",
+                    "Language": "English",
+                    "Embed link": "https://cricstreams.org/player.php?id=willow",
+                    "Stream link": "https://playerado.top/embed2.php?id=willow"
+                },
+                {
+                    "Channel name": "Willow HD",
+                    "Language": "English",
+                    "Embed link": "https://cricstreams.org/player.php?id=willowhd",
+                    "Stream link": "https://playerado.top/embed2.php?id=willowhd"
+                }
+            ]
+        },
+        {
+            "Category": "Cricket",
+            "Tour/Group name": "BAN vs AUS",
+            "match name": "Australia vs Bangladesh",
+            "Start time": "June 9, 2026, at 5 AM UTC",
+            "End time": "June 21, 2026, at 2 PM UTC",
+            "Status": "LIVE",
+            "referer": "https://player0003.com/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Willow Xtra",
+                    "Language": "English",
+                    "Embed link": "https://cricstreams.org/player.php?id=willowextra",
+                    "Stream link": "https://playerado.top/embed2.php?id=willowextra"
+                },
+                {
+                    "Channel name": "Willow",
+                    "Language": "English",
+                    "Embed link": "https://cricstreams.org/player.php?id=willowbuzz",
+                    "Stream link": "https://playerado.top/embed2.php?id=willowbuzz"
+                },
+                {
+                    "Channel name": "T Sports HD",
+                    "Language": "English",
+                    "Embed link": "https://cricstreams.org/player.php?id=gtv",
+                    "Stream link": "https://playerado.top/embed2.php?id=gtv"
+                },
+                {
+                    "Channel name": "TNT Cricket",
+                    "Language": "English",
+                    "Embed link": "https://cricstreams.org/player.php?id=crich13",
+                    "Stream link": "https://playerado.top/embed2.php?id=crich13"
                 }
             ]
         },
