@@ -2,9 +2,39 @@
     "playlist_name": "Live Sports Events",
     "owner": "Md Sohanur Rahman Hady",
     "telegram": "https://t.me/livesportsplay",
-    "last_updated": "2026-06-10 02:32:44 AM (BD Time)",
-    "total_links": 32,
+    "last_updated": "2026-06-10 03:02:32 AM (BD Time)",
+    "total_links": 35,
     "matches": [
+        {
+            "Category": "Cricket",
+            "Tour/Group name": "Vitality T20 Blast",
+            "match name": "T20 Blast 2026",
+            "Start time": "May 22, 2026, at 5 PM UTC",
+            "End time": "July 18, 2026, at 10 PM UTC",
+            "Status": "LIVE",
+            "referer": "https://player0003.com/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Willow Xtra",
+                    "Language": "English",
+                    "Embed link": "https://cricstreams.org/player.php?id=willowextra",
+                    "Stream link": "https://playerado.top/embed2.php?id=willowextra"
+                },
+                {
+                    "Channel name": "CricGo 3",
+                    "Language": "English",
+                    "Embed link": "https://cricstreams.org/player.php?id=cricgo3",
+                    "Stream link": "https://playerado.top/embed2.php?id=cricgo3"
+                },
+                {
+                    "Channel name": "Sky Cricket",
+                    "Language": "English",
+                    "Embed link": "https://cricstreams.org/player.php?id=crich2",
+                    "Stream link": "https://playerado.top/embed2.php?id=crich2"
+                }
+            ]
+        },
         {
             "Category": "Cricket",
             "Tour/Group name": "WI vs SL",
