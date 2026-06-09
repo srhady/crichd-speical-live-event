@@ -2,24 +2,9 @@
     "playlist_name": "Live Sports Events",
     "owner": "Md Sohanur Rahman Hady",
     "telegram": "https://t.me/livesportsplay",
-    "last_updated": "2026-06-09 11:02:59 PM (BD Time)",
+    "last_updated": "2026-06-09 11:33:09 PM (BD Time)",
     "total_links": 0,
     "matches": [
-        {
-            "Category": "Football",
-            "Tour/Group name": "Friendly",
-            "match name": "India vs Tajikistan",
-            "Team 1 Name": "India",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/india/logo.webp",
-            "Team 2 Name": "Tajikistan",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/tajikistan/logo.webp",
-            "Start time": "2026-06-09T15:00:00.000Z",
-            "End time": "2026-06-09T17:10:00.000Z",
-            "Status": "LIVE",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": []
-        },
         {
             "Category": "Football",
             "Tour/Group name": "Friendly",
@@ -191,6 +176,21 @@
                     "Stream link": ""
                 }
             ]
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "Fifa World Cup",
+            "match name": "FIFA World Cup 2026 Opening Ceremony",
+            "Team 1 Name": "FIFA World Cup 2026 Opening Ceremony",
+            "Team 1 Logo": "https://cdn.img4every1.org/league/fifa-world-cup/logo.webp",
+            "Team 2 Name": "Fifa World Cup",
+            "Team 2 Logo": "https://cdn.img4every1.org/league/fifa-world-cup/logo.webp",
+            "Start time": "2026-06-11T16:30:00.000Z",
+            "End time": "2026-06-11T19:00:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": []
         },
         {
             "Category": "Football",
