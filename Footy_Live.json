@@ -2,7 +2,7 @@
     "playlist_name": "Live Sports Events",
     "owner": "Md Sohanur Rahman Hady",
     "telegram": "https://t.me/livesportsplay",
-    "last_updated": "2026-06-10 11:02:56 PM (BD Time)",
+    "last_updated": "2026-06-10 11:32:59 PM (BD Time)",
     "total_links": 0,
     "matches": [
         {
@@ -15,7 +15,7 @@
             "Team 2 Logo": "https://cdn.img4every1.org/team/cleveland-guardians/logo.webp",
             "Start time": "2026-06-10T17:10:00.000Z",
             "End time": "2026-06-10T20:10:00.000Z",
-            "Status": "UPCOMING",
+            "Status": "LIVE",
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
@@ -23,6 +23,62 @@
                     "Channel name": "Link 1",
                     "Language": "English",
                     "Embed link": "https://footystream.top/alpha/yankees-vs-guardians/16040",
+                    "Stream link": ""
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "Friendly",
+            "match name": "Portugal vs Nigeria",
+            "Team 1 Name": "Portugal",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/portugal/logo.webp",
+            "Team 2 Name": "Nigeria",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/nigeria/logo.webp",
+            "Start time": "2026-06-10T19:45:00.000Z",
+            "End time": "2026-06-10T21:55:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/portugal-vs-nigeria/16044",
+                    "Stream link": ""
+                },
+                {
+                    "Channel name": "Link 2",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/portugal-vs-nigeria/16045",
+                    "Stream link": ""
+                },
+                {
+                    "Channel name": "Link 3",
+                    "Language": "Portuguese",
+                    "Embed link": "https://footystream.top/alpha/portugal-vs-nigeria/16046",
+                    "Stream link": ""
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "Friendly",
+            "match name": "England vs Costa Rica",
+            "Team 1 Name": "England",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/england/logo.webp",
+            "Team 2 Name": "Costa Rica",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/costa-rica/logo.webp",
+            "Start time": "2026-06-10T20:00:00.000Z",
+            "End time": "2026-06-10T22:10:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/england-vs-costa-rica/15917",
                     "Stream link": ""
                 }
             ]
@@ -51,43 +107,6 @@
         },
         {
             "Category": "Football",
-            "Tour/Group name": "Friendly",
-            "match name": "Portugal vs Nigeria",
-            "Team 1 Name": "Portugal",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/portugal/logo.webp",
-            "Team 2 Name": "Nigeria",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/nigeria/logo.webp",
-            "Start time": "2026-06-10T19:45:00.000Z",
-            "End time": "2026-06-10T21:55:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": []
-        },
-        {
-            "Category": "Football",
-            "Tour/Group name": "Friendly",
-            "match name": "England vs Costa Rica",
-            "Team 1 Name": "England",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/england/logo.webp",
-            "Team 2 Name": "Costa Rica",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/costa-rica/logo.webp",
-            "Start time": "2026-06-10T20:00:00.000Z",
-            "End time": "2026-06-10T22:10:00.000Z",
-            "Status": "UPCOMING",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": [
-                {
-                    "Channel name": "Link 1",
-                    "Language": "English",
-                    "Embed link": "https://footystream.top/alpha/england-vs-costa-rica/15917",
-                    "Stream link": ""
-                }
-            ]
-        },
-        {
-            "Category": "Football",
             "Tour/Group name": "AFL",
             "match name": "Western Bulldogs vs Adelaide Crows",
             "Team 1 Name": "Western Bulldogs",
@@ -104,6 +123,28 @@
                     "Channel name": "Link 1",
                     "Language": "English",
                     "Embed link": "https://footystream.top/alpha/western-bulldogs-vs-adelaide-crows/16042",
+                    "Stream link": ""
+                }
+            ]
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "NRL",
+            "match name": "Broncos vs Rabbitohs",
+            "Team 1 Name": "Brisbane Broncos",
+            "Team 1 Logo": "https://cdn.img4every1.org/team/brisbane-broncos/logo.webp",
+            "Team 2 Name": "South Sydney Rabbitohs",
+            "Team 2 Logo": "https://cdn.img4every1.org/team/south-sydney-rabbitohs/logo.webp",
+            "Start time": "2026-06-11T09:45:00.000Z",
+            "End time": "2026-06-11T12:00:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Link 1",
+                    "Language": "English",
+                    "Embed link": "https://footystream.top/alpha/broncos-vs-rabbitohs/16043",
                     "Stream link": ""
                 }
             ]
