@@ -2,200 +2,203 @@
 
 #name: Crichd 24/7 live channels
 #total channels: 73
-#online channels: 57
+#online channels: 58
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 07:35:30 PM 13-06-2026
+#last update time: 08:04:01 PM 13-06-2026
 
 # --- Cricket Live Events ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn10.zohanayaan.com:1686/hls/skyscric.m3u8?md5=GXJPQ-xYaFwkh14RugBT-g&expires=1781362236
+https://cdn2.zohanayaan.com:1686/hls/skyscric.m3u8?md5=aiTDZOPj6Iwgh0ucAVeqiQ&expires=1781364033
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn2.zohanayaan.com:1686/hls/skysare.m3u8?md5=n49EKUVRZcUDvyCQ2sbGdg&expires=1781362236
+https://cdn1.zohanayaan.com:1686/hls/skysare.m3u8?md5=67ZfpWdRfqBjkDg-TqfTpw&expires=1781364033
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn9.zohanayaan.com:1686/hls/skysme.m3u8?md5=_BPB_U2CNrRtUb1j9C7YOA&expires=1781362236
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Afghanistan.png" group-title="Live Cricket", India vs Afghanistan (STAR1IN)
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn8.zohanayaan.com:1686/hls/star1in.m3u8?md5=tq9KeVG3Ft4eb7FV1DvlWg&expires=1781362236
+https://cdn10.zohanayaan.com:1686/hls/skysme.m3u8?md5=wB9OsXDk0W5GiLaqqQC_rg&expires=1781364033
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Afghanistan.png" group-title="Live Cricket", India vs Afghanistan (STARHINDI)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn10.zohanayaan.com:1686/hls/starhindi.m3u8?md5=yMSJNWqLZ5c497Sfl8YOig&expires=1781362236
+https://cdn2.zohanayaan.com:1686/hls/starhindi.m3u8?md5=W5pLhFV8IV0cFCS74Oj8tQ&expires=1781364034
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Afghanistan.png" group-title="Live Cricket", India vs Afghanistan (STAR1IN)
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn7.zohanayaan.com:1686/hls/star1in.m3u8?md5=_P_fVAz8Y82XVPI6KhKOBw&expires=1781364034
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Afghanistan.png" group-title="Live Cricket", India vs Afghanistan (WILLOWUSA)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn8.zohanayaan.com:1686/hls/willowusa.m3u8?md5=jJVj2MajDPBHwjfaxYk2IQ&expires=1781362236
+https://cdn9.zohanayaan.com:1686/hls/willowusa.m3u8?md5=zq-NTqEpKT4mqjrD2SW5WQ&expires=1781364034
 
 # --- 24/7 Channels ---
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/Sky_Sports_Tennis.svg/revision/latest/scale-to-width-down/340?cb=20230830104212" group-title="CricHD 24/7", Sky Sports Tennis
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn1.zohanayaan.com:1686/hls/skystennis.m3u8?md5=BEIMr9IlJwD55YtGwPgQ8w&expires=1781362422
-#EXTINF:-1 tvg-logo="https://www.crichd.tv/assets/uploads/channels/3.png" group-title="CricHD 24/7", Sky Sports Cricket
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn3.zohanayaan.com:1686/hls/skyscric.m3u8?md5=R8BhaFK4LYYNZj4V7a0SaQ&expires=1781362405
-#EXTINF:-1 tvg-logo="https://www.crichd.tv/assets/uploads/channels/5.png" group-title="CricHD 24/7", Sky Sports Golf
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn5.zohanayaan.com:1686/hls/skysgol.m3u8?md5=AI4yfQmN9vNg5aLnnDyIIA&expires=1781362423
-#EXTINF:-1 tvg-logo="https://www.crichd.tv/assets/uploads/channels/1.jpg" group-title="CricHD 24/7", Sky Sports Main Event
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn1.zohanayaan.com:1686/hls/skysme.m3u8?md5=xHlBk9N2srKtyjHyMYr3PA&expires=1781362400
-#EXTINF:-1 tvg-logo="https://www.crichd.tv/assets/uploads/channels/7.png" group-title="CricHD 24/7", Sky Sports F1
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn4.zohanayaan.com:1686/hls/skysfor1.m3u8?md5=JgVjAM9SQyR336oVgwpE4g&expires=1781362407
-#EXTINF:-1 tvg-logo="https://www.crichd.tv/assets/uploads/channels/9.png" group-title="CricHD 24/7", Sky Sports News
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn7.zohanayaan.com:1686/hls/skyspnews.m3u8?md5=3i68qlQyCu4B93jVrnuEfQ&expires=1781362423
-#EXTINF:-1 tvg-logo="https://www.crichd.tv/assets/uploads/channels/47.png" group-title="CricHD 24/7", Sky Sports Football
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn10.zohanayaan.com:1686/hls/skysfott.m3u8?md5=loUrBp2RauVQJAmAONtTJA&expires=1781362423
-#EXTINF:-1 tvg-logo="https://www.crichd.tv/assets/uploads/channels/6.jpg" group-title="CricHD 24/7", Sky Sports Premier League
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn7.zohanayaan.com:1686/hls/skysprem.m3u8?md5=s4dRQMiwuFs8mkoqIvPpaw&expires=1781362423
-#EXTINF:-1 tvg-logo="https://www.crichd.tv/assets/uploads/channels/4.png" group-title="CricHD 24/7", Sky Sports Action
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn1.zohanayaan.com:1686/hls/skysact.m3u8?md5=179wuUoIK6HUg3T_AZ-tRA&expires=1781362423
-#EXTINF:-1 tvg-logo="https://www.crichd.tv/assets/uploads/channels/11.gif" group-title="CricHD 24/7", TNT Sports 2
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn9.zohanayaan.com:1686/hls/bbtsp2.m3u8?md5=BkWvEpwJF9r1Zac2aF9Juw&expires=1781362424
-#EXTINF:-1 tvg-logo="https://www.crichd.tv/assets/uploads/channels/12.gif" group-title="CricHD 24/7", TNT Sports 3
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn6.zohanayaan.com:1686/hls/bbtsp3.m3u8?md5=ChnWLJtUlQ4cKfcyIT9SvA&expires=1781362424
-#EXTINF:-1 tvg-logo="https://www.crichd.tv/assets/uploads/channels/28.gif" group-title="CricHD 24/7", Viaplay Sports 2 UK
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn2.zohanayaan.com:1686/hls/hdchnl2.m3u8?md5=aiGs_fhEAt8c6TYguf5JCQ&expires=1781362424
-#EXTINF:-1 tvg-logo="https://www.crichd.tv/assets/uploads/channels/10.gif" group-title="CricHD 24/7", TNT Sports 1
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn6.zohanayaan.com:1686/hls/bbtsp1.m3u8?md5=XcqBA4VnHxstn5bb-c7A1A&expires=1781362424
-#EXTINF:-1 tvg-logo="https://www.crichd.tv/assets/uploads/channels/17.gif" group-title="CricHD 24/7", Viaplay Sports 1 UK
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn6.zohanayaan.com:1686/hls/premieruk.m3u8?md5=yFTQu2_lyQAiEqhz1TGJXQ&expires=1781362424
-#EXTINF:-1 tvg-logo="https://www.crichd.tv/assets/uploads/channels/18.png" group-title="CricHD 24/7", PTV Sports
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn10.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=1JnL8wVzaxVXi2QasCmzCg&expires=1781362410
-#EXTINF:-1 tvg-logo="https://www.crichd.tv/assets/uploads/channels/54.png" group-title="CricHD 24/7", LaLiga TV UK
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn3.zohanayaan.com:1686/hls/laligauk.m3u8?md5=E2jUdHDRiXee_aB1IQFfJQ&expires=1781362424
-#EXTINF:-1 tvg-logo="https://www.crichd.tv/assets/uploads/channels/19.png" group-title="CricHD 24/7", Star Sports 1
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn5.zohanayaan.com:1686/hls/star1in.m3u8?md5=xPPaiN3aoxDcg2aZldho7A&expires=1781362424
 #EXTINF:-1 tvg-logo="https://www.crichd.tv/assets/uploads/channels/8.png" group-title="CricHD 24/7", Sky Sports Mix
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn2.zohanayaan.com:1686/hls/skysmixx.m3u8?md5=eFYoOFRgCQtGYUQ9mk0pFw&expires=1781362395
-#EXTINF:-1 tvg-logo="https://www.crichd.tv/assets/uploads/channels/20.png" group-title="CricHD 24/7", Willow Cricket
+https://cdn8.zohanayaan.com:1686/hls/skysmixx.m3u8?md5=HRnYNDKdYtkMAlh8iVkPzA&expires=1781364202
+#EXTINF:-1 tvg-logo="https://www.crichd.tv/assets/uploads/channels/6.jpg" group-title="CricHD 24/7", Sky Sports Premier League
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn5.zohanayaan.com:1686/hls/willowusa.m3u8?md5=6DjwO4rmtb-lwQWcKxUAxA&expires=1781362424
+https://cdn1.zohanayaan.com:1686/hls/skysprem.m3u8?md5=DW72sTolqkeLvMGpAHukjA&expires=1781364202
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/Sky_Sports_Tennis.svg/revision/latest/scale-to-width-down/340?cb=20230830104212" group-title="CricHD 24/7", Sky Sports Tennis
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn1.zohanayaan.com:1686/hls/skystennis.m3u8?md5=2MshYve_Qd6QmnEIajbHzw&expires=1781364202
+#EXTINF:-1 tvg-logo="https://www.crichd.tv/assets/uploads/channels/47.png" group-title="CricHD 24/7", Sky Sports Football
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn1.zohanayaan.com:1686/hls/skysfott.m3u8?md5=mxIUYMeQvuYEnMKxHjIOQQ&expires=1781364202
+#EXTINF:-1 tvg-logo="https://www.crichd.tv/assets/uploads/channels/7.png" group-title="CricHD 24/7", Sky Sports F1
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn1.zohanayaan.com:1686/hls/skysfor1.m3u8?md5=5mZRupuYmuQSO-VoSyFIig&expires=1781364197
+#EXTINF:-1 tvg-logo="https://www.crichd.tv/assets/uploads/channels/3.png" group-title="CricHD 24/7", Sky Sports Cricket
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn7.zohanayaan.com:1686/hls/skyscric.m3u8?md5=94Gm4juMd9LrB96yhpcnPw&expires=1781364202
+#EXTINF:-1 tvg-logo="https://www.crichd.tv/assets/uploads/channels/1.jpg" group-title="CricHD 24/7", Sky Sports Main Event
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn3.zohanayaan.com:1686/hls/skysme.m3u8?md5=VnuLL2i8pZtQRPCdNo0jtQ&expires=1781364188
+#EXTINF:-1 tvg-logo="https://www.crichd.tv/assets/uploads/channels/4.png" group-title="CricHD 24/7", Sky Sports Action
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn5.zohanayaan.com:1686/hls/skysact.m3u8?md5=5DNx9_YM8fn4_tvgQSr2iw&expires=1781364202
+#EXTINF:-1 tvg-logo="https://www.crichd.tv/assets/uploads/channels/9.png" group-title="CricHD 24/7", Sky Sports News
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn10.zohanayaan.com:1686/hls/skyspnews.m3u8?md5=yJZ3xJWJn8gENdh9IkdlXA&expires=1781364202
+#EXTINF:-1 tvg-logo="https://www.crichd.tv/assets/uploads/channels/5.png" group-title="CricHD 24/7", Sky Sports Golf
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn10.zohanayaan.com:1686/hls/skysgol.m3u8?md5=muS1chWnGXxFdf8ettVUig&expires=1781364202
+#EXTINF:-1 tvg-logo="https://www.crichd.tv/assets/uploads/channels/28.gif" group-title="CricHD 24/7", Viaplay Sports 2 UK
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn8.zohanayaan.com:1686/hls/hdchnl2.m3u8?md5=GaANX4N0GDT76v09bYvJKA&expires=1781364203
+#EXTINF:-1 tvg-logo="https://www.crichd.tv/assets/uploads/channels/10.gif" group-title="CricHD 24/7", TNT Sports 1
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn3.zohanayaan.com:1686/hls/bbtsp1.m3u8?md5=Q5MbjMf3UmiUOv8UpFZ8mw&expires=1781364203
+#EXTINF:-1 tvg-logo="https://www.crichd.tv/assets/uploads/channels/18.png" group-title="CricHD 24/7", PTV Sports
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn4.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=2kSzL9s6_zsGMn_JUResGw&expires=1781364175
+#EXTINF:-1 tvg-logo="https://www.crichd.tv/assets/uploads/channels/12.gif" group-title="CricHD 24/7", TNT Sports 3
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn4.zohanayaan.com:1686/hls/bbtsp3.m3u8?md5=QGhpR2r3WQK8j8vOaL1QTg&expires=1781364198
+#EXTINF:-1 tvg-logo="https://www.crichd.tv/assets/uploads/channels/17.gif" group-title="CricHD 24/7", Viaplay Sports 1 UK
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn5.zohanayaan.com:1686/hls/premieruk.m3u8?md5=2Lcr668mKofJteJ8W1Ku2A&expires=1781364203
+#EXTINF:-1 tvg-logo="https://www.crichd.tv/assets/uploads/channels/54.png" group-title="CricHD 24/7", LaLiga TV UK
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn5.zohanayaan.com:1686/hls/laligauk.m3u8?md5=cl5ZhXUnb8bR1c6excXuyA&expires=1781364203
+#EXTINF:-1 tvg-logo="https://www.crichd.tv/assets/uploads/channels/19.png" group-title="CricHD 24/7", Star Sports 1
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn2.zohanayaan.com:1686/hls/star1in.m3u8?md5=E8VZnzlcT2v220a305HBmg&expires=1781364203
 #EXTINF:-1 tvg-logo="https://www.crichd.tv/assets/uploads/channels/13.gif" group-title="CricHD 24/7", TNT Sports 4
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn8.zohanayaan.com:1686/hls/bbtespn.m3u8?md5=oojCrJv1MhlN9XZDEeb8KQ&expires=1781362443
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Sky_Sport_NZ_2019.svg/revision/latest/scale-to-width-down/300?cb=20200809114740" group-title="CricHD 24/7", Sky Sport 1 NZ
+https://cdn10.zohanayaan.com:1686/hls/bbtespn.m3u8?md5=fUsjz8eBtDRLxbi7HWOeyQ&expires=1781364203
+#EXTINF:-1 tvg-logo="https://www.crichd.tv/assets/uploads/channels/20.png" group-title="CricHD 24/7", Willow Cricket
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn10.zohanayaan.com:1686/hls/sky1nz.m3u8?md5=WzQdalUfCQ_6IQXoiO9_VQ&expires=1781362431
-#EXTINF:-1 tvg-logo="https://www.crichd.tv/assets/uploads/channels/50.gif" group-title="CricHD 24/7", Ten Sports
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn9.zohanayaan.com:1686/hls/tenspk.m3u8?md5=iT71owABIMltEkkCvCfcJQ&expires=1781362436
-#EXTINF:-1 tvg-logo="https://www.crichd.tv/assets/uploads/channels/147.png" group-title="CricHD 24/7", ESPN US
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn8.zohanayaan.com:1686/hls/espnusa.m3u8?md5=omU35S7yveqZ99SMc-3dwg&expires=1781362444
-#EXTINF:-1 tvg-logo="https://www.crichd.tv/assets/uploads/channels/56.png" group-title="CricHD 24/7", A Sports HD
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn2.zohanayaan.com:1686/hls/asportshd.m3u8?md5=Upqre8i8CgDycMZ-cAcpRg&expires=1781362444
-#EXTINF:-1 tvg-logo="https://www.crichd.tv/assets/uploads/channels/55.png" group-title="CricHD 24/7", Willow Cricket Extra
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn1.zohanayaan.com:1686/hls/willowextra.m3u8?md5=aRtjYmDX2LLL-AmqnvdPzA&expires=1781362439
+https://cdn10.zohanayaan.com:1686/hls/willowusa.m3u8?md5=vmij1eNItkotfuzjgEiJeA&expires=1781364181
 #EXTINF:-1 tvg-logo="https://www.crichd.tv/assets/uploads/channels/51.gif" group-title="CricHD 24/7", Star Sports 1 Hindi
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn5.zohanayaan.com:1686/hls/starhindi.m3u8?md5=A_pPmLy-jR5EK0PyrHui9A&expires=1781362439
+https://cdn8.zohanayaan.com:1686/hls/starhindi.m3u8?md5=5MJVmhmZqyxPCmYSuKlSNg&expires=1781364193
+#EXTINF:-1 tvg-logo="https://www.crichd.tv/assets/uploads/channels/56.png" group-title="CricHD 24/7", A Sports HD
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn8.zohanayaan.com:1686/hls/asportshd.m3u8?md5=wpMZYhQiabSiUu24mh1nUw&expires=1781364214
+#EXTINF:-1 tvg-logo="https://www.crichd.tv/assets/uploads/channels/50.gif" group-title="CricHD 24/7", Ten Sports
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn2.zohanayaan.com:1686/hls/tenspk.m3u8?md5=dI8s1VLyqMn5GutDOpgkNg&expires=1781364215
+#EXTINF:-1 tvg-logo="https://www.crichd.tv/assets/uploads/channels/55.png" group-title="CricHD 24/7", Willow Cricket Extra
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn9.zohanayaan.com:1686/hls/willowextra.m3u8?md5=dF8J_qHGDeuz2_u4wJ54hg&expires=1781364208
 #EXTINF:-1 tvg-logo="https://www.crichd.tv/assets/uploads/channels/148.png" group-title="CricHD 24/7", ESPN 2 US
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn7.zohanayaan.com:1686/hls/espn2.m3u8?md5=Oeu5Tgp8-jD0U_OLNH2Wfg&expires=1781362445
+https://cdn4.zohanayaan.com:1686/hls/espn2.m3u8?md5=DNXC2FnepWhRkw6oKonqzQ&expires=1781364215
+#EXTINF:-1 tvg-logo="https://www.crichd.tv/assets/uploads/channels/147.png" group-title="CricHD 24/7", ESPN US
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn1.zohanayaan.com:1686/hls/espnusa.m3u8?md5=t6GjmIhjfLOW3b7l7OOkrQ&expires=1781364215
+#EXTINF:-1 tvg-logo="https://www.crichd.tv/assets/uploads/channels/11.gif" group-title="CricHD 24/7", TNT Sports 2
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn1.zohanayaan.com:1686/hls/bbtsp2.m3u8?md5=lz4V5PBNyVZWuxoRwupzWw&expires=1781364216
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Sky_Sport_NZ_2019.svg/revision/latest/scale-to-width-down/300?cb=20200809114740" group-title="CricHD 24/7", Sky Sport 1 NZ
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn4.zohanayaan.com:1686/hls/sky1nz.m3u8?md5=SZCpblo4rJSmGT6kHqTACQ&expires=1781364201
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Sky_Sport_NZ_2019.svg/revision/latest/scale-to-width-down/300?cb=20200809114740" group-title="CricHD 24/7", Sky Sport 2 NZ
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn4.zohanayaan.com:1686/hls/sky2nz.m3u8?md5=6P5aFz9sKXJYSsXpHr341w&expires=1781362439
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Sky_Sport_NZ_2019.svg/revision/latest/scale-to-width-down/300?cb=20200809114740" group-title="CricHD 24/7", Sky Sport 7 NZ
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn2.zohanayaan.com:1686/hls/sky7nz.m3u8?md5=OvGGeViuN1CkxfUNR449KQ&expires=1781362445
+https://cdn4.zohanayaan.com:1686/hls/sky2nz.m3u8?md5=IrynrhoMOBtA2K-7_ajHAg&expires=1781364216
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Sky_Sport_NZ_2019.svg/revision/latest/scale-to-width-down/300?cb=20200809114740" group-title="CricHD 24/7", Sky Sport 3 NZ
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn3.zohanayaan.com:1686/hls/sky3nz.m3u8?md5=Bn1Acg4J2spsVfSjLodVMg&expires=1781362445
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Sky_Sport_NZ_2019.svg/revision/latest/scale-to-width-down/300?cb=20200809114740" group-title="CricHD 24/7", Sky Sport 5 NZ
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn10.zohanayaan.com:1686/hls/sky5nz.m3u8?md5=U1QGO-JtaK2ZZNgSlalFjg&expires=1781362446
+https://cdn6.zohanayaan.com:1686/hls/sky3nz.m3u8?md5=UPFSS8VdI8T2DFzmyCMtQw&expires=1781364216
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Sky_Sport_NZ_2019.svg/revision/latest/scale-to-width-down/300?cb=20200809114740" group-title="CricHD 24/7", Sky Sport 6 NZ
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn1.zohanayaan.com:1686/hls/sky6nz.m3u8?md5=V_XjOsREusLUp5O22jGVDQ&expires=1781362446
+https://cdn3.zohanayaan.com:1686/hls/sky6nz.m3u8?md5=vo-3UkqRTERKqqhubx3gNg&expires=1781364216
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Sky_Sport_NZ_2019.svg/revision/latest/scale-to-width-down/300?cb=20200809114740" group-title="CricHD 24/7", Sky Sport 4 NZ
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn2.zohanayaan.com:1686/hls/sky4nz.m3u8?md5=BgF4jgYSe13tNkitvIHYxA&expires=1781362431
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Sky_Sport_NZ_2019.svg/revision/latest/scale-to-width-down/300?cb=20200809114740" group-title="CricHD 24/7", Sky Sport 9 NZ
+https://cdn10.zohanayaan.com:1686/hls/sky4nz.m3u8?md5=oX3PZvEFOIub8raFcTxBlQ&expires=1781364216
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Sky_Sport_NZ_2019.svg/revision/latest/scale-to-width-down/300?cb=20200809114740" group-title="CricHD 24/7", Sky Sport 7 NZ
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn10.zohanayaan.com:1686/hls/sky9nz.m3u8?md5=z-Dl-2a8BR2Od_5dSUvqJQ&expires=1781362446
+https://cdn10.zohanayaan.com:1686/hls/sky7nz.m3u8?md5=9zFTRTlbkJKccy_Rlac3bQ&expires=1781364216
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Sky_Sport_NZ_2019.svg/revision/latest/scale-to-width-down/300?cb=20200809114740" group-title="CricHD 24/7", Sky Sport 8 NZ
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn5.zohanayaan.com:1686/hls/sky8nz.m3u8?md5=9bFTFk95fZJdCffldSclWA&expires=1781362446
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/BeIN_Sports_2017_flat.svg/revision/latest/scale-to-width-down/300?cb=20230910182143" group-title="CricHD 24/7", BeIn Sports USA
+https://cdn9.zohanayaan.com:1686/hls/sky8nz.m3u8?md5=G4EFJOSVW1ymm0XQ4KMFOw&expires=1781364216
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Sky_Sport_NZ_2019.svg/revision/latest/scale-to-width-down/300?cb=20200809114740" group-title="CricHD 24/7", Sky Sport 5 NZ
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn1.zohanayaan.com:1686/hls/beinusas.m3u8?md5=IzJsedZ2ROMeW4g2Io-3jw&expires=1781362466
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/BeIN_Sports_2017_flat.svg/revision/latest/scale-to-width-down/300?cb=20230910182143" group-title="CricHD 24/7", BeIn Sports HD 1 France
+https://cdn7.zohanayaan.com:1686/hls/sky5nz.m3u8?md5=Tclf56gDUihCAxOJx85W5A&expires=1781364216
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Sky_Sport_NZ_2019.svg/revision/latest/scale-to-width-down/300?cb=20200809114740" group-title="CricHD 24/7", Sky Sport 9 NZ
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn2.zohanayaan.com:1686/hls/bein1france.m3u8?md5=JV_mlPCJAQjSD6QREV9Jcw&expires=1781362466
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Fox_Sports_2012.svg/revision/latest/scale-to-width-down/250?cb=20260204234819" group-title="CricHD 24/7", Fox Sports 1 US
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn1.zohanayaan.com:1686/hls/foxsp1usa.m3u8?md5=uK6uQJQLtrs7uNZTOvJNFg&expires=1781362466
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/TUDN.svg/revision/latest/scale-to-width-down/250?cb=20230127192854" group-title="CricHD 24/7", TUDN USA
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn3.zohanayaan.com:1686/hls/tudnusas.m3u8?md5=lMdlVQhRUG_wUZldaXLJDg&expires=1781362466
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Vamos_por_Movistar_Plus+_2023.svg/revision/latest/scale-to-width-down/315?cb=20230728170813" group-title="CricHD 24/7", Movistar #Vamos
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn5.zohanayaan.com:1686/hls/mvamoss.m3u8?md5=5fV_cOuQkWn5u0oW6nH22A&expires=1781362466
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Fox_Sports_2012.svg/revision/latest/scale-to-width-down/250?cb=20260204234819" group-title="CricHD 24/7", Fox Sports 2 US
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn10.zohanayaan.com:1686/hls/foxsp2usa.m3u8?md5=FbLxFdGWVlFMRDfKFYwjjg&expires=1781362466
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Vamos_por_Movistar_Plus+_2023.svg/revision/latest/scale-to-width-down/315?cb=20230728170813" group-title="CricHD 24/7", Movistar Deportes
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn6.zohanayaan.com:1686/hls/mdeportess.m3u8?md5=VSBnVgzIpHyUC8OshCs8xw&expires=1781362466
-#EXTINF:-1 tvg-logo="https://thumbnailer.mixcloud.com/unsafe/1200x628/profile/0/b/8/4/638c-6c4d-4572-b452-cc4468b2f1e2" group-title="CricHD 24/7", NBC
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn3.zohanayaan.com:1686/hls/nbccs.m3u8?md5=TCbpeWCFa7-YLnnVn82f5Q&expires=1781362467
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/DAZN_2019_logo.svg/revision/latest/scale-to-width-down/200?cb=20210824002335" group-title="CricHD 24/7", DAZN 1 Spain
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn3.zohanayaan.com:1686/hls/dazn1sp1.m3u8?md5=PpMH390Wemugr_LSdZrKoQ&expires=1781362467
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/DAZN_2019_logo.svg/revision/latest/scale-to-width-down/200?cb=20210824002335" group-title="CricHD 24/7", DAZN 2 Spain
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn1.zohanayaan.com:1686/hls/dazn2sp2.m3u8?md5=hJwPtI-gjCOEMGB_VDVrFQ&expires=1781362467
+https://cdn6.zohanayaan.com:1686/hls/sky9nz.m3u8?md5=VfxW0hA9ysSgrGEUjnYQAQ&expires=1781364216
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Fox_Sports_2012.svg/revision/latest/scale-to-width-down/250?cb=20260204234819" group-title="CricHD 24/7", Fox Deportes
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn6.zohanayaan.com:1686/hls/foxdeportesas1.m3u8?md5=DDqlLGrGcW0XW0hxMAY3NA&expires=1781362467
+https://cdn3.zohanayaan.com:1686/hls/foxdeportesas1.m3u8?md5=MIy-O-xhfIT2loqjA6eJXg&expires=1781364227
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/BeIN_Sports_2017_flat.svg/revision/latest/scale-to-width-down/300?cb=20230910182143" group-title="CricHD 24/7", BeIn Sports USA
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn3.zohanayaan.com:1686/hls/beinusas.m3u8?md5=LvWEAeSEXoPsfs5cJ8mHZw&expires=1781364228
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Vamos_por_Movistar_Plus+_2023.svg/revision/latest/scale-to-width-down/315?cb=20230728170813" group-title="CricHD 24/7", Movistar Deportes
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn9.zohanayaan.com:1686/hls/mdeportess.m3u8?md5=SkqgJFM2cICqSsy5NSnZAQ&expires=1781364228
+#EXTINF:-1 tvg-logo="https://thumbnailer.mixcloud.com/unsafe/1200x628/profile/0/b/8/4/638c-6c4d-4572-b452-cc4468b2f1e2" group-title="CricHD 24/7", NBC
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn3.zohanayaan.com:1686/hls/nbccs.m3u8?md5=IhUdMaiZwiKA1INcqYT6Bw&expires=1781364228
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Fox_Sports_2012.svg/revision/latest/scale-to-width-down/250?cb=20260204234819" group-title="CricHD 24/7", Fox Sports 2 US
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn9.zohanayaan.com:1686/hls/foxsp2usa.m3u8?md5=Tc_Lqh8hBgZ-OtKTyzQUjA&expires=1781364228
 #EXTINF:-1 tvg-logo="https://thumbnailer.mixcloud.com/unsafe/1200x628/profile/0/b/8/4/638c-6c4d-4572-b452-cc4468b2f1e2" group-title="CricHD 24/7", Telemundo
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn7.zohanayaan.com:1686/hls/telmunda.m3u8?md5=lgBDmjkFs-S-4YCja47Uow&expires=1781362443
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/DAZN_2019_logo.svg/revision/latest/scale-to-width-down/200?cb=20210824002335" group-title="CricHD 24/7", DAZN 3 Spain
+https://cdn8.zohanayaan.com:1686/hls/telmunda.m3u8?md5=028kaHQaAGKhAcinttCmYA&expires=1781364206
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Fox_Sports_2012.svg/revision/latest/scale-to-width-down/250?cb=20260204234819" group-title="CricHD 24/7", Fox Sports 1 US
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn10.zohanayaan.com:1686/hls/dazn3sp3.m3u8?md5=9zqyJX8G_Ka1EK1vecVoWA&expires=1781362467
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/LaLiga_TV_Hypermotion.svg/revision/latest/scale-to-width-down/250?cb=20230704141115" group-title="CricHD 24/7", LaLiga TV Hypermotion
+https://cdn6.zohanayaan.com:1686/hls/foxsp1usa.m3u8?md5=NHCUMteMiMUWb8lUiE995w&expires=1781364228
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/TUDN.svg/revision/latest/scale-to-width-down/250?cb=20230127192854" group-title="CricHD 24/7", TUDN USA
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn5.zohanayaan.com:1686/hls/laligatvhyper1.m3u8?md5=2Ubb2tMHQAsBH1gsUOU97g&expires=1781362468
+https://cdn1.zohanayaan.com:1686/hls/tudnusas.m3u8?md5=qCJqoDGYP9tTcmuMq6QRlQ&expires=1781364228
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/BeIN_Sports_2017_flat.svg/revision/latest/scale-to-width-down/300?cb=20230910182143" group-title="CricHD 24/7", BeIn Sports HD 1 France
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn1.zohanayaan.com:1686/hls/bein1france.m3u8?md5=l2Ty3eAIlUIx3kMqKgtHaQ&expires=1781364210
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Vamos_por_Movistar_Plus+_2023.svg/revision/latest/scale-to-width-down/315?cb=20230728170813" group-title="CricHD 24/7", Movistar #Vamos
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn8.zohanayaan.com:1686/hls/mvamoss.m3u8?md5=bBZopOm4fzVRnztxDF_T2g&expires=1781364228
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/DAZN_2019_logo.svg/revision/latest/scale-to-width-down/200?cb=20210824002335" group-title="CricHD 24/7", DAZN 2 Spain
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn6.zohanayaan.com:1686/hls/dazn2sp2.m3u8?md5=bjW8ykvSLFoSCSLTGnstvA&expires=1781364229
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/DAZN_2019_logo.svg/revision/latest/scale-to-width-down/200?cb=20210824002335" group-title="CricHD 24/7", DAZN 1 Spain
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn2.zohanayaan.com:1686/hls/dazn1sp1.m3u8?md5=lQNkzojhRz6oTvYyhKPfuQ&expires=1781364229
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/La_Liga_Hypermotion_2.svg/revision/latest/scale-to-width-down/250?cb=20240921151926" group-title="CricHD 24/7", LaLiga TV Hypermotion 2
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn2.zohanayaan.com:1686/hls/laligatvhyper2.m3u8?md5=pF7Kq_D35HXbSxJOT_aQSQ&expires=1781362468
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Itv2024.svg/revision/latest/scale-to-width-down/250?cb=20250608152944" group-title="CricHD 24/7", ITV4
+https://cdn1.zohanayaan.com:1686/hls/laligatvhyper2.m3u8?md5=1DTyZzxlYdfC8n5Rp6-sZw&expires=1781364229
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/DAZN_2019_logo.svg/revision/latest/scale-to-width-down/200?cb=20210824002335" group-title="CricHD 24/7", DAZN 4 Spain
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn9.zohanayaan.com:1686/hls/itv4.m3u8?md5=swRdNvofmPyJVuFZhkJeLw&expires=1781362468
+https://cdn7.zohanayaan.com:1686/hls/dazn4sp4.m3u8?md5=uf17-uQsGr4c4QF0p4eW3Q&expires=1781364229
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/DAZN_2019_logo.svg/revision/latest/scale-to-width-down/200?cb=20210824002335" group-title="CricHD 24/7", DAZN 3 Spain
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn2.zohanayaan.com:1686/hls/dazn3sp3.m3u8?md5=UPelSh3L2vlvk4tpboYr7A&expires=1781364229
 #EXTINF:-1 tvg-logo="https://thumbnailer.mixcloud.com/unsafe/1200x628/profile/0/b/8/4/638c-6c4d-4572-b452-cc4468b2f1e2" group-title="CricHD 24/7", BBC One
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn6.zohanayaan.com:1686/hls/hdchnl1.m3u8?md5=C6fLFdqIZtfBrkHiHf7luA&expires=1781362452
+https://cdn7.zohanayaan.com:1686/hls/hdchnl1.m3u8?md5=ThKP0sWRnLr8wkjPSMJNuA&expires=1781364219
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/LaLiga_TV_Hypermotion.svg/revision/latest/scale-to-width-down/250?cb=20230704141115" group-title="CricHD 24/7", LaLiga TV Hypermotion
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn10.zohanayaan.com:1686/hls/laligatvhyper1.m3u8?md5=c2DtDImjhi1qYjXE0zI1hA&expires=1781364229
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Itv2024.svg/revision/latest/scale-to-width-down/250?cb=20250608152944" group-title="CricHD 24/7", ITV 1
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn3.zohanayaan.com:1686/hls/hdchnl4.m3u8?md5=ZbNBF8opWWOmDvB1wh_fAg&expires=1781362479
-#EXTINF:-1 tvg-logo="https://thumbnailer.mixcloud.com/unsafe/1200x628/profile/0/b/8/4/638c-6c4d-4572-b452-cc4468b2f1e2" group-title="CricHD 24/7", ESPN Deportes
+https://cdn3.zohanayaan.com:1686/hls/hdchnl4.m3u8?md5=XnBYQ6OeQJn51Orpn4UVpw&expires=1781364223
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Itv2024.svg/revision/latest/scale-to-width-down/250?cb=20250608152944" group-title="CricHD 24/7", ITV4
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn6.zohanayaan.com:1686/hls/espndeportess.m3u8?md5=pcE4QNRmpNEt0TSkOJAwCA&expires=1781362485
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Fox_Sports_2012.svg/revision/latest/scale-to-width-down/250?cb=20260204234819" group-title="CricHD 24/7", Fox Soccer Plus
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn8.zohanayaan.com:1686/hls/foxsoccer.m3u8?md5=OVfC-CVy5ub2zYN3JwequA&expires=1781362488
-#EXTINF:-1 tvg-logo="https://thumbnailer.mixcloud.com/unsafe/1200x628/profile/0/b/8/4/638c-6c4d-4572-b452-cc4468b2f1e2" group-title="CricHD 24/7", Disney+ SP
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn6.zohanayaan.com:1686/hls/deportesplus10.m3u8?md5=e7mzvFIrnRjMJRQuaIHggA&expires=1781362488
+https://cdn7.zohanayaan.com:1686/hls/itv4.m3u8?md5=6eKEPHSeEVoDQWI-GBqHuw&expires=1781364240
 #EXTINF:-1 tvg-logo="https://thumbnailer.mixcloud.com/unsafe/1200x628/profile/0/b/8/4/638c-6c4d-4572-b452-cc4468b2f1e2" group-title="CricHD 24/7", BBC Two
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn9.zohanayaan.com:1686/hls/hdchnl5.m3u8?md5=0p-IVWZjM3VfSZ3VOhGLFg&expires=1781362529
+https://cdn6.zohanayaan.com:1686/hls/hdchnl5.m3u8?md5=So6tNJaMFpO2Gpu3LrAfug&expires=1781364240
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Fox_Sports_2012.svg/revision/latest/scale-to-width-down/250?cb=20260204234819" group-title="CricHD 24/7", Fox Soccer Plus
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn7.zohanayaan.com:1686/hls/foxsoccer.m3u8?md5=76dgRZAZBARhb4_W87g8iA&expires=1781364241
+#EXTINF:-1 tvg-logo="https://thumbnailer.mixcloud.com/unsafe/1200x628/profile/0/b/8/4/638c-6c4d-4572-b452-cc4468b2f1e2" group-title="CricHD 24/7", Disney+ SP
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn10.zohanayaan.com:1686/hls/deportesplus10.m3u8?md5=yYMl4Di0xwkw2mL3IniW3Q&expires=1781364223
+#EXTINF:-1 tvg-logo="https://thumbnailer.mixcloud.com/unsafe/1200x628/profile/0/b/8/4/638c-6c4d-4572-b452-cc4468b2f1e2" group-title="CricHD 24/7", ESPN Deportes
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn7.zohanayaan.com:1686/hls/espndeportess.m3u8?md5=nqJos2HJEiseF2oa7MBqBA&expires=1781364241
