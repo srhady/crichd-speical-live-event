@@ -2,8 +2,8 @@
     "playlist_name": "Live Sports Events",
     "owner": "Md Sohanur Rahman Hady",
     "telegram": "https://t.me/livesportsplay",
-    "last_updated": "2026-06-20 01:32:31 PM (BD Time)",
-    "total_links": 34,
+    "last_updated": "2026-06-20 02:02:37 PM (BD Time)",
+    "total_links": 38,
     "matches": [
         {
             "Category": "Cricket",
@@ -40,12 +40,6 @@
                     "Stream link": "https://playerado.top/embed2.php?id=willowhd"
                 },
                 {
-                    "Channel name": "TNT Cricket",
-                    "Language": "English",
-                    "Embed link": "https://cricstreams.org/player.php?id=crich11",
-                    "Stream link": "https://playerado.top/embed2.php?id=crich11"
-                },
-                {
                     "Channel name": "Star Sports 1 Tamil",
                     "Language": "Tamil",
                     "Embed link": "https://cricstreams.org/player.php?id=starsp1tam",
@@ -56,6 +50,12 @@
                     "Language": "Telugu",
                     "Embed link": "https://cricstreams.org/player.php?id=starsp1tel",
                     "Stream link": "https://playerado.top/embed2.php?id=starsp1tel"
+                },
+                {
+                    "Channel name": "TNT Cricket",
+                    "Language": "English",
+                    "Embed link": "https://cricstreams.org/player.php?id=btsp6",
+                    "Stream link": "https://playerado.top/embed2.php?id=btsp6"
                 }
             ]
         },
@@ -224,6 +224,42 @@
                     "Language": "English",
                     "Embed link": "https://cricstreams.org/player.php?id=crich2",
                     "Stream link": "https://playerado.top/embed2.php?id=crich2"
+                }
+            ]
+        },
+        {
+            "Category": "Cricket",
+            "Tour/Group name": "Tri-Series",
+            "match name": "India A vs Sri Lanka A",
+            "Start time": "N/A",
+            "End time": "N/A",
+            "Status": "LIVE",
+            "referer": "https://player0003.com/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Willow Cricket",
+                    "Language": "English",
+                    "Embed link": "https://cricstreams.org/player.php?id=willow",
+                    "Stream link": "https://playerado.top/embed2.php?id=willow"
+                },
+                {
+                    "Channel name": "Sony Sports Ten 1",
+                    "Language": "English",
+                    "Embed link": "https://cricstreams.org/player.php?id=ten1",
+                    "Stream link": "https://playerado.top/embed2.php?id=ten1"
+                },
+                {
+                    "Channel name": "Willow HD",
+                    "Language": "English",
+                    "Embed link": "https://cricstreams.org/player.php?id=willowhd",
+                    "Stream link": "https://playerado.top/embed2.php?id=willowhd"
+                },
+                {
+                    "Channel name": "CricGo 5",
+                    "Language": "English",
+                    "Embed link": "https://cricstreams.org/player.php?id=cricgo5",
+                    "Stream link": "https://playerado.top/embed2.php?id=cricgo5"
                 }
             ]
         },
