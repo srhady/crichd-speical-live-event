@@ -2,7 +2,7 @@
     "playlist_name": "Live Sports Events",
     "owner": "Md Sohanur Rahman Hady",
     "telegram": "https://t.me/livesportsplay",
-    "last_updated": "2026-06-27 12:33:01 AM (BD Time)",
+    "last_updated": "2026-06-27 01:03:10 AM (BD Time)",
     "total_links": 0,
     "matches": [
         {
@@ -15,7 +15,7 @@
             "Team 2 Logo": "https://cdn.img4every1.org/team/norway/logo.webp",
             "Start time": "2026-06-26T19:00:00.000Z",
             "End time": "2026-06-26T21:15:00.000Z",
-            "Status": "UPCOMING",
+            "Status": "LIVE",
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": []
@@ -30,7 +30,7 @@
             "Team 2 Logo": "https://cdn.img4every1.org/team/senegal/logo.webp",
             "Start time": "2026-06-26T19:00:00.000Z",
             "End time": "2026-06-26T21:15:00.000Z",
-            "Status": "UPCOMING",
+            "Status": "LIVE",
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": []
@@ -97,21 +97,6 @@
         },
         {
             "Category": "Football",
-            "Tour/Group name": "FIH Pro League",
-            "match name": "Pakistan vs India",
-            "Team 1 Name": "Pakistan",
-            "Team 1 Logo": "https://cdn.img4every1.org/team/pakistan/logo.webp",
-            "Team 2 Name": "India",
-            "Team 2 Logo": "https://cdn.img4every1.org/team/india/logo.webp",
-            "Start time": "2026-06-26T17:00:00.000Z",
-            "End time": "2026-06-26T19:00:00.000Z",
-            "Status": "LIVE",
-            "referer": "https://bhalocast.pro/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": []
-        },
-        {
-            "Category": "Football",
             "Tour/Group name": "Super League",
             "match name": "Hull KR vs Leeds Rhinos",
             "Team 1 Name": "Hull KR",
@@ -120,7 +105,7 @@
             "Team 2 Logo": "https://cdn.img4every1.org/team/leeds-rhinos/logo.webp",
             "Start time": "2026-06-26T19:00:00.000Z",
             "End time": "2026-06-26T21:15:00.000Z",
-            "Status": "UPCOMING",
+            "Status": "LIVE",
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": []
@@ -300,6 +285,21 @@
             "Team 2 Logo": "https://cdn.img4every1.org/team/wales-rugby/logo.webp",
             "Start time": "2026-06-27T13:00:00.000Z",
             "End time": "2026-06-27T15:15:00.000Z",
+            "Status": "UPCOMING",
+            "referer": "https://bhalocast.pro/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": []
+        },
+        {
+            "Category": "Football",
+            "Tour/Group name": "UFC",
+            "match name": "Rafael Fiziev vs Manuel Torres",
+            "Team 1 Name": "Rafael Fiziev",
+            "Team 1 Logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
+            "Team 2 Name": "Manuel Torres",
+            "Team 2 Logo": "https://cdn.img4every1.org/league/ufc-streams-free/logo.webp",
+            "Start time": "2026-06-27T14:00:00.000Z",
+            "End time": "2026-06-27T19:30:00.000Z",
             "Status": "UPCOMING",
             "referer": "https://bhalocast.pro/",
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
