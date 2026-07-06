@@ -2,8 +2,8 @@
     "playlist_name": "Live Sports Events",
     "owner": "Md Sohanur Rahman Hady",
     "telegram": "https://t.me/livesportsplay",
-    "last_updated": "2026-07-06 04:02:33 PM (BD Time)",
-    "total_links": 21,
+    "last_updated": "2026-07-06 04:32:38 PM (BD Time)",
+    "total_links": 27,
     "matches": [
         {
             "Category": "Cricket",
@@ -109,6 +109,30 @@
         },
         {
             "Category": "Cricket",
+            "Tour/Group name": "Ban vs Zim",
+            "match name": "Bangladesh vs Zimbabwe",
+            "Start time": "N/A",
+            "End time": "N/A",
+            "Status": "LIVE",
+            "referer": "https://player0003.com/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "T Sports HD",
+                    "Language": "English",
+                    "Embed link": "https://cricstreams.org/player.php?id=gtv",
+                    "Stream link": "https://playerado.top/news.php?id=gtv&v=su"
+                },
+                {
+                    "Channel name": "CricGo 3",
+                    "Language": "English",
+                    "Embed link": "https://cricstreams.org/player.php?id=cricgo3",
+                    "Stream link": "https://playerado.top/news.php?id=cricgo3&v=su"
+                }
+            ]
+        },
+        {
+            "Category": "Cricket",
             "Tour/Group name": "IND vs ENG",
             "match name": "India vs England",
             "Start time": "N/A",
@@ -130,6 +154,12 @@
                     "Stream link": "https://playerado.top/news.php?id=ten1&v=su"
                 },
                 {
+                    "Channel name": "Sony Sports Ten 5",
+                    "Language": "English",
+                    "Embed link": "https://cricstreams.org/player.php?id=sonysix",
+                    "Stream link": "https://playerado.top/news.php?id=sonysix&v=su"
+                },
+                {
                     "Channel name": "Sony Sports Ten 3",
                     "Language": "Hindi",
                     "Embed link": "https://cricstreams.org/player.php?id=ten3",
@@ -148,18 +178,6 @@
                     "Stream link": "https://playerado.top/news.php?id=cricgo4&v=su"
                 },
                 {
-                    "Channel name": "CricGo 6",
-                    "Language": "English",
-                    "Embed link": "https://cricstreams.org/player.php?id=cricgo6",
-                    "Stream link": "https://playerado.top/news.php?id=cricgo6&v=su"
-                },
-                {
-                    "Channel name": "CricGo 5",
-                    "Language": "Hindi",
-                    "Embed link": "https://cricstreams.org/player.php?id=cricgo5",
-                    "Stream link": "https://playerado.top/news.php?id=cricgo5&v=su"
-                },
-                {
                     "Channel name": "Sky Cricket",
                     "Language": "English",
                     "Embed link": "https://cricstreams.org/player.php?id=crich2",
@@ -169,8 +187,8 @@
         },
         {
             "Category": "Cricket",
-            "Tour/Group name": "Ban vs Zim",
-            "match name": "Bangladesh vs Zimbabwe",
+            "Tour/Group name": "IND vs ENG",
+            "match name": "3rd T20 India vs England",
             "Start time": "N/A",
             "End time": "N/A",
             "Status": "LIVE",
@@ -178,16 +196,46 @@
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
                 {
-                    "Channel name": "T Sports HD",
+                    "Channel name": "Willow Cricket",
                     "Language": "English",
-                    "Embed link": "https://cricstreams.org/player.php?id=gtv",
-                    "Stream link": "https://playerado.top/news.php?id=gtv&v=su"
+                    "Embed link": "https://cricstreams.org/player.php?id=willow",
+                    "Stream link": "https://playerado.top/news.php?id=willow&v=su"
                 },
                 {
-                    "Channel name": "CricGo 3",
+                    "Channel name": "Sony Sports Ten 1",
                     "Language": "English",
-                    "Embed link": "https://cricstreams.org/player.php?id=cricgo3",
-                    "Stream link": "https://playerado.top/news.php?id=cricgo3&v=su"
+                    "Embed link": "https://cricstreams.org/player.php?id=ten1",
+                    "Stream link": "https://playerado.top/news.php?id=ten1&v=su"
+                },
+                {
+                    "Channel name": "Sony Sports Ten 5",
+                    "Language": "English",
+                    "Embed link": "https://cricstreams.org/player.php?id=sonysix",
+                    "Stream link": "https://playerado.top/news.php?id=sonysix&v=su"
+                },
+                {
+                    "Channel name": "Sony Sports Ten 3",
+                    "Language": "Hindi",
+                    "Embed link": "https://cricstreams.org/player.php?id=ten3",
+                    "Stream link": "https://playerado.top/news.php?id=ten3&v=su"
+                },
+                {
+                    "Channel name": "Willow HD",
+                    "Language": "English",
+                    "Embed link": "https://cricstreams.org/player.php?id=willowhd",
+                    "Stream link": "https://playerado.top/news.php?id=willowhd&v=su"
+                },
+                {
+                    "Channel name": "CricGo 4",
+                    "Language": "Tamil",
+                    "Embed link": "https://cricstreams.org/player.php?id=cricgo4",
+                    "Stream link": "https://playerado.top/news.php?id=cricgo4&v=su"
+                },
+                {
+                    "Channel name": "Sky Cricket",
+                    "Language": "English",
+                    "Embed link": "https://cricstreams.org/player.php?id=crich2",
+                    "Stream link": "https://playerado.top/news.php?id=crich2&v=su"
                 }
             ]
         }
