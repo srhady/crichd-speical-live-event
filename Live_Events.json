@@ -2,7 +2,7 @@
     "playlist_name": "Live Sports Events",
     "owner": "Md Sohanur Rahman Hady",
     "telegram": "https://t.me/livesportsplay",
-    "last_updated": "2026-07-12 01:02:36 AM (BD Time)",
+    "last_updated": "2026-07-12 01:32:32 AM (BD Time)",
     "total_links": 25,
     "matches": [
         {
@@ -115,8 +115,8 @@
         },
         {
             "Category": "Cricket",
-            "Tour/Group name": "Ban vs Zim",
-            "match name": "Bangladesh vs Zimbabwe",
+            "Tour/Group name": "NZ vs WI",
+            "match name": "1st ODI New Zealand vs West Indies",
             "Start time": "N/A",
             "End time": "N/A",
             "Status": "LIVE",
@@ -124,16 +124,28 @@
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
                 {
-                    "Channel name": "T Sports HD",
+                    "Channel name": "Willow Cricket",
                     "Language": "English",
-                    "Embed link": "https://cricstreams.org/player.php?id=gtv",
-                    "Stream link": "https://playerado.top/news.php?id=gtv&v=su"
+                    "Embed link": "https://cricstreams.org/player.php?id=willow",
+                    "Stream link": "https://playerado.top/news.php?id=willow&v=su"
                 },
                 {
-                    "Channel name": "CricGo 3",
+                    "Channel name": "Willow HD",
                     "Language": "English",
-                    "Embed link": "https://cricstreams.org/player.php?id=cricgo3",
-                    "Stream link": "https://playerado.top/news.php?id=cricgo3&v=su"
+                    "Embed link": "https://cricstreams.org/player.php?id=willowhd",
+                    "Stream link": "https://playerado.top/news.php?id=willowhd&v=su"
+                },
+                {
+                    "Channel name": "CricGo 1",
+                    "Language": "English",
+                    "Embed link": "https://cricstreams.org/player.php?id=cricgo1",
+                    "Stream link": "https://playerado.top/news.php?id=cricgo1&v=su"
+                },
+                {
+                    "Channel name": "TNT Cricket",
+                    "Language": "English",
+                    "Embed link": "https://cricstreams.org/player.php?id=crich14",
+                    "Stream link": "https://playerado.top/news.php?id=crich14&v=su"
                 }
             ]
         },
@@ -193,8 +205,8 @@
         },
         {
             "Category": "Cricket",
-            "Tour/Group name": "NZ vs WI",
-            "match name": "1st ODI New Zealand vs West Indies",
+            "Tour/Group name": "Ban vs Zim",
+            "match name": "Bangladesh vs Zimbabwe",
             "Start time": "N/A",
             "End time": "N/A",
             "Status": "LIVE",
@@ -202,28 +214,16 @@
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
                 {
-                    "Channel name": "Willow Cricket",
+                    "Channel name": "T Sports HD",
                     "Language": "English",
-                    "Embed link": "https://cricstreams.org/player.php?id=willow",
-                    "Stream link": "https://playerado.top/news.php?id=willow&v=su"
+                    "Embed link": "https://cricstreams.org/player.php?id=gtv",
+                    "Stream link": "https://playerado.top/news.php?id=gtv&v=su"
                 },
                 {
-                    "Channel name": "Willow HD",
+                    "Channel name": "CricGo 3",
                     "Language": "English",
-                    "Embed link": "https://cricstreams.org/player.php?id=willowhd",
-                    "Stream link": "https://playerado.top/news.php?id=willowhd&v=su"
-                },
-                {
-                    "Channel name": "CricGo 1",
-                    "Language": "English",
-                    "Embed link": "https://cricstreams.org/player.php?id=cricgo1",
-                    "Stream link": "https://playerado.top/news.php?id=cricgo1&v=su"
-                },
-                {
-                    "Channel name": "TNT Cricket",
-                    "Language": "English",
-                    "Embed link": "https://cricstreams.org/player.php?id=crich14",
-                    "Stream link": "https://playerado.top/news.php?id=crich14&v=su"
+                    "Embed link": "https://cricstreams.org/player.php?id=cricgo3",
+                    "Stream link": "https://playerado.top/news.php?id=cricgo3&v=su"
                 }
             ]
         }
