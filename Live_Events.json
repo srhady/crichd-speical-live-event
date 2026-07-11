@@ -2,8 +2,8 @@
     "playlist_name": "Live Sports Events",
     "owner": "Md Sohanur Rahman Hady",
     "telegram": "https://t.me/livesportsplay",
-    "last_updated": "2026-07-11 04:32:29 PM (BD Time)",
-    "total_links": 28,
+    "last_updated": "2026-07-11 05:02:39 PM (BD Time)",
+    "total_links": 32,
     "matches": [
         {
             "Category": "Cricket",
@@ -242,6 +242,42 @@
                     "Language": "English",
                     "Embed link": "https://cricstreams.org/player.php?id=crich2",
                     "Stream link": "https://playerado.top/news.php?id=crich2&v=su"
+                }
+            ]
+        },
+        {
+            "Category": "Cricket",
+            "Tour/Group name": "NZ vs WI",
+            "match name": "1st ODI New Zealand vs West Indies",
+            "Start time": "N/A",
+            "End time": "N/A",
+            "Status": "LIVE",
+            "referer": "https://player0003.com/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Willow Cricket",
+                    "Language": "English",
+                    "Embed link": "https://cricstreams.org/player.php?id=willow",
+                    "Stream link": "https://playerado.top/news.php?id=willow&v=su"
+                },
+                {
+                    "Channel name": "Willow HD",
+                    "Language": "English",
+                    "Embed link": "https://cricstreams.org/player.php?id=willowhd",
+                    "Stream link": "https://playerado.top/news.php?id=willowhd&v=su"
+                },
+                {
+                    "Channel name": "CricGo 1",
+                    "Language": "English",
+                    "Embed link": "https://cricstreams.org/player.php?id=cricgo1",
+                    "Stream link": "https://playerado.top/news.php?id=cricgo1&v=su"
+                },
+                {
+                    "Channel name": "TNT Cricket",
+                    "Language": "English",
+                    "Embed link": "https://cricstreams.org/player.php?id=crich14",
+                    "Stream link": "https://playerado.top/news.php?id=crich14&v=su"
                 }
             ]
         }
