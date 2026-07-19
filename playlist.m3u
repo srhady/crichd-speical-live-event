@@ -5,14 +5,17 @@
 #online channels: 0
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 11:32:26 PM 19-07-2026
+#last update time: 12:02:25 AM 20-07-2026
 
 # --- Cricket Live Events ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20England.png" group-title="Live Cricket", India vs England (SKYSCRIC)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn6.zohanayaan.com:1686/hls/skyscric.m3u8?md5=rDdYKly_cMNIffn5I7iXfg&expires=1784487032
+https://cdn10.zohanayaan.com:1686/hls/skyscric.m3u8?md5=I5MoY8zHLmaKJU4D5f2tUA&expires=1784488835
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20England.png" group-title="Live Cricket", India vs England (WILLOWUSA)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn7.zohanayaan.com:1686/hls/willowusa.m3u8?md5=FH2D44UfSfQKQulKTqV62A&expires=1784487033
+https://cdn5.zohanayaan.com:1686/hls/willowusa.m3u8?md5=JR1cCz832jmVKvI0Y2JjEA&expires=1784488835
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/New%20Zealand%20vs%20West%20Indies.png" group-title="Live Cricket", New Zealand vs West Indies (WILLOWUSA)
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn5.zohanayaan.com:1686/hls/willowusa.m3u8?md5=JR1cCz832jmVKvI0Y2JjEA&expires=1784488835
 
 # --- 24/7 Channels ---
