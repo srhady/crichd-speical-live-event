@@ -2,8 +2,8 @@
     "playlist_name": "Live Sports Events",
     "owner": "Md Sohanur Rahman Hady",
     "telegram": "https://t.me/livesportsplay",
-    "last_updated": "2026-07-23 12:02:31 AM (BD Time)",
-    "total_links": 17,
+    "last_updated": "2026-07-23 12:32:27 AM (BD Time)",
+    "total_links": 21,
     "matches": [
         {
             "Category": "Cricket",
@@ -135,6 +135,42 @@
             "Category": "Cricket",
             "Tour/Group name": "GSL T20",
             "match name": "Lahore Qalandars vs Perth Scorchers",
+            "Start time": "N/A",
+            "End time": "N/A",
+            "Status": "LIVE",
+            "referer": "https://player0003.com/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Willow Cricket",
+                    "Language": "English",
+                    "Embed link": "https://cricstreams.org/player.php?id=willow",
+                    "Stream link": "https://playerado.top/news.php?id=willow&v=su"
+                },
+                {
+                    "Channel name": "A Sports HD",
+                    "Language": "English",
+                    "Embed link": "https://cricstreams.org/player.php?id=asports",
+                    "Stream link": "https://playerado.top/news.php?id=asports&v=su"
+                },
+                {
+                    "Channel name": "Willow HD",
+                    "Language": "English",
+                    "Embed link": "https://cricstreams.org/player.php?id=willowhd",
+                    "Stream link": "https://playerado.top/news.php?id=willowhd&v=su"
+                },
+                {
+                    "Channel name": "CricGo 4",
+                    "Language": "English",
+                    "Embed link": "https://cricstreams.org/player.php?id=cricgo4",
+                    "Stream link": "https://playerado.top/news.php?id=cricgo4&v=su"
+                }
+            ]
+        },
+        {
+            "Category": "Cricket",
+            "Tour/Group name": "GSL T20",
+            "match name": "Guyana Amazon Warriors vs San Francisco Unicorns",
             "Start time": "N/A",
             "End time": "N/A",
             "Status": "LIVE",
