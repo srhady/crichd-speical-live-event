@@ -2,8 +2,8 @@
     "playlist_name": "Live Sports Events",
     "owner": "Md Sohanur Rahman Hady",
     "telegram": "https://t.me/livesportsplay",
-    "last_updated": "2026-07-23 11:02:36 PM (BD Time)",
-    "total_links": 24,
+    "last_updated": "2026-07-23 11:32:31 PM (BD Time)",
+    "total_links": 23,
     "matches": [
         {
             "Category": "Cricket",
@@ -49,24 +49,6 @@
         },
         {
             "Category": "Cricket",
-            "Tour/Group name": "ODI Match",
-            "match name": "Nepal vs Netherlands",
-            "Start time": "N/A",
-            "End time": "N/A",
-            "Status": "LIVE",
-            "referer": "https://player0003.com/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": [
-                {
-                    "Channel name": "CricGo 2",
-                    "Language": "English",
-                    "Embed link": "https://cricstreams.org/player.php?id=cricgo2",
-                    "Stream link": "https://playerado.top/news.php?id=cricgo2&v=su"
-                }
-            ]
-        },
-        {
-            "Category": "Cricket",
             "Tour/Group name": "LPL",
             "match name": "Lanka Premier League 2026",
             "Start time": "N/A",
@@ -92,36 +74,6 @@
                     "Language": "English",
                     "Embed link": "https://cricstreams.org/player.php?id=cricgo5",
                     "Stream link": "https://playerado.top/news.php?id=cricgo5&v=su"
-                }
-            ]
-        },
-        {
-            "Category": "Cricket",
-            "Tour/Group name": "IND vs ZIM",
-            "match name": "India vs Zimbabwe",
-            "Start time": "N/A",
-            "End time": "N/A",
-            "Status": "LIVE",
-            "referer": "https://player0003.com/",
-            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Channels": [
-                {
-                    "Channel name": "CricLife 1",
-                    "Language": "Hindi",
-                    "Embed link": "https://cricstreams.org/player.php?id=criclife1",
-                    "Stream link": "https://playerado.top/news.php?id=criclife1&v=su"
-                },
-                {
-                    "Channel name": "CricLife 2",
-                    "Language": "English",
-                    "Embed link": "https://cricstreams.org/player.php?id=criclife2",
-                    "Stream link": "https://playerado.top/news.php?id=criclife2&v=su"
-                },
-                {
-                    "Channel name": "CricLife 3",
-                    "Language": "English",
-                    "Embed link": "https://cricstreams.org/player.php?id=criclife3",
-                    "Stream link": "https://playerado.top/news.php?id=criclife3&v=su"
                 }
             ]
         },
@@ -230,6 +182,36 @@
                     "Language": "English",
                     "Embed link": "https://cricstreams.org/player.php?id=cricgo4",
                     "Stream link": "https://playerado.top/news.php?id=cricgo4&v=su"
+                }
+            ]
+        },
+        {
+            "Category": "Cricket",
+            "Tour/Group name": "IND vs ZIM",
+            "match name": "India vs Zimbabwe",
+            "Start time": "N/A",
+            "End time": "N/A",
+            "Status": "LIVE",
+            "referer": "https://player0003.com/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "CricLife 1",
+                    "Language": "Hindi",
+                    "Embed link": "https://cricstreams.org/player.php?id=criclife1",
+                    "Stream link": "https://playerado.top/news.php?id=criclife1&v=su"
+                },
+                {
+                    "Channel name": "CricLife 2",
+                    "Language": "English",
+                    "Embed link": "https://cricstreams.org/player.php?id=criclife2",
+                    "Stream link": "https://playerado.top/news.php?id=criclife2&v=su"
+                },
+                {
+                    "Channel name": "CricLife 3",
+                    "Language": "English",
+                    "Embed link": "https://cricstreams.org/player.php?id=criclife3",
+                    "Stream link": "https://playerado.top/news.php?id=criclife3&v=su"
                 }
             ]
         }
