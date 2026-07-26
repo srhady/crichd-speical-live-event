@@ -5,20 +5,20 @@
 #online channels: 0
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 07:02:34 PM 26-07-2026
+#last update time: 07:32:42 PM 26-07-2026
 
 # --- Cricket Live Events ---
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/West%20Indies%20vs%20Pakistan.png" group-title="Live Cricket", West Indies vs Pakistan (WILLOWUSA)
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn7.zohanayaan.com:1686/hls/willowusa.m3u8?md5=C10DaSJdsU15r6oyCgYCuA&expires=1785075634
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/West%20Indies%20vs%20Pakistan.png" group-title="Live Cricket", West Indies vs Pakistan (PTVPK)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn7.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=9K4Mm3LGUbxJJWe-pmyIcQ&expires=1785075634
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Zimbabwe%20vs%20India.png" group-title="Live Cricket", Zimbabwe vs India (SONYTEN1)
+https://cdn8.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=pHRSuDXUhcXpSJfoHojVrw&expires=1785077430
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/West%20Indies%20vs%20Pakistan.png" group-title="Live Cricket", West Indies vs Pakistan (WILLOWUSA)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn5.zohanayaan.com:1686/hls/sonyten1.m3u8?md5=_yAQ09NOBw-zRd3bSymJCg&expires=1785075635
+https://cdn4.zohanayaan.com:1686/hls/willowusa.m3u8?md5=uAdChEb3O9BxsuSzN3sJzA&expires=1785077430
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Zimbabwe%20vs%20India.png" group-title="Live Cricket", Zimbabwe vs India (SONYTEN3)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn1.zohanayaan.com:1686/hls/sonyten3.m3u8?md5=zWWQUb-4DbWp9Pa5TMqIKA&expires=1785075635
+https://cdn8.zohanayaan.com:1686/hls/sonyten3.m3u8?md5=SIZ7r5qhuqzBM5pw6EQ3tQ&expires=1785077430
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Zimbabwe%20vs%20India.png" group-title="Live Cricket", Zimbabwe vs India (SONYTEN1)
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn4.zohanayaan.com:1686/hls/sonyten1.m3u8?md5=VIikrJ-G8A1DvUq6lH__bw&expires=1785077430
 
 # --- 24/7 Channels ---
