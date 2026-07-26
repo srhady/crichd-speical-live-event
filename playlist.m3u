@@ -5,14 +5,14 @@
 #online channels: 0
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 05:32:49 AM 26-07-2026
+#last update time: 06:02:49 AM 26-07-2026
 
 # --- Cricket Live Events ---
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/West%20Indies%20vs%20Pakistan.png" group-title="Live Cricket", West Indies vs Pakistan (PTVPK)
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn2.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=4B9EH-R-55yqxJc1spbVRg&expires=1785027037
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/West%20Indies%20vs%20Pakistan.png" group-title="Live Cricket", West Indies vs Pakistan (WILLOWUSA)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn9.zohanayaan.com:1686/hls/willowusa.m3u8?md5=BVf2fxdreXCuDR6Mys59BA&expires=1785027037
+https://cdn4.zohanayaan.com:1686/hls/willowusa.m3u8?md5=9djVDIGbygDS_n_Prs0C8g&expires=1785028844
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/West%20Indies%20vs%20Pakistan.png" group-title="Live Cricket", West Indies vs Pakistan (PTVPK)
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn10.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=JaiGIn3F4ZZiMh5Zx1DLLg&expires=1785028845
 
 # --- 24/7 Channels ---
