@@ -2,8 +2,8 @@
     "playlist_name": "Live Sports Events",
     "owner": "Md Sohanur Rahman Hady",
     "telegram": "https://t.me/livesportsplay",
-    "last_updated": "2026-08-07 12:34:59 AM (BD Time)",
-    "total_links": 10,
+    "last_updated": "2026-08-07 03:59:55 AM (BD Time)",
+    "total_links": 16,
     "matches": [
         {
             "Category": "Cricket",
@@ -43,8 +43,8 @@
         },
         {
             "Category": "Cricket",
-            "Tour/Group name": "T20 League",
-            "match name": "Delhi Premier League",
+            "Tour/Group name": "AFG vs IRE",
+            "match name": "2nd ODI Afghanistan vs Ireland",
             "Start time": "N/A",
             "End time": "N/A",
             "Status": "LIVE",
@@ -52,16 +52,10 @@
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
                 {
-                    "Channel name": "Star Sports Hindi",
-                    "Language": "Hindi",
-                    "Embed link": "https://cricstreams.org/player.php?id=starsp3",
-                    "Stream link": "https://playerado.top/news.php?id=starsp3&v=su"
-                },
-                {
-                    "Channel name": "CricGo 6",
+                    "Channel name": "CricGo 2",
                     "Language": "English",
-                    "Embed link": "https://cricstreams.org/player.php?id=cricgo6",
-                    "Stream link": "https://playerado.top/news.php?id=cricgo6&v=su"
+                    "Embed link": "https://cricstreams.org/player.php?id=cricgo2",
+                    "Stream link": "https://playerado.top/news.php?id=cricgo2&v=su"
                 }
             ]
         },
@@ -97,8 +91,8 @@
         },
         {
             "Category": "Cricket",
-            "Tour/Group name": "AFG vs IRE",
-            "match name": "2nd ODI Afghanistan vs Ireland",
+            "Tour/Group name": "CPL T20",
+            "match name": "Caribbean Premier League",
             "Start time": "N/A",
             "End time": "N/A",
             "Status": "LIVE",
@@ -106,10 +100,64 @@
             "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Channels": [
                 {
-                    "Channel name": "CricGo 2",
+                    "Channel name": "Willow Cricket",
                     "Language": "English",
-                    "Embed link": "https://cricstreams.org/player.php?id=cricgo2",
-                    "Stream link": "https://playerado.top/news.php?id=cricgo2&v=su"
+                    "Embed link": "https://cricstreams.org/player.php?id=willow",
+                    "Stream link": "https://playerado.top/news.php?id=willow&v=su"
+                },
+                {
+                    "Channel name": "Star Sports 2",
+                    "Language": "English",
+                    "Embed link": "https://cricstreams.org/player.php?id=starsp2",
+                    "Stream link": "https://playerado.top/news.php?id=starsp2&v=su"
+                },
+                {
+                    "Channel name": "Willow HD",
+                    "Language": "English",
+                    "Embed link": "https://cricstreams.org/player.php?id=willowhd",
+                    "Stream link": "https://playerado.top/news.php?id=willowhd&v=su"
+                },
+                {
+                    "Channel name": "TNT Cricket",
+                    "Language": "English",
+                    "Embed link": "https://cricstreams.org/player.php?id=crich12",
+                    "Stream link": "https://playerado.top/news.php?id=crich12&v=su"
+                }
+            ]
+        },
+        {
+            "Category": "Cricket",
+            "Tour/Group name": "CPL T20",
+            "match name": "Falcons vs Kingsmen",
+            "Start time": "N/A",
+            "End time": "N/A",
+            "Status": "LIVE",
+            "referer": "https://player0003.com/",
+            "User agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Channels": [
+                {
+                    "Channel name": "Willow Cricket",
+                    "Language": "English",
+                    "Embed link": "https://cricstreams.org/player.php?id=willow",
+                    "Stream link": "https://playerado.top/news.php?id=willow&v=su"
+                },
+                {
+                    "Channel name": "Star Sports 2",
+                    "Language": "English",
+                    "Embed link": "https://cricstreams.org/player.php?id=starsp2",
+                    "Stream link": "https://playerado.top/news.php?id=starsp2&v=su"
+                },
+                {
+                    "Channel name": "Willow HD",
+                    "Language": "English",
+                    "Embed link": "https://cricstreams.org/player.php?id=willowhd",
+                    "Stream link": "https://playerado.top/news.php?id=willowhd&v=su"
+                },
+                {
+                    "Channel name": "TNT Cricket",
+                    "Language": "English",
+                    "Embed link": "https://cricstreams.org/player.php?id=crich12",
+                    "Stream link": "https://playerado.top/news.php?id=crich12&v=su"
                 }
             ]
         }
