@@ -5,5 +5,24 @@
 #online channels: 0
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 03:32:37 AM 10-08-2026
+#last update time: 04:02:42 AM 10-08-2026
 
+# --- Cricket Live Events ---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Antigua%20and%20Barbuda%20Falcons%20vs%20Saint%20Lucia%20Kings.png" group-title="Caribbean Premier League 2026", Antigua and Barbuda Falcons vs Saint Lucia Kings - Willow Cricket
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://oz2.bhalocast.com:7060/hls/willowsd.m3u8?md5=MDJQvFHYx2trVywekxGosg&expires=1786317653&ch=willowsd&s=4516671da32964daa6500492bb3e1109
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Antigua%20and%20Barbuda%20Falcons%20vs%20Saint%20Lucia%20Kings.png" group-title="Caribbean Premier League 2026", Antigua and Barbuda Falcons vs Saint Lucia Kings - Star Sports 2
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://oz2.bhalocast.com:7060/hls/star2cl5.m3u8?md5=HLpz7XcOyvh2ioDmRh-jKg&expires=1786317656&ch=star2cl5&s=b96aede9c952a588bcdfbfe296e51cb7
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Antigua%20and%20Barbuda%20Falcons%20vs%20Saint%20Lucia%20Kings.png" group-title="Caribbean Premier League 2026", Antigua and Barbuda Falcons vs Saint Lucia Kings - Willow HD
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://dz4.bhalocast.com:7060/hls/hdwillos5.m3u8?md5=v4qRPN4TODI-VcP4f7kPdQ&expires=1786317661&ch=hdwillos5&s=600ccdf2c4e0f5a8366a8d45c1a7a59a
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Antigua%20and%20Barbuda%20Falcons%20vs%20Saint%20Lucia%20Kings.png" group-title="Caribbean Premier League 2026", Antigua and Barbuda Falcons vs Saint Lucia Kings - TNT Cricket
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://oz2.bhalocast.com:7060/hls/bbtsvp2.m3u8?md5=PEAVtzYh_kRn1W0mRt2v-Q&expires=1786317664&ch=bbtsvp2&s=50ba9af5fb8971a83aa46b2db7414d9a
+
+# --- 24/7 Channels ---
