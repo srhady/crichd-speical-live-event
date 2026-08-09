@@ -5,40 +5,48 @@
 #online channels: 0
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 02:32:50 PM 09-08-2026
+#last update time: 03:02:33 PM 09-08-2026
 
 # --- Cricket Live Events ---
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=The+Hundred+2026&font=Oswald" group-title="The Hundred", The Hundred 2026 - Willow Cricket
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://oz2.bhalocast.com:7060/hls/willowsd.m3u8?md5=eHt0qrlNF5frWbRGPpFZoQ&expires=1786267244&ch=willowsd&s=7ad29e5a2c33199c772eedf0bac3da38
+https://oz2.bhalocast.com:7060/hls/willowsd.m3u8?md5=-akuS0HdBzUHPdDn2s4ckQ&expires=1786270847&ch=willowsd&s=4164824c8506b73295d9e8dca5e9e55b
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=The+Hundred+2026&font=Oswald" group-title="The Hundred", The Hundred 2026 - Star Sports 2
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://oz2.bhalocast.com:7060/hls/star2cl5.m3u8?md5=tOrHatDAj3jQ_RqW2UonWw&expires=1786267247&ch=star2cl5&s=61bc67e535ac81878ef69048595638a7
+https://dz4.bhalocast.com:7060/hls/star2cl5.m3u8?md5=kAf8n60rxLRAy3BhdeEm8Q&expires=1786270851&ch=star2cl5&s=caacb46ad4432974fbd0a4df70d25c44
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=The+Hundred+2026&font=Oswald" group-title="The Hundred", The Hundred 2026 - Willow HD
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://oz2.bhalocast.com:7060/hls/hdwillos5.m3u8?md5=E-dUQZ726a6GcGEL3Ecfng&expires=1786267250&ch=hdwillos5&s=253cfc8ea7cf1b6cfdb0ce2a5a6ef5ce
+https://dz4.bhalocast.com:7060/hls/hdwillos5.m3u8?md5=ZgIfQW6afggPQU0fHYd8TA&expires=1786270854&ch=hdwillos5&s=0a256f66b7c14fbd1de8370f665ccfed
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=India+vs+SLC&font=Oswald" group-title="IND vs SL", India vs SLC - Sony Sports Ten 1
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://oz2.bhalocast.com:7060/hls/ten1co.m3u8?md5=izmlgWdzUAER6IlEYavQFA&expires=1786267258&ch=ten1co&s=d8c254b5805708977f40166a1e775858
+https://dz4.bhalocast.com:7060/hls/ten1co.m3u8?md5=4-AmZDXQ6lGDPx8xRX1zrA&expires=1786270862&ch=ten1co&s=4afacd9cc41f758babf2e126dc1a6e0f
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=India+vs+SLC&font=Oswald" group-title="IND vs SL", India vs SLC - Sony Sports Ten 3
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://dz4.bhalocast.com:7060/hls/ten3sd.m3u8?md5=DA_B-hyrnLLDuJ_Rhsuc0g&expires=1786267261&ch=ten3sd&s=be14b28a8c2a7e24caaf13b499519f69
+https://dz4.bhalocast.com:7060/hls/ten3sd.m3u8?md5=JYmPBAT3lPQpOR7e1PNbGw&expires=1786270866&ch=ten3sd&s=a0af9bd2a2a07b6323b132839a168cc1
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=India+vs+SLC&font=Oswald" group-title="IND vs SL", India vs SLC - CricGo 1
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://oz2.bhalocast.com:7060/hls/cricgo1.m3u8?md5=AgUa5aIYH5KKw4NTjPgBOQ&expires=1786270868&ch=cricgo1&s=039a37c9728e0fb937c22a5da73cc868
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=Caribbean+Premier+League&font=Oswald" group-title="CPL T20", Caribbean Premier League - Willow Cricket
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://oz2.bhalocast.com:7060/hls/willowsd.m3u8?md5=eHt0qrlNF5frWbRGPpFZoQ&expires=1786267244&ch=willowsd&s=7ad29e5a2c33199c772eedf0bac3da38
+https://oz2.bhalocast.com:7060/hls/willowsd.m3u8?md5=-akuS0HdBzUHPdDn2s4ckQ&expires=1786270847&ch=willowsd&s=4164824c8506b73295d9e8dca5e9e55b
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=Caribbean+Premier+League&font=Oswald" group-title="CPL T20", Caribbean Premier League - Star Sports 2
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://oz2.bhalocast.com:7060/hls/star2cl5.m3u8?md5=tOrHatDAj3jQ_RqW2UonWw&expires=1786267247&ch=star2cl5&s=61bc67e535ac81878ef69048595638a7
+https://dz4.bhalocast.com:7060/hls/star2cl5.m3u8?md5=kAf8n60rxLRAy3BhdeEm8Q&expires=1786270851&ch=star2cl5&s=caacb46ad4432974fbd0a4df70d25c44
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=Caribbean+Premier+League&font=Oswald" group-title="CPL T20", Caribbean Premier League - Willow HD
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://oz2.bhalocast.com:7060/hls/hdwillos5.m3u8?md5=E-dUQZ726a6GcGEL3Ecfng&expires=1786267250&ch=hdwillos5&s=253cfc8ea7cf1b6cfdb0ce2a5a6ef5ce
+https://dz4.bhalocast.com:7060/hls/hdwillos5.m3u8?md5=ZgIfQW6afggPQU0fHYd8TA&expires=1786270854&ch=hdwillos5&s=0a256f66b7c14fbd1de8370f665ccfed
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=Caribbean+Premier+League&font=Oswald" group-title="CPL T20", Caribbean Premier League - TNT Cricket
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://oz2.bhalocast.com:7060/hls/bbtsvp2.m3u8?md5=dz9KUX3XeH1V4L4cGc8tog&expires=1786270874&ch=bbtsvp2&s=cc9c67151a2664cd1d342e95bcb32853
 
 # --- 24/7 Channels ---
