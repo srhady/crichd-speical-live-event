@@ -5,5 +5,20 @@
 #online channels: 0
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 07:02:39 PM 09-08-2026
+#last update time: 07:32:41 PM 09-08-2026
 
+# --- Cricket Live Events ---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Leeds%20vs%20Welsh%20Fire.png" group-title="The Hundred Men's Competition 2026", Sunrisers Leeds vs Welsh Fire - Willow Cricket
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://oz2.bhalocast.com:7060/hls/willowsd.m3u8?md5=rA1nqrg1vMyFNvWLLmXczQ&expires=1786286021&ch=willowsd&s=0d58d3f81693c23c1777debdd898930d
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Leeds%20vs%20Welsh%20Fire.png" group-title="The Hundred Men's Competition 2026", Sunrisers Leeds vs Welsh Fire - Star Sports 2
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://dz4.bhalocast.com:7060/hls/star2cl5.m3u8?md5=D5DePLSqh1vqoEms1knH8A&expires=1786286024&ch=star2cl5&s=5a5e28ed2fc0d506e00c72f8e56d072d
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Leeds%20vs%20Welsh%20Fire.png" group-title="The Hundred Men's Competition 2026", Sunrisers Leeds vs Welsh Fire - Willow HD
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://oz2.bhalocast.com:7060/hls/hdwillos5.m3u8?md5=W5-dgKv4iQv9bntpK_FG0w&expires=1786286027&ch=hdwillos5&s=83f127ba7425472d2bb8d50b5bdb2123
+
+# --- 24/7 Channels ---
