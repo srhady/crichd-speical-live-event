@@ -5,20 +5,24 @@
 #online channels: 0
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:32:37 PM 09-08-2026
+#last update time: 11:02:41 PM 09-08-2026
 
 # --- Cricket Live Events ---
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Leeds%20vs%20Welsh%20Fire.png" group-title="The Hundred Men's Competition 2026", Sunrisers Leeds vs Welsh Fire - Willow Cricket
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Birmingham%20Phoenix%20vs%20London%20Spirit.png" group-title="The Hundred Men's Competition 2026", Birmingham Phoenix vs London Spirit - Willow Cricket
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://oz2.bhalocast.com:7060/hls/willowsd.m3u8?md5=w66q1XDYu56KprKYuA4eeg&expires=1786296042&ch=willowsd&s=27b9d28c3c16bdd639573fe125e9d5e9
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Leeds%20vs%20Welsh%20Fire.png" group-title="The Hundred Men's Competition 2026", Sunrisers Leeds vs Welsh Fire - Star Sports 2
+https://dz4.bhalocast.com:7060/hls/willowsd.m3u8?md5=dNEWymvNkFqEmRCbHKasgA&expires=1786299640&ch=willowsd&s=9ed3291f7fed36d2dce26b5bd46367b5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Birmingham%20Phoenix%20vs%20London%20Spirit.png" group-title="The Hundred Men's Competition 2026", Birmingham Phoenix vs London Spirit - Star Sports 2
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://dz4.bhalocast.com:7060/hls/star2cl5.m3u8?md5=HdNVuRDedraiYw1KyCDHwQ&expires=1786296044&ch=star2cl5&s=cf4bd65cfae122adc4205bd93dc68256
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Leeds%20vs%20Welsh%20Fire.png" group-title="The Hundred Men's Competition 2026", Sunrisers Leeds vs Welsh Fire - Willow HD
+https://dz4.bhalocast.com:7060/hls/star2cl5.m3u8?md5=MapHxztY-1a65CqmarbtZg&expires=1786299645&ch=star2cl5&s=256f8f81e76b849f02e4469151db4dd0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Birmingham%20Phoenix%20vs%20London%20Spirit.png" group-title="The Hundred Men's Competition 2026", Birmingham Phoenix vs London Spirit - Willow HD
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://oz2.bhalocast.com:7060/hls/hdwillos5.m3u8?md5=YPtp8ScSV5ejDI5_duHaiw&expires=1786296047&ch=hdwillos5&s=b11d4c9ccfdeddae0e45485e80dd7eb6
+https://dz4.bhalocast.com:7060/hls/hdwillos5.m3u8?md5=h2EkYKXDA9BlBwWPU3E7tw&expires=1786299650&ch=hdwillos5&s=1978f728badcf198e1389b35e2abc477
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Birmingham%20Phoenix%20vs%20London%20Spirit.png" group-title="The Hundred Men's Competition 2026", Birmingham Phoenix vs London Spirit - Sky Cricket
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://oz2.bhalocast.com:7060/hls/dodosky2.m3u8?md5=cQkyBPzStVTw_hqHMH6G2Q&expires=1786299653&ch=dodosky2&s=1837fc807c2629c16c7f151bd2488540
 
 # --- 24/7 Channels ---
