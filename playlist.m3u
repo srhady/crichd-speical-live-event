@@ -5,20 +5,32 @@
 #online channels: 0
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 06:32:31 PM 10-08-2026
+#last update time: 07:02:28 PM 10-08-2026
 
 # --- Cricket Live Events ---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Trent%20Rockets%20Women%20vs%20Southern%20Brave%20Women.png" group-title="The Hundred Women's Competition 2026", Trent Rockets Women vs Southern Brave Women - Willow Cricket
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://dz4.bhalocast.com:7060/hls/willowsd.m3u8?md5=_dRE_t-VOKi-OlGruHZIbg&expires=1786371648&ch=willowsd&s=b625c8826e9fd5e4a40678cfe9770240
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Trent%20Rockets%20Women%20vs%20Southern%20Brave%20Women.png" group-title="The Hundred Women's Competition 2026", Trent Rockets Women vs Southern Brave Women - Star Sports 2
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://dz4.bhalocast.com:7060/hls/star2cl5.m3u8?md5=tNUPzneYiFDP5225oUclkg&expires=1786371656&ch=star2cl5&s=c65f7128902db3cbf348c0cbf7b302ee
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Trent%20Rockets%20Women%20vs%20Southern%20Brave%20Women.png" group-title="The Hundred Women's Competition 2026", Trent Rockets Women vs Southern Brave Women - Willow HD
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://dz4.bhalocast.com:7060/hls/hdwillos5.m3u8?md5=xcGMExDk3vJFDl9Z96omjg&expires=1786371660&ch=hdwillos5&s=4f288dbca43cb5e5096b73fa65e09501
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Ireland%20vs%20Afghanistan.png" group-title="Afghanistan tour of Ireland, 2026", Ireland vs Afghanistan - Willow Cricket
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://dz4.bhalocast.com:7060/hls/willowsd.m3u8?md5=LiOZ8COyGzVxbXQ9fnZbrw&expires=1786368051&ch=willowsd&s=142a2c1d531ed978ae487af83a1ffb1d
+https://dz4.bhalocast.com:7060/hls/willowsd.m3u8?md5=_dRE_t-VOKi-OlGruHZIbg&expires=1786371648&ch=willowsd&s=b625c8826e9fd5e4a40678cfe9770240
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Ireland%20vs%20Afghanistan.png" group-title="Afghanistan tour of Ireland, 2026", Ireland vs Afghanistan - Willow HD
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://dz4.bhalocast.com:7060/hls/hdwillos5.m3u8?md5=yDdVau9NlDebSjWUPYRRFA&expires=1786368055&ch=hdwillos5&s=541d7c32f3514a6eff2e9a9354569f17
+https://dz4.bhalocast.com:7060/hls/hdwillos5.m3u8?md5=xcGMExDk3vJFDl9Z96omjg&expires=1786371660&ch=hdwillos5&s=4f288dbca43cb5e5096b73fa65e09501
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Ireland%20vs%20Afghanistan.png" group-title="Afghanistan tour of Ireland, 2026", Ireland vs Afghanistan - CricGo 2
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://oz2.bhalocast.com:7060/hls/cricgo2.m3u8?md5=sFRISKSDgVY-5Od_2H7DxQ&expires=1786368058&ch=cricgo2&s=a71a39631788f03215b58dd04369ea78
+https://dz4.bhalocast.com:7060/hls/cricgo2.m3u8?md5=trLltD4JAW-ltxp5aOUWUg&expires=1786371672&ch=cricgo2&s=c463aad24c8a267396594f2b34feb696
 
 # --- 24/7 Channels ---
