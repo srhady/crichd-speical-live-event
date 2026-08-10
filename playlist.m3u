@@ -5,5 +5,36 @@
 #online channels: 0
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 02:32:30 PM 10-08-2026
+#last update time: 03:02:30 PM 10-08-2026
 
+# --- Cricket Live Events ---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/East%20Delhi%20Riders%20vs%20West%20Delhi%20Lions.png" group-title="Delhi Premier League 2026", East Delhi Riders vs West Delhi Lions - Willow Cricket
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://oz2.bhalocast.com:7060/hls/willowsd.m3u8?md5=ATsJJGvpWIQSVj-Tvnqmrw&expires=1786357247&ch=willowsd&s=37ad669b894274bb8860b5a1f586b448
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/East%20Delhi%20Riders%20vs%20West%20Delhi%20Lions.png" group-title="Delhi Premier League 2026", East Delhi Riders vs West Delhi Lions - Star Sports 2
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://dz4.bhalocast.com:7060/hls/star2cl5.m3u8?md5=W3HzCGcxtToiMQZSCg-lnw&expires=1786357251&ch=star2cl5&s=3a0a790bc256e6eef678a8d2cb30312c
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/East%20Delhi%20Riders%20vs%20West%20Delhi%20Lions.png" group-title="Delhi Premier League 2026", East Delhi Riders vs West Delhi Lions - Willow HD
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://dz4.bhalocast.com:7060/hls/hdwillos5.m3u8?md5=a4Vs9doGYpBb6nwp0IzFmA&expires=1786357255&ch=hdwillos5&s=fe0db4dcc0d9e278d4e664d9b236e132
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/East%20Delhi%20Riders%20vs%20West%20Delhi%20Lions.png" group-title="Delhi Premier League 2026", East Delhi Riders vs West Delhi Lions - TNT Cricket
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://oz2.bhalocast.com:7060/hls/bbtsvp2.m3u8?md5=CHn-I3aULfNEm-4QJrxQwA&expires=1786357258&ch=bbtsvp2&s=79b23ec224fdb5b0cbf42143bdc1eb81
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Ireland%20vs%20Afghanistan.png" group-title="Afghanistan tour of Ireland, 2026", Ireland vs Afghanistan - Willow Cricket
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://oz2.bhalocast.com:7060/hls/willowsd.m3u8?md5=ATsJJGvpWIQSVj-Tvnqmrw&expires=1786357247&ch=willowsd&s=37ad669b894274bb8860b5a1f586b448
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Ireland%20vs%20Afghanistan.png" group-title="Afghanistan tour of Ireland, 2026", Ireland vs Afghanistan - Willow HD
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://dz4.bhalocast.com:7060/hls/hdwillos5.m3u8?md5=a4Vs9doGYpBb6nwp0IzFmA&expires=1786357255&ch=hdwillos5&s=fe0db4dcc0d9e278d4e664d9b236e132
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Ireland%20vs%20Afghanistan.png" group-title="Afghanistan tour of Ireland, 2026", Ireland vs Afghanistan - CricGo 2
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://dz4.bhalocast.com:7060/hls/cricgo2.m3u8?md5=9pQlFjTWtH7EsifCVZviXA&expires=1786357266&ch=cricgo2&s=f7e5ad8f61fb73c1e65f2ce3d5889137
+
+# --- 24/7 Channels ---
