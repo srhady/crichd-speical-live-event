@@ -5,16 +5,20 @@
 #online channels: 0
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:02:30 AM 12-08-2026
+#last update time: 12:32:56 AM 12-08-2026
 
 # --- Cricket Live Events ---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Leeds%20vs%20Manchester%20Super%20Giants.png" group-title="The Hundred Men's Competition 2026", Sunrisers Leeds vs Manchester Super Giants - Willow Cricket
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://oz2.bhalocast.com:7060/hls/willowsd.m3u8?md5=bgOWxVhUVIalPJXGzXp6Mg&expires=1786476048&ch=willowsd&s=dcca33c84fb1c90690974a9e9f8925af
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Leeds%20vs%20Manchester%20Super%20Giants.png" group-title="The Hundred Men's Competition 2026", Sunrisers Leeds vs Manchester Super Giants - Star Sports 2
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://oz2.bhalocast.com:7060/hls/star2cl5.m3u8?md5=OhpqGLq3bkLLuNJAH9pjiQ&expires=1786472463&ch=star2cl5&s=5717f5c7486935772fd2a771feef06ab
+https://oz2.bhalocast.com:7060/hls/star2cl5.m3u8?md5=RKn4aexJ0tTSxRjLTnfCqg&expires=1786476051&ch=star2cl5&s=128a591aa3ce4cc10f080dda044e25de
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Leeds%20vs%20Manchester%20Super%20Giants.png" group-title="The Hundred Men's Competition 2026", Sunrisers Leeds vs Manchester Super Giants - Willow HD
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://oz2.bhalocast.com:7060/hls/hdwillos5.m3u8?md5=Kt4s0vriI4jJI7cUx1cG4w&expires=1786472466&ch=hdwillos5&s=031c88547b7a59b0d7302a40bdeba04c
+https://dz4.bhalocast.com:7060/hls/hdwillos5.m3u8?md5=0p3w_8OEYLmBl5NzYX5H2g&expires=1786476054&ch=hdwillos5&s=282b039347972b917f48b25fd0d60584
 
 # --- 24/7 Channels ---
