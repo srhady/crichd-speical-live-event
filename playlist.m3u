@@ -5,16 +5,28 @@
 #online channels: 0
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 03:33:09 PM 12-08-2026
+#last update time: 04:03:23 PM 12-08-2026
 
 # --- Cricket Live Events ---
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Ireland%20vs%20Afghanistan.png" group-title="Afghanistan tour of Ireland, 2026", Ireland vs Afghanistan - Willow Cricket
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Welsh%20Fire%20Women%20vs%20London%20Spirit%20Women.png" group-title="The Hundred Women's Competition 2026", Welsh Fire Women vs London Spirit Women - Star Sports 2
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://dz4.bhalocast.com:7060/hls/willowsd.m3u8?md5=akPM10ScXotz-cxmspaBfw&expires=1786530050&ch=willowsd&s=2ec6e7a3861d713f37dcf70d54cf6930
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Ireland%20vs%20Afghanistan.png" group-title="Afghanistan tour of Ireland, 2026", Ireland vs Afghanistan - CricGo 2
+https://oz2.bhalocast.com:7060/hls/star2cl5.m3u8?md5=IAZmlbcHy7WNXJRoTYkjhQ&expires=1786533664&ch=star2cl5&s=3efa57fafd4f66ac695410a5cbb8856e
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Welsh%20Fire%20Women%20vs%20London%20Spirit%20Women.png" group-title="The Hundred Women's Competition 2026", Welsh Fire Women vs London Spirit Women - Willow HD
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://oz2.bhalocast.com:7060/hls/cricgo2.m3u8?md5=dwqyDGgWnbK2lcXOPlnfYw&expires=1786530070&ch=cricgo2&s=2342f7b030892e336dbd2355a07a0a49
+https://oz2.bhalocast.com:7060/hls/hdwillos5.m3u8?md5=bOA3fEOEbOjtyuiQS0-2Pw&expires=1786533667&ch=hdwillos5&s=6e21fdc354601e41ab048f80cf2ceb72
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Welsh%20Fire%20Women%20vs%20London%20Spirit%20Women.png" group-title="The Hundred Women's Competition 2026", Welsh Fire Women vs London Spirit Women - Sky Cricket
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://oz2.bhalocast.com:7060/hls/dodosky2.m3u8?md5=lTpvS2wHYsduoS0_zC_O4w&expires=1786533670&ch=dodosky2&s=7c4e2dcb8b3eea1abebe8a787d1711b1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Afghanistan%20vs%20Ireland.png" group-title="Afghanistan tour of Ireland, 2026", Afghanistan vs Ireland - Willow HD
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://oz2.bhalocast.com:7060/hls/hdwillos5.m3u8?md5=bOA3fEOEbOjtyuiQS0-2Pw&expires=1786533667&ch=hdwillos5&s=6e21fdc354601e41ab048f80cf2ceb72
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Afghanistan%20vs%20Ireland.png" group-title="Afghanistan tour of Ireland, 2026", Afghanistan vs Ireland - CricGo 2
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://dz4.bhalocast.com:7060/hls/cricgo2.m3u8?md5=vhHUZIXQQIIY1h8Uf4qF9Q&expires=1786533675&ch=cricgo2&s=4cd0a3761176d24a29c956045083d8ce
 
 # --- 24/7 Channels ---
