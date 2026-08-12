@@ -5,5 +5,24 @@
 #online channels: 0
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 03:33:33 AM 13-08-2026
+#last update time: 04:03:28 AM 13-08-2026
 
+# --- Cricket Live Events ---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Saint%20Lucia%20Kings%20vs%20St%20Kitts%20and%20Nevis%20Patriots.png" group-title="Caribbean Premier League 2026", Saint Lucia Kings vs St Kitts and Nevis Patriots - Willow Cricket
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://oz2.bhalocast.com:7060/hls/willowsd.m3u8?md5=en6bAQmsGfCh10m0zL2IKw&expires=1786576849&ch=willowsd&s=ec3e108ec038f993b3fd83e15b53a3d9
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Saint%20Lucia%20Kings%20vs%20St%20Kitts%20and%20Nevis%20Patriots.png" group-title="Caribbean Premier League 2026", Saint Lucia Kings vs St Kitts and Nevis Patriots - Star Sports 2
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://oz2.bhalocast.com:7060/hls/star2cl5.m3u8?md5=JFEcmMXKLtcsxYOhWWnn6Q&expires=1786576852&ch=star2cl5&s=bb1c0a415b2dd69e06d37c089019d28b
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Saint%20Lucia%20Kings%20vs%20St%20Kitts%20and%20Nevis%20Patriots.png" group-title="Caribbean Premier League 2026", Saint Lucia Kings vs St Kitts and Nevis Patriots - Willow HD
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://oz2.bhalocast.com:7060/hls/hdwillos5.m3u8?md5=2BvvGSzKuHLsvg0tBYO3nQ&expires=1786576855&ch=hdwillos5&s=21c30d20149146528370582391270245
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Saint%20Lucia%20Kings%20vs%20St%20Kitts%20and%20Nevis%20Patriots.png" group-title="Caribbean Premier League 2026", Saint Lucia Kings vs St Kitts and Nevis Patriots - TNT Cricket
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://oz2.bhalocast.com:7060/hls/bbtsvp2.m3u8?md5=L9uE4nlBFBRNe2XvB_3fBg&expires=1786576858&ch=bbtsvp2&s=b3fec020df21174042ba76923e0feead
+
+# --- 24/7 Channels ---
