@@ -5,32 +5,28 @@
 #online channels: 0
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 09:33:31 PM 12-08-2026
+#last update time: 10:03:27 PM 12-08-2026
 
 # --- Cricket Live Events ---
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/London%20Spirit%20vs%20Welsh%20Fire.png" group-title="The Hundred Men's Competition 2026", London Spirit vs Welsh Fire - Willow Cricket
-#EXTVLCOPT:http-referrer=https://bhalocast.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://dz4.bhalocast.com:7060/hls/willowsd.m3u8?md5=Rboq-6-BpEwC4geOkTPIbg&expires=1786551652&ch=willowsd&s=12be3af1ed855a9c7769afd7d38fad8c
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/London%20Spirit%20vs%20Welsh%20Fire.png" group-title="The Hundred Men's Competition 2026", London Spirit vs Welsh Fire - Star Sports 2
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://oz2.bhalocast.com:7060/hls/star2cl5.m3u8?md5=dltcPne3MPuSPCJRypA07g&expires=1786551655&ch=star2cl5&s=576f0f41eb420862596d9d9448178ddb
+https://oz2.bhalocast.com:7060/hls/star2cl5.m3u8?md5=HAZEDR075NJ3SwNKPLlRhQ&expires=1786555257&ch=star2cl5&s=cce1073ce9a54477e997edf03b8af4dc
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/London%20Spirit%20vs%20Welsh%20Fire.png" group-title="The Hundred Men's Competition 2026", London Spirit vs Welsh Fire - Willow HD
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://oz2.bhalocast.com:7060/hls/hdwillos5.m3u8?md5=14NLR5C4sG-mJRui1fgpEw&expires=1786551658&ch=hdwillos5&s=996c2bab76c0c7a8b3adc8b0a8a3869a
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Afghanistan%20vs%20Ireland.png" group-title="Afghanistan tour of Ireland, 2026", Afghanistan vs Ireland - Willow Cricket
+https://oz2.bhalocast.com:7060/hls/hdwillos5.m3u8?md5=8OhQBEGAJczIIP4lcbwDyw&expires=1786555260&ch=hdwillos5&s=8031325b5ca0272248835287ca66ae92
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/London%20Spirit%20vs%20Welsh%20Fire.png" group-title="The Hundred Men's Competition 2026", London Spirit vs Welsh Fire - Sky Cricket
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://dz4.bhalocast.com:7060/hls/willowsd.m3u8?md5=Rboq-6-BpEwC4geOkTPIbg&expires=1786551652&ch=willowsd&s=12be3af1ed855a9c7769afd7d38fad8c
+https://oz2.bhalocast.com:7060/hls/dodosky2.m3u8?md5=cBfW55jZNZzRWkcFk-t0sw&expires=1786555264&ch=dodosky2&s=153ae2aeec610d6f161b10188897afb5
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Afghanistan%20vs%20Ireland.png" group-title="Afghanistan tour of Ireland, 2026", Afghanistan vs Ireland - Willow HD
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://oz2.bhalocast.com:7060/hls/hdwillos5.m3u8?md5=14NLR5C4sG-mJRui1fgpEw&expires=1786551658&ch=hdwillos5&s=996c2bab76c0c7a8b3adc8b0a8a3869a
+https://oz2.bhalocast.com:7060/hls/hdwillos5.m3u8?md5=8OhQBEGAJczIIP4lcbwDyw&expires=1786555260&ch=hdwillos5&s=8031325b5ca0272248835287ca66ae92
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Afghanistan%20vs%20Ireland.png" group-title="Afghanistan tour of Ireland, 2026", Afghanistan vs Ireland - CricGo 2
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://dz4.bhalocast.com:7060/hls/cricgo2.m3u8?md5=4QGdVFPDGe5vbyrCkybROw&expires=1786551665&ch=cricgo2&s=54a8062589fd43a5e1aa72a6eb584f8e
+https://oz2.bhalocast.com:7060/hls/cricgo2.m3u8?md5=l2i0suslbe-q3JZjhwq1HA&expires=1786555270&ch=cricgo2&s=a1ec63b0b3fd1729a091e08127cefc02
 
 # --- 24/7 Channels ---
