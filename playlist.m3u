@@ -5,5 +5,20 @@
 #online channels: 0
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 03:33:18 AM 15-08-2026
+#last update time: 04:02:59 AM 15-08-2026
 
+# --- Cricket Live Events ---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Saint%20Lucia%20Kings%20vs%20Antigua%20and%20Barbuda%20Falcons.png" group-title="Caribbean Premier League 2026", Saint Lucia Kings vs Antigua and Barbuda Falcons - Willow Cricket
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://oz2.bhalocast.com:7060/hls/willowsd.m3u8?md5=8gNgUuQm69EuhbYso3UGcA&expires=1786749640&ch=willowsd&s=f1390eb04626f6678c9478ee902ad5c8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Saint%20Lucia%20Kings%20vs%20Antigua%20and%20Barbuda%20Falcons.png" group-title="Caribbean Premier League 2026", Saint Lucia Kings vs Antigua and Barbuda Falcons - Star Sports 2
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://dz4.bhalocast.com:7060/hls/star2cl5.m3u8?md5=gjoljA2vdjUm7IWiTcKHbg&expires=1786749644&ch=star2cl5&s=42568e25a288845b13a915830c0dd287
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Saint%20Lucia%20Kings%20vs%20Antigua%20and%20Barbuda%20Falcons.png" group-title="Caribbean Premier League 2026", Saint Lucia Kings vs Antigua and Barbuda Falcons - CricGo 5
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://oz2.bhalocast.com:7060/hls/cricgo5.m3u8?md5=uwOSycBDbNBPM2gx5pawJQ&expires=1786749648&ch=cricgo5&s=4cc614a4832d6b636310ab4fd589170d
+
+# --- 24/7 Channels ---
