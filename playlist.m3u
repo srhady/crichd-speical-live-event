@@ -5,5 +5,24 @@
 #online channels: 0
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 03:32:23 AM 17-08-2026
+#last update time: 04:02:21 AM 17-08-2026
 
+# --- Cricket Live Events ---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Saint%20Lucia%20Kings%20vs%20Barbados%20Tridents.png" group-title="Caribbean Premier League 2026", Saint Lucia Kings vs Barbados Tridents - Willow Cricket
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz02.playerr03.com:7060/hls/willowsd.m3u8?md5=QNwoPIjwEljgrVdijweXSA&expires=1786922437&ch=willowsd&s=MTE0LjEzMC4xNTYuMTgx
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Saint%20Lucia%20Kings%20vs%20Barbados%20Tridents.png" group-title="Caribbean Premier League 2026", Saint Lucia Kings vs Barbados Tridents - Star Sports 2
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz02.playerr03.com:7060/hls/star2cl5.m3u8?md5=jW9oCMmLNw0L8qblQtT1oA&expires=1786922440&ch=star2cl5&s=MTYzLjIyNy4xNDQuMTMx
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Saint%20Lucia%20Kings%20vs%20Barbados%20Tridents.png" group-title="Caribbean Premier League 2026", Saint Lucia Kings vs Barbados Tridents - Willow HD
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz01.playerr03.com:7060/hls/hdwillos5.m3u8?md5=FfunOomReips2O-u4oTU9A&expires=1786922445&ch=hdwillos5&s=MTAzLjE1My4xNTUuMTE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Saint%20Lucia%20Kings%20vs%20Barbados%20Tridents.png" group-title="Caribbean Premier League 2026", Saint Lucia Kings vs Barbados Tridents - CricGo 5
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz02.playerr03.com:7060/hls/cricgo5.m3u8?md5=1UJ89gTsSDA-TEfyBwAa_Q&expires=1786922448&ch=cricgo5&s=MTAzLjE0OC4xMTUuMzk
+
+# --- 24/7 Channels ---
