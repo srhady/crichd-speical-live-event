@@ -5,5 +5,24 @@
 #online channels: 0
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 03:32:54 AM 21-08-2026
+#last update time: 04:02:47 AM 21-08-2026
 
+# --- Cricket Live Events ---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Antigua%20and%20Barbuda%20Falcons%20vs%20St%20Kitts%20and%20Nevis%20Patriots.png" group-title="Caribbean Premier League 2026", Antigua and Barbuda Falcons vs St Kitts and Nevis Patriots - Willow Cricket
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz02.playerr03.com:7060/hls/willowsd.m3u8?md5=2J9q2lqNiSA6cbxxyzq1RQ&expires=1787268037&ch=willowsd&s=NDUuMTE4LjI0Ni45
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Antigua%20and%20Barbuda%20Falcons%20vs%20St%20Kitts%20and%20Nevis%20Patriots.png" group-title="Caribbean Premier League 2026", Antigua and Barbuda Falcons vs St Kitts and Nevis Patriots - Star Sports 2
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz01.playerr03.com:7060/hls/star2cl5.m3u8?md5=OH1HH209qOXWOaPYPp7QoQ&expires=1787268041&ch=star2cl5&s=MTE5LjQwLjgzLjI1Mg
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Antigua%20and%20Barbuda%20Falcons%20vs%20St%20Kitts%20and%20Nevis%20Patriots.png" group-title="Caribbean Premier League 2026", Antigua and Barbuda Falcons vs St Kitts and Nevis Patriots - Willow HD
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz01.playerr03.com:7060/hls/hdwillos5.m3u8?md5=OZ-Gnlq21jgp8emCKbkckg&expires=1787268045&ch=hdwillos5&s=MTAzLjk2LjEwNy4yNTM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Antigua%20and%20Barbuda%20Falcons%20vs%20St%20Kitts%20and%20Nevis%20Patriots.png" group-title="Caribbean Premier League 2026", Antigua and Barbuda Falcons vs St Kitts and Nevis Patriots - CricGo 5
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz01.playerr03.com:7060/hls/cricgo5.m3u8?md5=vdrboE9ZOmyDh7uGFlxzjg&expires=1787268047&ch=cricgo5&s=MTAzLjEwNy4xNjIuMTU
+
+# --- 24/7 Channels ---
