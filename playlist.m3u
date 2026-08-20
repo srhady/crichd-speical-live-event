@@ -5,5 +5,24 @@
 #online channels: 0
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 07:32:50 AM 20-08-2026
+#last update time: 08:02:46 AM 20-08-2026
 
+# --- Cricket Live Events ---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Saint%20Lucia%20Kings%20vs%20Guyana%20Amazon%20Warriors.png" group-title="Caribbean Premier League 2026", Saint Lucia Kings vs Guyana Amazon Warriors - Willow Cricket
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz01.playerr03.com:7060/hls/willowsd.m3u8?md5=ovnn9_fwqEhQPEOLRE6sSA&expires=1787196036&ch=willowsd&s=MTAzLjYwLjIwNS4xNw
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Saint%20Lucia%20Kings%20vs%20Guyana%20Amazon%20Warriors.png" group-title="Caribbean Premier League 2026", Saint Lucia Kings vs Guyana Amazon Warriors - Star Sports 2
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz01.playerr03.com:7060/hls/star2cl5.m3u8?md5=mB3M1RH66HZ2wrKX8_eLEQ&expires=1787196041&ch=star2cl5&s=MjAzLjc2LjEyMy45NA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Saint%20Lucia%20Kings%20vs%20Guyana%20Amazon%20Warriors.png" group-title="Caribbean Premier League 2026", Saint Lucia Kings vs Guyana Amazon Warriors - CricGo 5
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz01.playerr03.com:7060/hls/cricgo5.m3u8?md5=l46YeNNg9SsZ84-9CQ4kDA&expires=1787196052&ch=cricgo5&s=MTAzLjEzOC4yNTAuNTc
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Saint%20Lucia%20Kings%20vs%20Guyana%20Amazon%20Warriors.png" group-title="Caribbean Premier League 2026", Saint Lucia Kings vs Guyana Amazon Warriors - TNT Cricket
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz02.playerr03.com:7060/hls/bbtsip1.m3u8?md5=KdeDQkUNd-BveXG4OB5W6w&expires=1787196057&ch=bbtsip1&s=MTAzLjg1LjE1OC40Ng
+
+# --- 24/7 Channels ---
