@@ -5,5 +5,28 @@
 #online channels: 0
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 04:32:41 AM 27-08-2026
+#last update time: 05:02:58 AM 27-08-2026
 
+# --- Cricket Live Events ---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Saint%20Lucia%20Kings%20vs%20Trinbago%20Knight%20Riders.png" group-title="Caribbean Premier League 2026", Saint Lucia Kings vs Trinbago Knight Riders - Willow Cricket
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz01.playerr03.com:7060/hls/willowsd.m3u8?md5=MISiAkE3FX54hxd7j5PpUQ&expires=1787790039&ch=willowsd&s=076e11157d56fe9bfc643ca8cfe290d9
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Saint%20Lucia%20Kings%20vs%20Trinbago%20Knight%20Riders.png" group-title="Caribbean Premier League 2026", Saint Lucia Kings vs Trinbago Knight Riders - Star Sports 2
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz01.playerr03.com:7060/hls/star2cl5.m3u8?md5=y03mxsqGCfMbl8QG4k2iaA&expires=1787790042&ch=star2cl5&s=ea9bd73e105be3ad850dff85ed67b470
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Saint%20Lucia%20Kings%20vs%20Trinbago%20Knight%20Riders.png" group-title="Caribbean Premier League 2026", Saint Lucia Kings vs Trinbago Knight Riders - Willow HD
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz02.playerr03.com:7060/hls/hdwillos5.m3u8?md5=D3LBdvCcdg9enyxxptqOCw&expires=1787790046&ch=hdwillos5&s=e4f6f77adeb2f73c8b5b13d66419842b
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Saint%20Lucia%20Kings%20vs%20Trinbago%20Knight%20Riders.png" group-title="Caribbean Premier League 2026", Saint Lucia Kings vs Trinbago Knight Riders - CricGo 5
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz02.playerr03.com:7060/hls/cricgo5.m3u8?md5=k8DDSRK1DjDwY91OGFV9EA&expires=1787790049&ch=cricgo5&s=706180c78bdc55dc025802e12f5ccfd8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Saint%20Lucia%20Kings%20vs%20Trinbago%20Knight%20Riders.png" group-title="Caribbean Premier League 2026", Saint Lucia Kings vs Trinbago Knight Riders - TNT Cricket
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz02.playerr03.com:7060/hls/bbtsip1.m3u8?md5=-SLExUNbFDPQ5JhPZUtmPA&expires=1787790052&ch=bbtsip1&s=f6eff3c3e3d853ff5cfd90f412fc3747
+
+# --- 24/7 Channels ---
