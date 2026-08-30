@@ -5,5 +5,28 @@
 #online channels: 0
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 08:32:37 AM 30-08-2026
+#last update time: 09:02:31 AM 30-08-2026
 
+# --- Cricket Live Events ---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Trinbago%20Knight%20Riders%20vs%20Jamaica%20Kingsmen.png" group-title="Caribbean Premier League 2026", Trinbago Knight Riders vs Jamaica Kingsmen - Willow Cricket
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz02.playerr03.com:7060/hls/willowsd.m3u8?md5=VYox8CbyoAiS6vmqRkcWRg&expires=1788063636&ch=willowsd&s=7fc4a635b863a1c1527ee3927b892dfb
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Trinbago%20Knight%20Riders%20vs%20Jamaica%20Kingsmen.png" group-title="Caribbean Premier League 2026", Trinbago Knight Riders vs Jamaica Kingsmen - Star Sports 2
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz02.playerr03.com:7060/hls/star2cl5.m3u8?md5=vORIsSGAReOjb0jfHbDvLQ&expires=1788063638&ch=star2cl5&s=cd3e4da2173f08f049c6810b91e54b4e
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Trinbago%20Knight%20Riders%20vs%20Jamaica%20Kingsmen.png" group-title="Caribbean Premier League 2026", Trinbago Knight Riders vs Jamaica Kingsmen - Willow HD
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz01.playerr03.com:7060/hls/hdwillos5.m3u8?md5=lDlkDOSfWVlUSPUEXCqDzQ&expires=1788063641&ch=hdwillos5&s=0192f4d07a0e208bf6c3f4be2b73e7d5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Trinbago%20Knight%20Riders%20vs%20Jamaica%20Kingsmen.png" group-title="Caribbean Premier League 2026", Trinbago Knight Riders vs Jamaica Kingsmen - CricGo 5
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz02.playerr03.com:7060/hls/cricgo5.m3u8?md5=B1-Tii4-C61KL4zO1M1Q8A&expires=1788063644&ch=cricgo5&s=7118d1054c5a03eafd80f7820ba5bfff
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Trinbago%20Knight%20Riders%20vs%20Jamaica%20Kingsmen.png" group-title="Caribbean Premier League 2026", Trinbago Knight Riders vs Jamaica Kingsmen - TNT Cricket
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz02.playerr03.com:7060/hls/bbtsip1.m3u8?md5=Mt1wujVgTi3LNI7GQa7X7w&expires=1788063646&ch=bbtsip1&s=c38e0cc290bab4588d9d9f107a80492e
+
+# --- 24/7 Channels ---
