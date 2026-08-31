@@ -5,5 +5,28 @@
 #online channels: 0
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 01:32:38 AM 01-09-2026
+#last update time: 02:02:37 AM 01-09-2026
 
+# --- Cricket Live Events ---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Trinbago%20Knight%20Riders%20vs%20Guyana%20Amazon%20Warriors.png" group-title="Caribbean Premier League 2026", Trinbago Knight Riders vs Guyana Amazon Warriors - Willow Cricket
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz02.playerr03.com:7060/hls/willowsd.m3u8?md5=aAKG8uKvJ1g61C-bCtFd_w&expires=1788211241&ch=willowsd&s=6149e95134c2e4963ba02e81413c7016
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Trinbago%20Knight%20Riders%20vs%20Guyana%20Amazon%20Warriors.png" group-title="Caribbean Premier League 2026", Trinbago Knight Riders vs Guyana Amazon Warriors - Star Sports 2
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz02.playerr03.com:7060/hls/star2cl5.m3u8?md5=CmjyH9SF8tH0W5C3Q2xuow&expires=1788211244&ch=star2cl5&s=c3e479230afa9003b17a1e897bf430a5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Trinbago%20Knight%20Riders%20vs%20Guyana%20Amazon%20Warriors.png" group-title="Caribbean Premier League 2026", Trinbago Knight Riders vs Guyana Amazon Warriors - Willow HD
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz01.playerr03.com:7060/hls/hdwillos5.m3u8?md5=EOaoYmSeJ-306DalnyaHzg&expires=1788211248&ch=hdwillos5&s=bae6e912290280412598c630251bbbeb
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Trinbago%20Knight%20Riders%20vs%20Guyana%20Amazon%20Warriors.png" group-title="Caribbean Premier League 2026", Trinbago Knight Riders vs Guyana Amazon Warriors - CricGo 5
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz01.playerr03.com:7060/hls/cricgo5.m3u8?md5=M7LsK8W5p4Bsmxp1dGrHBg&expires=1788211252&ch=cricgo5&s=67b8dff9a0794876d1bd8e945215d789
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Trinbago%20Knight%20Riders%20vs%20Guyana%20Amazon%20Warriors.png" group-title="Caribbean Premier League 2026", Trinbago Knight Riders vs Guyana Amazon Warriors - TNT Cricket
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz01.playerr03.com:7060/hls/bbtsip1.m3u8?md5=TrkAD3jzOAFa8ct4Jmh85A&expires=1788211255&ch=bbtsip1&s=84e94ad77d131338b7962df6df3ced4c
+
+# --- 24/7 Channels ---
