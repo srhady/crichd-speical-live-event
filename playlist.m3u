@@ -5,5 +5,12 @@
 #online channels: 0
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 04:32:27 PM 31-08-2026
+#last update time: 05:02:30 PM 31-08-2026
 
+# --- Cricket Live Events ---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Namibia%20vs%20Zimbabwe.png" group-title="Namibia T20I Tri-Series 2026", Namibia vs Zimbabwe - CricGo 2
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz01.playerr03.com:7060/hls/cricgo2.m3u8?md5=4RSyu5e-tdVF2tH8_x5jCA&expires=1788178839&ch=cricgo2&s=af02c95baec8e2b64a0ac816d9de41f7
+
+# --- 24/7 Channels ---
