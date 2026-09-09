@@ -5,32 +5,32 @@
 #online channels: 0
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 03:32:54 PM 09-09-2026
+#last update time: 04:03:13 PM 09-09-2026
 
 # --- Cricket Live Events ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/South%20Africa%20vs%20Namibia.png" group-title="South Africa tour of Namibia, 2026", South Africa vs Namibia - CricGo 2
 #EXTVLCOPT:http-referrer=https://playerr03.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz02.playerr03.com:7060/hls/cricgo2.m3u8?md5=59bOi3hHOPOzWrEReQ6BmA&expires=1788949237&ch=cricgo2&s=56cefeec37aac6d2001134c319068f67
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20Pakistan.png" group-title="Pakistan tour of England 2026", England vs Pakistan - Willow Cricket
+https://mz02.playerr03.com:7060/hls/cricgo2.m3u8?md5=y6kAYE6DViY__8f8H45qiQ&expires=1788952835&ch=cricgo2&s=91104273f336fe99d72646f0d82ec9aa
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20England.png" group-title="Pakistan tour of England 2026", Pakistan vs England - Willow Cricket
 #EXTVLCOPT:http-referrer=https://playerr03.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz02.playerr03.com:7060/hls/willowsd.m3u8?md5=cBfG2PTIHhO2ovywTw0aIQ&expires=1788949240&ch=willowsd&s=062f66761320e024181bcda73a102186
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20Pakistan.png" group-title="Pakistan tour of England 2026", England vs Pakistan - PTV Sports
+https://mz01.playerr03.com:7060/hls/willowsd.m3u8?md5=jz7yB-8VbcodxQKTL3EZzA&expires=1788952838&ch=willowsd&s=17f726090322281dfbb3bac8e4a91ec9
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20England.png" group-title="Pakistan tour of England 2026", Pakistan vs England - PTV Sports
 #EXTVLCOPT:http-referrer=https://playerr03.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz02.playerr03.com:7060/hls/ptvskpr.m3u8?md5=4fHsTgQsNws4ilLlp1afIw&expires=1788949243&ch=ptvskpr&s=a88400fbea82abe2514cea775abda6d2
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20Pakistan.png" group-title="Pakistan tour of England 2026", England vs Pakistan - Willow HD
+https://mz02.playerr03.com:7060/hls/ptvskpr.m3u8?md5=rhdLiBVpTyn6qLbiBcAU8Q&expires=1788952844&ch=ptvskpr&s=618e76c211e040bd9d28b713e67f11e9
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20England.png" group-title="Pakistan tour of England 2026", Pakistan vs England - Willow HD
 #EXTVLCOPT:http-referrer=https://playerr03.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz01.playerr03.com:7060/hls/hdwillos5.m3u8?md5=qUYHWRs7sxjCmQ5jjjpVkQ&expires=1788949246&ch=hdwillos5&s=f4f3293de6f424a49cf240301bd85cde
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20Pakistan.png" group-title="Pakistan tour of England 2026", England vs Pakistan - CricGo 1
+https://mz02.playerr03.com:7060/hls/hdwillos5.m3u8?md5=Zv7JleK6tojzalp2rrwEbQ&expires=1788952846&ch=hdwillos5&s=c2df19ef06912d03f2be34b2149fd273
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20England.png" group-title="Pakistan tour of England 2026", Pakistan vs England - CricGo 1
 #EXTVLCOPT:http-referrer=https://playerr03.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz02.playerr03.com:7060/hls/cricgo1.m3u8?md5=j7H11_djj2ktq9saGO2t-A&expires=1788949249&ch=cricgo1&s=a7648c46f4507a03dcbecc99924eed50
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20Pakistan.png" group-title="Pakistan tour of England 2026", England vs Pakistan - Sky Cricket
+https://mz01.playerr03.com:7060/hls/cricgo1.m3u8?md5=fDRzMbtw4iuYWG7PcjxteA&expires=1788952849&ch=cricgo1&s=01f565908368490169c9f4f28f78f1c8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20England.png" group-title="Pakistan tour of England 2026", Pakistan vs England - Sky Cricket
 #EXTVLCOPT:http-referrer=https://playerr03.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz02.playerr03.com:7060/hls/dodosky2.m3u8?md5=WTGHsG0HScZ9Z3GMVyAj9Q&expires=1788949257&ch=dodosky2&s=b53650bf2c68de6e32150fb1a6b42c91
+https://mz01.playerr03.com:7060/hls/dodosky2.m3u8?md5=0_OM3YODqP3iZ_7DSfpxNQ&expires=1788952852&ch=dodosky2&s=2196339a08fe7ec75e70f97dbd3c68dc
 
 # --- 24/7 Channels ---
