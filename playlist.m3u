@@ -5,5 +5,16 @@
 #online channels: 0
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:32:57 PM 15-09-2026
+#last update time: 01:03:12 PM 15-09-2026
 
+# --- Cricket Live Events ---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Zimbabwe%20vs%20Australia.png" group-title="Australia tour of Zimbabwe 2026", Zimbabwe vs Australia - CricGo 2
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz01.playerr03.com:7060/hls/cricgo2.m3u8?md5=ac3EBCNO0-C-dkLR8xnt_Q&expires=1789460435&ch=cricgo2&s=38cfa1ff83125ff3d38c8ce7ccf667da
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Zimbabwe%20vs%20Australia.png" group-title="Australia tour of Zimbabwe 2026", Zimbabwe vs Australia - Fox Cricket
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz01.playerr03.com:7060/hls/cf0sp1.m3u8?md5=IzlyINjVGnfRapzy8mXAxw&expires=1789460437&ch=cf0sp1&s=003b11cc3c58f82f1efb715565641894
+
+# --- 24/7 Channels ---
