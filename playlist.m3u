@@ -5,5 +5,28 @@
 #online channels: 0
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 09:32:17 AM 26-09-2026
+#last update time: 10:02:14 AM 26-09-2026
 
+# --- Cricket Live Events ---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Malaysia%20vs%20Oman.png" group-title="Asian Games 2026", Malaysia vs Oman - Willow Cricket
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz01.bhalocast.com:7060/hls/willowsd.m3u8?md5=43RCUZEbNw-R1_bI3yOtJw&expires=1790400032&ch=willowsd&s=1414d6f7c3289996bdec1e3334a4c337
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Malaysia%20vs%20Oman.png" group-title="Asian Games 2026", Malaysia vs Oman - Willow Xtra
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz02.bhalocast.com:7060/hls/wextres5.m3u8?md5=mwHS18vQeVuhpo-y2wQEFw&expires=1790400035&ch=wextres5&s=9408ea7f9c68bb9eafbd1d96eef6af4e
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Malaysia%20vs%20Oman.png" group-title="Asian Games 2026", Malaysia vs Oman - Sony Sports Ten 1
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz02.bhalocast.com:7060/hls/ten1co.m3u8?md5=N87rWdQz5mDqMl9g0hJZkw&expires=1790400038&ch=ten1co&s=31b6797505ab266b91e782d523fa118b
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Malaysia%20vs%20Oman.png" group-title="Asian Games 2026", Malaysia vs Oman - Willow HD
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz02.bhalocast.com:7060/hls/hdwillos5.m3u8?md5=oDSEwhPHEg_aSuHhPpYV9A&expires=1790400041&ch=hdwillos5&s=128c812658d52b7739a53a8dcdd2f3b7
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Malaysia%20vs%20Oman.png" group-title="Asian Games 2026", Malaysia vs Oman - CricGo 1
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz02.bhalocast.com:7060/hls/cricgo1.m3u8?md5=scr9pFLDjx7A8QYsWStMYw&expires=1790400043&ch=cricgo1&s=772c120e303dde9367c4c7404c8c33c0
+
+# --- 24/7 Channels ---
