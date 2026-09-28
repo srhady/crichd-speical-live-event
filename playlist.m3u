@@ -5,5 +5,28 @@
 #online channels: 0
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 09:32:18 AM 28-09-2026
+#last update time: 10:02:17 AM 28-09-2026
 
+# --- Cricket Live Events ---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Afghanistan.png" group-title="Asian Games 2026", India vs Afghanistan - Willow Cricket
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz01.bhalocast.com:7060/hls/willowsd.m3u8?md5=RQPqzkMVoQp6O69wZ-RyaA&expires=1790572839&ch=willowsd&s=63b781b58c4df04767818206583309ec
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Afghanistan.png" group-title="Asian Games 2026", India vs Afghanistan - Willow Xtra
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz02.bhalocast.com:7060/hls/wextres5.m3u8?md5=zUEFKjYpHGnqgSex_9kDKw&expires=1790572850&ch=wextres5&s=18c260fb91923f8fff633b5285260e35
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Afghanistan.png" group-title="Asian Games 2026", India vs Afghanistan - Sony Sports Ten 1
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz01.bhalocast.com:7060/hls/ten1co.m3u8?md5=ioVjjfGGRUDnZ8J2NyhiVg&expires=1790572857&ch=ten1co&s=d22b42515fd9b8708c19b89fef55915a
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Afghanistan.png" group-title="Asian Games 2026", India vs Afghanistan - Willow HD
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz02.bhalocast.com:7060/hls/hdwillos5.m3u8?md5=QVEKz7Oae-TCSwFYR7TbPA&expires=1790572862&ch=hdwillos5&s=f24f5b57bd8a348d30e182a7698aad6e
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Afghanistan.png" group-title="Asian Games 2026", India vs Afghanistan - CricGo 1
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz01.bhalocast.com:7060/hls/cricgo1.m3u8?md5=Z0IAyMSUF1Bbyr4w8CHlSA&expires=1790572865&ch=cricgo1&s=4192b325d9d1a13455d5973b180b5336
+
+# --- 24/7 Channels ---
