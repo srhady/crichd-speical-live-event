@@ -5,5 +5,28 @@
 #online channels: 0
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 04:32:51 AM 01-10-2026
+#last update time: 05:02:15 AM 01-10-2026
 
+# --- Cricket Live Events ---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Bangladesh.png" group-title="Asian Games 2026", Pakistan vs Bangladesh - Willow Cricket
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz02.bhalocast.com:7060/hls/willowsd.m3u8?md5=BruGua1spUc39TUDQNrC1g&expires=1790814037&ch=willowsd&s=32de6b22824d1eaccb2317e93f61f709
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Bangladesh.png" group-title="Asian Games 2026", Pakistan vs Bangladesh - Willow Xtra
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz02.bhalocast.com:7060/hls/wextres5.m3u8?md5=elEdG41zqiaN9oUhsEnNQw&expires=1790814040&ch=wextres5&s=e0bb5bdd1529cbcd22b9005599d584ee
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Bangladesh.png" group-title="Asian Games 2026", Pakistan vs Bangladesh - Sony Sports Ten 1
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz01.bhalocast.com:7060/hls/ten1co.m3u8?md5=tq7UqpTg37SuMRo-4YTn4w&expires=1790814043&ch=ten1co&s=4ccd84c9ff30b0f94e6668f18cd82ab4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Bangladesh.png" group-title="Asian Games 2026", Pakistan vs Bangladesh - Willow HD
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz02.bhalocast.com:7060/hls/hdwillos5.m3u8?md5=Fg07yEA99JIhpuhmpd4ikg&expires=1790814049&ch=hdwillos5&s=9152e08f4b1192ae58556f98d3fb77e4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Bangladesh.png" group-title="Asian Games 2026", Pakistan vs Bangladesh - CricGo 1
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz01.bhalocast.com:7060/hls/cricgo1.m3u8?md5=0QPne3DDafvjS_uvxiGuCg&expires=1790814051&ch=cricgo1&s=0d0798ff46c5c6950d2394895522bc53
+
+# --- 24/7 Channels ---
